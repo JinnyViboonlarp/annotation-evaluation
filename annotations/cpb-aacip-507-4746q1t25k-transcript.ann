@@ -1,0 +1,410 @@
+T1	person 32 42	Gwen Ifill
+T2	person 44 54	Jim Lehrer
+T3	program_title 76 84	NewsHour
+T4	person 94 104	Ray Suarez
+T5	organization 155 167	Bush cabinet
+T6	person 253 273	Elizabeth Farnsworth
+T7	location 361 367	Israel
+T8	program_title 424 436	NEWS SUMMARY
+T9	person 450 470	President-elect Bush
+T10	person 524 556	Commerce Secretary Norman Mineta
+T11	organization 570 595	Transportation Department
+T12	organization 620 641	Reagan administration
+T13	person 652 664	Linda Chavez
+T14	location 698 706	Michigan
+T15	person 707 730	Senator Spencer Abraham
+T16	location 1348 1355	America
+T17	program_title 1467 1479	News Summary
+T18	person 1500 1506	Arafat
+T19	person 1516 1533	President Clinton
+T20	location 1541 1552	White House
+T21	location 1587 1591	U.S.
+T22	location 1608 1619	Middle East
+T23	location 1694 1708	East Jerusalem
+T24	location 1774 1780	Israel
+T25	organization 1782 1793	White House
+T26	person 1804 1816	Jake Siewert
+T27	location 2270 2279	Jerusalem
+T28	person 2289 2309	Prime Minister Barak
+T29	location 2456 2460	Gaza
+T30	location 2603 2607	U.S.
+T31	location 2624 2636	Persian Gulf
+T32	location 2662 2674	U.S.S. "Cole
+T33	organization 2691 2699	Pentagon
+T34	location 2867 2871	Cole
+T35	location 2938 2949	Aden, Yemen
+T36	organization 2954 2965	Wall Street
+T37	organization 3049 3077	Dow Jones Industrial Average
+T38	organization 3118 3130	NASDAQ Index
+T39	program_title 3197 3209	News Summary
+T40	organization 3238 3250	Bush cabinet
+T41	person 3268 3276	Ashcroft
+T42	location 3332 3338	Israel
+T43	program_title 3342 3359	FOCUS - NEW FACES
+T44	person 3447 3457	Ray Suarez
+T45	location 3560 3566	Austin
+T46	person 3568 3576	Mr. Bush
+T47	organization 3598 3615	Energy Department
+T48	location 3617 3625	Michigan
+T49	person 3626 3649	Senator Spencer Abraham
+T50	person 3677 3692	Debbie Stabenow
+T51	person 3808 3815	Abraham
+T52	organization 3839 3858	Bush administration
+T53	person 3887 3912	Vice President Dan Quayle
+T54	organization 3950 3967	Energy Department
+T55	person 4384 4396	Linda Chavez
+T56	person 4498 4504	Chavez
+T57	organization 4525 4553	Center for Equal Opportunity
+T58	location 4595 4609	Washington, DC
+T59	organization 4625 4636	White House
+T60	organization 4684 4715	U.S. Commission on Civil Rights
+T61	organization 4723 4744	Reagan administration
+T62	organization 4758 4764	Senate
+T63	location 4770 4778	Maryland
+T64	person 4805 4811	Chavez
+T65	organization 5431 5450	Department of Labor
+T66	person 5579 5592	Norman Mineta
+T67	person 5625 5645	President-elect Bush
+T68	person 5701 5718	President Clinton
+T69	person 5743 5749	Mineta
+T70	person 5791 5797	Mineta
+T71	organization 5868 5883	Lockheed Martin
+T72	location 5928 5938	California
+T73	organization 5966 6016	House Committee on Public Works and Transportation
+T74	organization 6025 6046	Aviation Subcommittee
+T75	person 6048 6054	Mineta
+T76	location 6077 6085	San Jose
+T77	organization 6252 6279	President Clinton's cabinet
+T78	person 7613 7621	Mr. Bush
+T79	organization 7733 7737	OPEC
+T80	organization 7983 7987	OPEC
+T81	organization 8149 8153	OPEC
+T82	location 8728 8739	Middle East
+T83	location 8820 8833	United States
+T84	person 9056 9066	Mr. Mineta
+T85	organization 9281 9289	Congress
+T86	person 9406 9410	Norm
+T87	organization 9907 9919	Capitol Hill
+T88	organization 9941 9947	Senate
+T89	person 9968 9979	Don Nickles
+T90	location 9983 9991	Oklahoma
+T91	person 10037 10047	Harry Reid
+T92	location 10051 10057	Nevada
+T93	person 10079 10094	Senator Nickles
+T94	organization 10324 10330	Senate
+T95	person 10429 10449	President-elect Bush
+T96	person 10530 10541	Norm Mineta
+T97	organization 10580 10585	House
+T98	person 10651 10668	President Clinton
+T99	person 10738 10752	President Bush
+T100	person 10768 10780	Senator Reid
+T101	person 10953 10968	Secretary Cohen
+T102	location 11004 11011	America
+T103	person 11074 11085	Norm Mineta
+T104	location 11185 11192	America
+T105	person 11263 11274	Norm Mineta
+T106	organization 11334 11339	House
+T107	person 11796 11806	Bill Cohen
+T108	person 12138 12149	Norm Mineta
+T109	person 12346 12352	Mineta
+T110	person 12504 12519	Senator Nickles
+T111	person 12713 12733	President-elect Bush
+T112	person 12807 12819	Colin Powell
+T113	person 12821 12833	Don Rumsfeld
+T114	person 12835 12847	Paul O'Neill
+T115	person 12879 12890	Norm Mineta
+T116	person 12908 12920	Senator Reid
+T117	location 13306 13313	America
+T118	person 13463 13467	Bush
+T119	organization 14377 14385	Congress
+T120	organization 14513 14521	Pentagon
+T121	organization 14528 14536	Congress
+T122	organization 14568 14576	Congress
+T123	organization 14579 14588	Democrats
+T124	organization 14593 14604	Republicans
+T125	person 14680 14695	Senator Nickles
+T126	person 15054 15066	Don Rumsfeld
+T127	person 15091 15103	Paul O'Neill
+T128	person 15107 15120	John Ashcroft
+T129	person 15279 15291	Senator Reid
+T130	person 15331 15334	Ray
+T131	organization 15420 15426	Senate
+T132	person 15776 15788	Linda Chavez
+T133	person 15968 15972	Bork
+T134	person 16015 16019	Bork
+T135	organization 16020 16033	Supreme Court
+T136	person 16235 16246	Gale Norton
+T137	person 16290 16304	Secretary Watt
+T138	person 16426 16439	John Ashcroft
+T139	person 16575 16587	Ronnie White
+T140	person 17018 17038	President-elect Bush
+T141	organization 17198 17204	Senate
+T142	person 17248 17252	Bush
+T143	person 17410 17425	Senator Nickles
+T144	organization 17456 17472	Democratic Party
+T145	person 17703 17706	Ray
+T146	person 17940 17953	John Ashcroft
+T147	person 17962 17975	John Ashcroft
+T148	location 18200 18208	Missouri
+T149	location 18308 18327	Judiciary Committee
+T150	person 18410 18421	Gale Norton
+T151	person 18576 18596	President-elect Bush
+T152	person 18768 18772	Bork
+T153	person 18786 18790	Bork
+T154	organization 19020 19026	Senate
+T155	person 19619 19631	Senator Reid
+T156	person 20095 20107	Senator Reid
+T157	person 20255 20258	Don
+T158	organization 20431 20442	White House
+T159	organization 20844 20854	Washington
+T160	organization 21005 21014	Democrats
+T161	organization 21019 21030	Republicans
+T162	person 21077 21089	Senator Reid
+T163	person 21091 21106	Senator Nickles
+T164	program_title 21174 21182	NewsHour
+T165	person 21196 21204	Ashcroft
+T166	program_title 21264 21293	FOCUS - CONFIRMATION CONFLICT
+T167	person 21431 21444	John Ashcroft
+T168	person 21602 21622	President-elect Bush
+T169	person 21783 21791	Ashcroft
+T170	organization 21895 21901	Senate
+T171	location 21914 21922	Missouri
+T172	person 21923 21944	Governor Mel Carnahan
+T173	person 21999 22007	Carnahan
+T174	person 22017 22021	Jean
+T175	location 22097 22105	Missouri
+T176	person 22292 22305	Mrs. Carnahan
+T177	person 22321 22329	Ashcroft
+T178	location 22367 22375	Missouri
+T179	organization 22396 22402	Senate
+T180	person 22562 22570	Ashcroft
+T181	person 22658 22670	Ronnie White
+T182	organization 22674 22696	Missouri Supreme Court
+T183	person 22718 22735	President Clinton
+T184	person 22939 22955	Senator Ashcroft
+T185	person 23149 23154	David
+T186	person 23423 23436	John Ashcroft
+T187	location 23501 23508	America
+T188	location 23629 23637	Missouri
+T189	location 23685 23693	Missouri
+T190	location 23703 23716	United States
+T191	location 23741 23749	Missouri
+T192	person 24098 24114	Senator Ashcroft
+T193	organization 24140 24146	Senate
+T194	person 24185 24193	Ashcroft
+T195	person 24250 24264	Kate Michelman
+T196	organization 24285 24290	NARAL
+T197	organization 24296 24351	National Abortion and Reproductive Rights Action League
+T198	person 24353 24365	Elaine Jones
+T199	organization 24389 24413	NAACP Legal Defense Fund
+T200	person 24415 24427	Clint Bolick
+T201	organization 24462 24483	Institute for Justice
+T202	person 24489 24499	Ken Conner
+T203	organization 24520 24543	Family Research Council
+T204	person 24547 24559	Elaine Jones
+T205	person 24599 24612	John Ashcroft
+T206	person 24762 24766	Gwen
+T207	person 24848 24861	John Ashcroft
+T208	person 25158 25171	John Ashcroft
+T209	person 25558 25570	Clint Bolick
+T210	person 25572 25584	Elaine Jones
+T211	person 25707 25720	John Ashcroft
+T212	location 25856 25864	Missouri
+T213	person 25925 25942	President Clinton
+T214	person 25989 26001	Ronnie White
+T215	organization 26036 26056	United States Senate
+T216	person 26086 26098	Jim Jeffords
+T217	person 26103 26116	Arlen Specter
+T218	person 26145 26162	President Clinton
+T219	person 26187 26205	Martin Luther King
+T220	location 26226 26234	Missouri
+T221	organization 26317 26335	Justice Department
+T222	person 26382 26394	Elaine Jones
+T223	person 26536 26549	John Ashcroft
+T224	person 26565 26575	Ken Conner
+T225	person 26646 26659	John Ashcroft
+T226	person 26983 26999	Senator Ashcroft
+T227	organization 27126 27144	Justice Department
+T228	organization 27196 27218	Clinton administration
+T229	organization 27397 27413	Senator Ashcroft
+T230	publication_title 27595 27610	Roe versus Wade
+T231	publication_title 27804 27819	Roe versus Wade
+T232	organization 27824 27858	Supreme Court of the United States
+T233	publication_title 27872 27884	Constitution
+T234	person 27983 27999	Senator Ashcroft
+T235	person 28154 28168	Kate Michelman
+T236	person 28173 28186	John Ashcroft
+T237	person 28287 28307	President-elect Bush
+T238	person 28396 28409	John Ashcroft
+T239	publication_title 28547 28562	Roe versus Wade
+T240	publication_title 28651 28666	Roe versus Wade
+T241	publication_title 28757 28772	Roe versus Wade
+T242	person 28824 28840	Justice Blackman
+T243	publication_title 28852 28855	Roe
+T244	publication_title 28882 28885	Roe
+T245	person 29046 29059	John Ashcroft
+T246	publication_title 29600 29615	Roe versus Wade
+T247	person 29760 29772	Clint Bolick
+T248	publication_title 29840 29859	Dred Scott decision
+T249	publication_title 29890 29912	Plessy versus Ferguson
+T250	person 30083 30099	Senator Ashcroft
+T251	person 30388 30419	Attorney General-elect Ashcroft
+T252	person 30513 30529	Senator Ashcroft
+T253	location 30954 30967	United States
+T254	person 31059 31071	Clint Bolick
+T255	person 31113 31125	Ronnie White
+T256	person 31161 31173	Ronnie White
+T257	location 31207 31215	Missouri
+T258	location 31422 31435	United States
+T259	organization 31444 31465	Department of Justice
+T260	person 31605 31617	Ronnie White
+T261	organization 31663 31688	Supreme Court of Missouri
+T262	organization 31725 31751	Senate Judiciary Committee
+T263	person 31813 31829	Senator Ashcroft
+T264	person 31973 31991	Judge Ronnie white
+T265	person 32050 32055	Clint
+T266	person 32085 32101	Senator Ashcroft
+T267	person 32227 32239	Ronnie White
+T268	person 32343 32356	John Ashcroft
+T269	organization 32399 32409	Washington
+T270	person 32475 32488	John Ashcroft
+T271	organization 32596 32606	Washington
+T272	person 32908 32920	Ronnie White
+T273	person 32995 33008	John Ashcroft
+T274	organization 33071 33104	Western District Court of Appeals
+T275	organization 33260 33276	Democratic Party
+T276	person 33316 33324	Ashcroft
+T277	person 33462 33472	Ken Conner
+T278	person 33497 33510	john Ashcroft
+T279	publication_title 34034 34049	First Amendment
+T280	person 34174 34190	Senator Ashcroft
+T281	organization 34581 34599	Justice Department
+T282	organization 34698 34706	Congress
+T283	publication_title 35043 35055	Constitution
+T284	publication_title 35213 35225	Constitution
+T285	organization 35263 35271	Founders
+T286	publication_title 35339 35354	Roe versus Wade
+T287	organization 35448 35482	Supreme Court of the United States
+T288	person 35498 35512	Kate Michelman
+T289	person 35683 35703	President-elect Bush
+T290	organization 36127 36145	Justice Department
+T291	person 36178 36184	Elaine
+T292	organization 36330 36343	Supreme Court
+T293	person 36655 36666	George Bush
+T294	person 37052 37065	John Ashcroft
+T295	person 37213 37225	Elaine Jones
+T296	person 37247 37259	Clint Bolick
+T297	person 37285 37298	John Ashcroft
+T298	person 37741 37754	John Ashcroft
+T299	person 38112 38124	Clint Bolick
+T300	person 38261 38274	John Ashcroft
+T301	person 38319 38332	Governor Bush
+T302	person 38344 38357	John Ashcroft
+T303	person 38383 38396	Governor Bush
+T304	location 38429 38434	Texas
+T305	person 38480 38493	john Ashcroft
+T306	person 38768 38773	Clint
+T307	organization 38790 38801	U.S. Senate
+T308	person 38889 38899	Ray Suarez
+T309	program_title 38982 39011	SECOND LOOK - UNSETTLED LIVES
+T310	location 39083 39094	Middle East
+T311	location 39117 39127	Camp David
+T312	person 39140 39160	Elizabeth Farnsworth
+T313	location 39173 39179	Israel
+T314	location 39185 39194	West Bank
+T315	location 39199 39203	Gaza
+T316	location 39383 39394	Middle East
+T317	person 39537 39551	Rasslan Sukkar
+T318	location 39557 39562	Jaffa
+T319	location 39578 39584	Israel
+T320	location 39633 39638	Jaffa
+T321	location 39771 39775	Gaza
+T322	location 39809 39819	Beach Camp
+T323	organization 39897 39911	United Nations
+T324	person 40142 40149	Sukkars
+T325	location 40273 40278	Jaffa
+T326	location 40369 40376	Sukkars
+T327	location 40464 40470	Europe
+T328	location 40479 40490	Middle East
+T329	person 40492 40502	Yuli Tamir
+T330	person 40533 40558	Prime Minister Ehud Barak
+T331	location 40615 40621	Europe
+T332	location 40643 40649	Poland
+T333	location 40657 40664	Germany
+T334	location 40671 40685	Czechoslovakia
+T335	location 40766 40770	Gaza
+T336	person 40776 40789	Sukkar family
+T337	person 40998 41012	Rasslan Sukkar
+T338	location 41057 41069	Jaffa Harbor
+T339	location 41160 41185	Jewish State in Palestine
+T340	location 41307 41312	Egypt
+T341	location 41367 41371	Gaza
+T342	organization 41377 41379	UN
+T343	location 41545 41550	Jaffa
+T344	location 42081 42086	Jaffa
+T345	location 42112 42117	Jaffa
+T346	location 42142 42150	Tel Aviv
+T347	person 42184 42191	Sukkars
+T348	location 42193 42197	Gaza
+T349	location 42229 42248	Mediterranean coast
+T350	location 42277 42282	Jaffa
+T351	location 42428 42441	port of Jaffa
+T352	person 42490 42497	Sukkars
+T353	person 42762 42774	Fakhri Geday
+T354	person 42854 42859	Geday
+T355	location 42875 42880	Jaffa
+T356	person 42937 42944	Sukkars
+T357	location 43076 43081	Jaffa
+T358	location 43093 43101	Tel Aviv
+T359	person 43136 43141	Geday
+T360	location 43180 43185	Jaffa
+T361	person 43201 43208	Sukkars
+T362	person 43418 43429	Sewkawalski
+T363	person 43511 43523	Etti Barchil
+T364	location 43695 43699	Iran
+T365	person 44199 44209	Gaby Aldor
+T366	organization 44269 44294	Israeli Housing Authority
+T367	person 44358 44363	Aldor
+T368	location 44383 44389	Europe
+T369	event 44441 44450	Holocaust
+T370	location 44798 44804	Vienna
+T371	person 45185 45190	Aldor
+T372	person 45225 45232	Sukkars
+T373	location 45446 45452	Vienna
+T374	location 45537 45543	Vienna
+T375	person 45590 45600	Gaby Aldor
+T376	location 45661 45666	Jaffa
+T377	person 45765 45787	Cabinet Minister Tamir
+T378	location 46049 46060	Middle East
+T379	location 46165 46171	Israel
+T380	location 46173 46179	Israel
+T381	person 46414 46426	Salim Tamari
+T382	location 46621 46626	Jaffa
+T383	location 47362 47369	Morocco
+T384	location 47373 47380	Tunisia
+T385	location 47384 47391	Algeria
+T386	location 47398 47403	Syria
+T387	location 47411 47416	Egypt
+T388	location 47562 47574	Orient House
+T389	location 47627 47639	E. Jerusalem
+T390	organization 47747 47761	Ottoman Empire
+T391	person 48003 48009	Tamari
+T392	location 48491 48497	Israel
+T393	location 48591 48597	Israel
+T394	location 48760 48766	Israel
+T395	location 48977 48987	Camp David
+T396	location 49218 49231	United States
+T397	location 49233 49239	Europe
+T398	person 49332 49345	Sukkar family
+T399	location 49349 49353	Gaza
+T400	location 49810 49814	Gaza
+T401	location 49820 49829	West Bank
+T402	location 49837 49843	Israel
+T403	program_title 49896 49901	RECAP
+T404	person 49957 49977	President-elect Bush
+T405	person 50077 50083	Arafat
+T406	person 50093 50110	President Clinton
+T407	location 50118 50129	White House
+T408	location 50157 50161	U.S.
+T409	location 50178 50189	Middle East
+T410	person 50267 50277	Gwen Ifill

@@ -1,0 +1,111 @@
+T1	person 30 64	Energy Secretary James Schlesinger
+T2	location 180 188	New York
+T3	person 190 205	Mr. Schlesinger
+T4	event 344 360	Great Depression
+T5	organization 454 473	United Mine Workers
+T6	location 683 687	Ohio
+T7	location 689 697	Maryland
+T8	location 702 710	Kentucky
+T9	location 760 773	West Virginia
+T10	location 778 786	Virginia
+T11	person 788 826	Mine Workers` President, Arnold Miller
+T12	person 1069 1072	Jim
+T13	person 1087 1092	Robin
+T14	person 1914 1919	Robin
+T15	person 1931 1942	Jerry Jones
+T16	organization 1970 1989	Oldbin Coal Company
+T17	location 1993 1999	Sesser
+T18	location 2022 2030	Illinois
+T19	organization 2087 2139	Local 1124 of District 12 of the United Mine Workers
+T20	person 2192 2201	Mr. Jones
+T21	person 2259 2268	Mr. Jones
+T22	person 2289 2292	Jim
+T23	person 2480 2485	Robin
+T24	person 2786 2802	President Miller
+T25	person 4618 4631	Arnold Miller
+T26	person 4823 4833	Mr. Miller
+T27	person 5078 5091	Harry Patrick
+T28	person 5251 5264	Arnold Miller
+T29	person 5343 5349	Miller
+T30	person 5487 5493	Arnold
+T31	person 5924 5927	Jim
+T32	person 6062 6076	Thomas Bethell
+T33	person 6087 6106	United Mine Workers
+T34	publication_title 6230 6241	Coal Patrol
+T35	person 6270 6281	Mr. Bethell
+T36	organization 7087 7090	UMW
+T37	person 7108 7118	Mr. Miller
+T38	person 7402 7411	Mr. Jones
+T39	organization 7914 7917	UMW
+T40	organization 9174 9187	Supreme Court
+T41	person 9447 9452	Robin
+T42	person 9474 9483	Mr. Jones
+T43	person 9522 9535	Arnold Miller
+T44	person 10028 10038	Mr. Miller
+T45	person 10253 10263	John Hoerr
+T46	publication_title 10282 10295	Business Week
+T47	person 10368 10377	Mr. Hoerr
+T48	organization 10617 10644	Data Resources Incorporated
+T49	person 12161 12172	Tom Bethell
+T50	person 12375 12378	Jim
+T51	organization 12651 12670	United Mine Workers
+T52	organization 12700 12719	United Auto Workers
+T53	organization 12874 12893	United Mine Workers
+T54	location 13558 13568	Appalachia
+T55	person 13700 13711	Mr. Bethell
+T56	person 13762 13771	Mr. Jones
+T57	person 14884 14893	Mr. Jones
+T58	person 15227 15230	Tom
+T59	person 16839 16848	Mr. Hoerr
+T60	person 17793 17797	John
+T61	person 17926 17937	Tom Bethell
+T62	person 18964 18969	Robin
+T63	person 18986 18995	Mr. Jones
+T64	person 19016 19029	Arnold Miller
+T65	location 19301 19309	Illinois
+T66	person 19794 19805	Tom Bethell
+T67	person 21070 21076	Arnold
+T68	location 21142 21152	Washington
+T69	person 21153 21164	Tom Bethell
+T70	person 21316 21321	Robin
+T71	organization 21387 21391	BCOA
+T72	location 21722 21730	Illinois
+T73	location 21746 21759	West Virginia
+T74	person 21844 21855	Tom Bethell
+T75	person 21967 21977	John Hoerr
+T76	person 22500 22509	Mr. Hoerr
+T77	location 22755 22768	West Virginia
+T78	person 23005 23008	Tom
+T79	person 23273 23276	Tom
+T80	person 23509 23512	Tom
+T81	person 23640 23653	John L. Lewis
+T82	organization 23976 23979	UMW
+T83	organization 24013 24016	UMW
+T84	person 24256 24261	Jerry
+T85	organization 24388 24391	UMW
+T86	person 24572 24577	Jerry
+T87	location 24622 24630	Illinois
+T88	location 24735 24743	Illinois
+T89	organization 24776 24779	UMW
+T90	location 24789 24802	West Virginia
+T91	organization 24918 24921	UMW
+T92	organization 25022 25025	UMW
+T93	person 25293 25302	Mr. Hoerr
+T94	person 25448 25451	Tom
+T95	person 25578 25591	John L. Lewis
+T96	organization 25769 25772	UMW
+T97	organization 25867 25870	UMW
+T98	person 25876 25879	Tom
+T99	location 25945 25955	Appalachia
+T100	location 25968 25972	Ohio
+T101	location 25977 25989	Pennsylvania
+T102	organization 26055 26058	UMW
+T103	organization 26165 26168	UMW
+T104	person 26192 26201	Mr. Jones
+T105	organization 26505 26509	BCOA
+T106	organization 26913 26917	BCOA
+T107	location 27031 27041	Washington
+T108	person 27054 27063	Mr. Jones
+T109	person 27077 27080	Jim
+T110	person 27188 27210	Charlayne Hunter-Gault
+T111	program_title 27227 27249	MacNeil/ Lehrer Report

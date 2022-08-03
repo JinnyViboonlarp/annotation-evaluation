@@ -1,0 +1,371 @@
+T1	person 32 42	Jim Lehrer
+T2	program_title 51 59	NewsHour
+T3	organization 73 87	Bosnia mission
+T4	person 89 109	Elizabeth Farnsworth
+T5	person 121 132	Sen. McCain
+T6	location 218 231	United States
+T7	person 290 312	Charlayne Hunter-Gault
+T8	person 322 340	Dr. Christine Byrd
+T9	person 378 390	David Gergen
+T10	person 411 421	Bill Gates
+T11	program_title 477 489	NEWS SUMMARY
+T12	organization 511 522	Republicans
+T13	location 571 575	U.S.
+T14	location 586 592	Bosnia
+T15	person 610 618	Bob Dole
+T16	organization 631 637	Senate
+T17	location 992 1005	United States
+T18	program_title 1305 1317	News Summary
+T19	program_title 1332 1341	Newsmaker
+T20	person 1357 1373	Sen. John McCain
+T21	location 1379 1386	Arizona
+T22	person 1413 1422	Sen. Dole
+T23	organization 1430 1436	Senate
+T24	organization 1457 1462	House
+T25	location 1531 1535	U.S.
+T26	location 1546 1552	Bosnia
+T27	person 1607 1632	Sec. of State Christopher
+T28	person 1634 1652	Defense Sec. Perry
+T29	person 1658 1693	Joint Chiefs Chairman Shalikashvili
+T30	location 1747 1753	Bosnia
+T31	person 1777 1783	McCain
+T32	program_title 1784 1793	Newsmaker
+T33	person 1986 1998	Kwame Holman
+T34	organization 2052 2063	Republicans
+T35	location 2147 2158	White House
+T36	person 2198 2225	House Speaker Newt Gingrich
+T37	location 2309 2319	Washington
+T38	person 2452 2460	Gingrich
+T39	organization 2481 2492	White House
+T40	organization 2604 2615	White House
+T41	organization 2862 2871	Democrats
+T42	organization 3096 3107	White House
+T43	person 3108 3135	Chief of Staff Leon Panetta
+T44	organization 3173 3184	Republicans
+T45	person 3186 3198	LEON PANETTA
+T46	organization 3200 3211	White House
+T47	publication_title 3275 3283	Medicare
+T48	publication_title 3308 3316	Medicaid
+T49	organization 3557 3568	Republicans
+T50	organization 3787 3814	Senate Whitewater Committee
+T51	person 3836 3862	First Lady Hillary Clinton
+T52	event 3996 4018	Vincent Foster suicide
+T53	location 4043 4053	Washington
+T54	location 4070 4081	Little Rock
+T55	person 4098 4110	Mrs. Clinton
+T56	location 4357 4368	White House
+T57	person 4372 4384	Mrs. Clinton
+T58	person 4668 4680	Mrs. Clinton
+T59	person 5166 5188	House Speaker Gingrich
+T60	organization 5202 5229	Federal Election Commission
+T61	organization 5250 5253	FEC
+T62	organization 5278 5315	Republican Political Action Committee
+T63	organization 5323 5328	GOPAC
+T64	organization 5357 5360	FEC
+T65	organization 5366 5371	GOPAC
+T66	person 5388 5396	Gingrich
+T67	organization 5459 5464	GOPAC
+T68	person 5533 5541	Gingrich
+T69	organization 5606 5611	GOPAC
+T70	organization 5776 5779	FEC
+T71	organization 5971 5974	FEC
+T72	person 6047 6059	Bill Clinton
+T73	location 6105 6121	Northern Ireland
+T74	person 6182 6194	Mrs. Clinton
+T75	location 6214 6221	Belfast
+T76	location 6327 6351	Mackie Engineering plant
+T77	event 6458 6466	troubles
+T78	location 6692 6699	Ireland
+T79	location 6744 6751	America
+T80	location 6786 6793	Ireland
+T81	location 6907 6920	United States
+T82	location 7092 7108	Northern Ireland
+T83	person 7284 7292	Clintons
+T84	location 7305 7316	Londonderry
+T85	person 7456 7473	President Clinton
+T86	person 7516 7524	Clintons
+T87	location 7537 7544	Belfast
+T88	location 7627 7647	Nashville, Tennessee
+T89	location 7719 7728	City Hall
+T90	person 7730 7750	Mr. and Mrs. Clinton
+T91	location 7787 7793	Dublin
+T92	organization 7896 7921	National Cancer Institute
+T93	publication_title 7950 7981	New England Journal of Medicine
+T94	location 8209 8226	Pacific Northwest
+T95	location 8257 8273	Washington State
+T96	person 8317 8327	Gov. Lowry
+T97	location 8394 8400	Oregon
+T98	location 8436 8447	Highway 101
+T99	location 8509 8518	Nicaragua
+T100	location 8526 8537	Cerro Negro
+T101	location 8568 8572	Leon
+T102	location 8602 8609	Managua
+T103	program_title 8791 8803	News Summary
+T104	person 8828 8839	Sen. McCain
+T105	location 8841 8847	Bosnia
+T106	location 8862 8866	U.S.
+T107	person 8948 8954	Gergen
+T108	person 8959 8964	Gates
+T109	program_title 8966 8998	FOCUS - BOSNIA MISSION NEWSMAKER
+T110	organization 9017 9031	Bosnia mission
+T111	organization 9133 9139	Senate
+T112	person 9153 9173	Elizabeth Farnsworth
+T113	organization 9208 9214	Senate
+T114	person 9215 9242	Majority Leader Robert Dole
+T115	location 9427 9433	Bosnia
+T116	person 9492 9496	Dole
+T117	person 9512 9523	John McCain
+T118	location 9527 9534	Arizona
+T119	location 9628 9634	Senate
+T120	person 9665 9676	Sen. McCain
+T121	person 9722 9731	Elizabeth
+T122	location 9840 9846	Bosnia
+T123	person 9889 9898	Elizabeth
+T124	organization 10017 10025	Congress
+T125	location 10033 10046	United States
+T126	location 10277 10283	Bosnia
+T127	location 10601 10614	United States
+T128	organization 10786 10799	NATO alliance
+T129	location 10879 10885	Dayton
+T130	location 10923 10929	Bosnia
+T131	person 11155 11164	Sen. Dole
+T132	person 11203 11219	Jean Kirkpatrick
+T133	person 11221 11234	Richard Perle
+T134	person 11236 11251	Brent Scowcroft
+T135	person 11253 11267	Paul Wolfowitz
+T136	person 11269 11284	Zbig Brzezinski
+T137	organization 11374 11391	American military
+T138	location 11543 11550	Somalia
+T139	organization 11840 11864	Armed Services Committee
+T140	person 12238 12247	Elizabeth
+T141	location 12416 12429	United States
+T142	location 12650 12663	United States
+T143	person 12912 12921	Elizabeth
+T144	organization 13360 13366	Senate
+T145	person 13569 13578	Elizabeth
+T146	person 13635 13651	Thomas Jefferson
+T147	organization 13661 13679	United States Navy
+T148	organization 13707 13715	Congress
+T149	person 13750 13766	President Reagan
+T150	location 13792 13799	Grenada
+T151	person 13801 13815	President Bush
+T152	location 13824 13830	Panama
+T153	person 13860 13874	President Bush
+T154	organization 13940 13948	Congress
+T155	location 13978 13990	Persian Gulf
+T156	organization 14624 14632	Congress
+T157	organization 14765 14770	House
+T158	person 15338 15348	Sen. Gramm
+T159	person 15688 15698	Sen. Gramm
+T160	location 15794 15801	Vietnam
+T161	person 15919 15930	Sen. McCain
+T162	location 16004 16011	Vietnam
+T163	person 16165 16174	Elizabeth
+T164	person 16884 16893	Elizabeth
+T165	program_title 16895 16918	FOCUS - MAKING THE CASE
+T166	organization 17018 17032	Bosnia mission
+T167	person 17034 17049	Margaret Warner
+T168	organization 17091 17113	Clinton administration
+T169	organization 17140 17177	House International Affairs Committee
+T170	organization 17208 17230	U.S. mission in Bosnia
+T171	organization 17347 17355	Congress
+T172	person 17362 17379	President Clinton
+T173	location 17412 17416	U.S.
+T174	organization 17441 17445	NATO
+T175	person 17475 17507	Sec. of State Warren Christopher
+T176	location 17608 17614	Bosnia
+T177	location 17742 17755	United States
+T178	organization 17795 17799	NATO
+T179	organization 17825 17829	NATO
+T180	location 17863 17869	Bosnia
+T181	organization 18065 18069	NATO
+T182	location 18074 18080	Europe
+T183	person 18180 18206	Defense Sec. William Perry
+T184	location 18333 18339	Bosnia
+T185	location 18366 18373	Croatia
+T186	person 18421 18426	Perry
+T187	person 18681 18699	Gen. Shalikashvili
+T188	person 18819 18824	Perry
+T189	location 18894 18898	U.S.
+T190	organization 19008 19010	UN
+T191	location 19029 19035	Bosnia
+T192	organization 19365 19376	Republicans
+T193	location 19708 19719	Los Angeles
+T194	location 19721 19729	New York
+T195	location 19731 19738	Chicago
+T196	organization 20028 20036	Pentagon
+T197	organization 20208 20216	Congress
+T198	location 20587 20594	Vietnam
+T199	person 20704 20712	McNamara
+T200	organization 21078 21086	Congress
+T201	organization 21216 21249	House National Security Committee
+T202	organization 21340 21351	Republicans
+T203	location 22114 22118	Hill
+T204	organization 22139 22173	Senate Foreign Relations Committee
+T205	program_title 22210 22218	NewsHour
+T206	location 22239 22252	United States
+T207	person 22302 22308	Gergen
+T208	person 22318 22323	Gates
+T209	program_title 22325 22343	FOCUS - WORLD VIEW
+T210	organization 22396 22418	U.S. mission to Bosnia
+T211	location 22474 22480	Bosnia
+T212	location 22546 22570	United States of America
+T213	person 22688 22700	Ronald Steel
+T214	organization 22748 22781	University of Southern California
+T215	publication_title 22797 22824	Temptations of a Superpower
+T216	person 22826 22838	Donald Kagan
+T217	organization 22864 22879	Yale University
+T218	person 22928 22939	John Lukacs
+T219	location 22976 22982	Europe
+T220	organization 22999 23020	Chestnut Hill College
+T221	location 23024 23036	Philadelphia
+T222	person 23038 23050	Ronald Steel
+T223	location 23102 23115	United States
+T224	location 23143 23149	Bosnia
+T225	location 23259 23272	United States
+T226	location 23305 23311	Bosnia
+T227	location 23874 23887	United States
+T228	location 23974 23987	United States
+T229	organization 24159 24178	American government
+T230	location 24309 24322	United States
+T231	location 24645 24658	United States
+T232	organization 24701 24705	NATO
+T233	location 24756 24769	United States
+T234	person 24821 24833	Prof. Lukacs
+T235	location 24971 24984	United States
+T236	location 25086 25098	Philadelphia
+T237	location 25184 25197	United States
+T238	location 25245 25255	Yugoslavia
+T239	location 25395 25401	Dayton
+T240	location 25500 25513	United States
+T241	location 25538 25551	United States
+T242	person 25732 25743	Sen. McCain
+T243	location 25966 25979	United States
+T244	person 26089 26100	Prof. Kagan
+T245	location 26176 26184	Stamford
+T246	organization 26262 26266	NATO
+T247	location 26616 26629	United States
+T248	location 26707 26720	United States
+T249	organization 26790 26794	NATO
+T250	organization 27170 27174	NATO
+T251	organization 27255 27259	NATO
+T252	person 27261 27272	Prof. Kagan
+T253	organization 27281 27285	NATO
+T254	location 27302 27308	Bosnia
+T255	location 27314 27319	Haiti
+T256	location 27326 27333	Somalia
+T257	location 27372 27385	United States
+T258	organization 27781 27793	Soviet Union
+T259	event 27810 27818	Cold War
+T260	location 28484 28490	Bosnia
+T261	organization 28620 28624	NATO
+T262	location 28691 28697	Europe
+T263	event 28728 28736	Cold War
+T264	organization 28855 28859	NATO
+T265	location 28950 28963	United States
+T266	location 29300 29306	Europe
+T267	location 29336 29342	Europe
+T268	location 29392 29398	Europe
+T269	event 29502 29513	World War I
+T270	event 29539 29551	World War II
+T271	organization 29703 29707	NATO
+T272	organization 29717 29721	NATO
+T273	location 29772 29778	Bosnia
+T274	location 29792 29805	United States
+T275	organization 29827 29831	NATO
+T276	location 29847 29860	United States
+T277	location 29911 29924	United States
+T278	location 30112 30125	United States
+T279	location 30838 30845	Vietnam
+T280	location 30847 30852	Korea
+T281	location 31163 31176	United States
+T282	person 31355 31367	Prof. Lukacs
+T283	location 31865 31871	Bosnia
+T284	organization 32404 32408	NATO
+T285	organization 32414 32428	United Nations
+T286	organization 32438 32456	European Community
+T287	event 32534 32550	Second World War
+T288	organization 32640 32644	NATO
+T289	organization 32646 32650	NATO
+T290	organization 32658 32692	North Atlantic Treaty Organization
+T291	location 32708 32722	North Atlantic
+T292	location 32739 32745	Bosnia
+T293	person 32795 32807	Mr. Atchison
+T294	location 32817 32823	Greece
+T295	location 32828 32834	Turkey
+T296	organization 32840 32844	NATO
+T297	organization 32902 32916	United Nations
+T298	organization 33028 33046	European Community
+T299	location 33193 33206	United States
+T300	location 33277 33283	Europe
+T301	location 33339 33345	Europe
+T302	location 33408 33421	United States
+T303	location 33496 33502	Europe
+T304	location 33622 33628	Bosnia
+T305	person 33760 33771	Prof. Kagan
+T306	location 33805 33818	United States
+T307	location 33855 33861	Bosnia
+T308	person 34520 34530	Mr. Lukacs
+T309	organization 34751 34755	NATO
+T310	organization 34979 34991	Soviet Union
+T311	organization 35054 35058	NATO
+T312	person 35377 35389	Ronald Steel
+T313	organization 35404 35408	NATO
+T314	organization 35423 35425	UN
+T315	location 35497 35510	United States
+T316	organization 35585 35589	NATO
+T317	event 35675 35683	Cold War
+T318	location 35710 35723	United States
+T319	organization 35781 35785	NATO
+T320	location 35944 35957	United States
+T321	organization 36027 36031	NATO
+T322	event 36142 36153	Bosnian war
+T323	organization 36226 36230	NATO
+T324	location 36307 36320	United States
+T325	location 36510 36516	Europe
+T326	location 36754 36760	Bosnia
+T327	location 37004 37010	Dayton
+T328	organization 37452 37460	Congress
+T329	location 37596 37609	United States
+T330	event 37678 37686	Cold War
+T331	person 37696 37707	Prof. Kagan
+T332	location 37768 37781	United States
+T333	location 37996 38009	United States
+T334	location 38089 38102	United States
+T335	location 38412 38418	Bosnia
+T336	location 38515 38521	Europe
+T337	location 38740 38746	Europe
+T338	program_title 39067 39089	UPDATE - BREAST CANCER
+T339	person 39133 39155	Charlayne Hunter-Gault
+T340	publication_title 39555 39586	New England Journal of Medicine
+T341	person 39681 39699	Dr. Christine Berg
+T342	organization 39758 39794	Georgetown University Medical Center
+T343	person 39800 39808	Dr. Berg
+T344	person 39989 39998	Charlayne
+T345	organization 41396 41437	National Surgical Adjuvant Breast Project
+T346	organization 41439 41444	NSABP
+T347	location 41501 41509	Montreal
+T348	organization 42902 42927	National Cancer Institute
+T349	publication_title 43441 43472	New England Journal of Medicine
+T350	organization 43525 43530	NSABP
+T351	person 44296 44304	Dr. Berg
+T352	program_title 44375 44383	DIALOGUE
+T353	person 44417 44423	Gergen
+T354	person 44434 44446	David Gergen
+T355	publication_title 44468 44492	U.S. News & World Report
+T356	organization 44503 44512	Microsoft
+T357	person 44522 44532	Bill Gates
+T358	person 44534 44539	Gates
+T359	publication_title 44552 44566	The Road Ahead
+T360	person 44662 44671	Mr. Gates
+T361	publication_title 47080 47089	USA Today
+T362	publication_title 48785 48804	Wall Street Journal
+T363	location 49150 49157	Detroit
+T364	location 52087 52100	United States
+T365	program_title 54621 54626	RECAP
+T366	organization 54691 54702	Republicans
+T367	location 54740 54744	U.S.
+T368	location 54755 54761	Bosnia
+T369	location 54832 54838	Bosnia
+T370	organization 54851 54863	Capitol Hill
+T371	person 55024 55034	Jim Lehrer

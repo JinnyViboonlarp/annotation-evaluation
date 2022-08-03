@@ -1,0 +1,58 @@
+T1	location 58 66	Brooklyn
+T2	person 1399 1402	Jim
+T3	person 1417 1422	Robin
+T4	product 1584 1608	Scholastic Aptitude Test
+T5	product 1612 1615	SAT
+T6	organization 1670 1691	Ohio State University
+T7	person 3668 3685	Dr. James Scanlon
+T8	organization 3724 3746	University of Illinois
+T9	person 3788 3799	Dr. Scanlon
+T10	event 4237 4246	Watergate
+T11	person 4250 4260	Mayor Daly
+T12	event 4352 4361	Watergate
+T13	organization 4377 4380	NCT
+T14	event 4461 4470	Watergate
+T15	event 4690 4699	Watergate
+T16	person 4704 4714	mayor Daly
+T17	organization 7043 7051	Berkeley
+T18	organization 7053 7058	Texas
+T19	organization 7148 7155	Harvard
+T20	organization 7160 7167	Cornell
+T21	person 7526 7531	Robin
+T22	person 9131 9146	Dr. Jasper Neel
+T23	organization 9191 9218	Modern Language Association
+T24	location 9222 9230	New York
+T25	organization 9270 9293	University of Tennessee
+T26	organization 9301 9318	Baylor University
+T27	person 9321 9329	Dr. Neel
+T28	product 11683 11686	SAT
+T29	organization 13101 13105	Yale
+T30	organization 13680 13698	Cornell University
+T31	organization 13820 13844	Bay Area Writing Project
+T32	person 13929 13939	James Gray
+T33	location 14014 14022	Berkeley
+T34	organization 14037 14061	University of California
+T35	person 14064 14072	Mr. Gray
+T36	organization 16879 16887	Berkeley
+T37	person 18487 18490	Jim
+T38	person 18626 18633	MacNeil
+T39	person 19749 19760	Dr. Scanlon
+T40	product 22166 22169	ACT
+T41	product 22211 22214	ACT
+T42	person 22503 22511	Dr. Neel
+T43	person 22539 22550	Dr. Scanlon
+T44	person 23278 23282	NEEL
+T45	person 23681 23692	Dr. Scanlon
+T46	person 25137 25151	Robert MacNeil
+T47	person 25201 25206	Robin
+T48	person 25218 25227	Churchill
+T49	location 26314 26322	Berkeley
+T50	person 26948 26959	Dr. Scanlon
+T51	organization 27488 27510	University of Illinois
+T52	person 28448 28456	Dr. Gray
+T53	person 28722 28730	Dr. Neel
+T54	person 29050 29056	Carter
+T55	location 29525 29535	Washington
+T56	person 29549 29552	Jim
+T57	person 29570 29580	Jim Lehrer
+T58	person 29622 29636	Robert MacNeil

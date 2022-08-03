@@ -1,0 +1,366 @@
+T1	person 37 52	Margaret Warner
+T2	person 54 64	Jim Lehrer
+T3	program_title 90 98	NewsHour
+T4	person 122 142	President-elect Bush
+T5	person 178 189	Paul Solman
+T6	person 272 285	Susan Dentzer
+T7	person 340 360	Elizabeth Farnsworth
+T8	person 416 433	Michael Beschloss
+T9	person 435 449	Haynes Johnson
+T10	person 451 471	Richard Norton Smith
+T11	person 476 489	Roger Wilkins
+T12	program_title 546 558	NEWS SUMMARY
+T13	person 577 597	President-elect Bush
+T14	person 654 669	Donald Rumsfeld
+T15	organization 680 691	White House
+T16	person 739 753	President Ford
+T17	person 778 786	Rumsfeld
+T18	program_title 808 820	News Summary
+T19	publication_title 851 862	2000 Census
+T20	location 889 893	U.S.
+T21	organization 1047 1076	U.S. House of Representatives
+T22	location 1105 1112	Arizona
+T23	location 1114 1119	Texas
+T24	location 1121 1128	Georgia
+T25	location 1133 1140	Florida
+T26	location 1173 1181	New York
+T27	location 1186 1198	Pennsylvania
+T28	person 1291 1308	President Clinton
+T29	location 1650 1661	White House
+T30	publication_title 1843 1851	Medicare
+T31	organization 1939 1947	Congress
+T32	person 2036 2056	President-elect Bush
+T33	person 2097 2108	Mr. Clinton
+T34	location 2214 2225	North Korea
+T35	organization 2336 2345	Pyongyang
+T36	location 2403 2414	Middle East
+T37	location 2450 2458	Tel Aviv
+T38	location 2525 2529	Gaza
+T39	person 2553 2564	John Irvine
+T40	organization 2568 2595	Independent Television News
+T41	location 2746 2756	Gaza strip
+T42	location 2873 2881	Tel Aviv
+T43	person 3145 3155	Ehud Barak
+T44	person 3334 3347	Yasser Arafat
+T45	person 3537 3554	President Clinton
+T46	organization 3821 3836	Montgomery Ward
+T47	location 3974 3981	Chicago
+T48	organization 4132 4147	Montgomery Ward
+T49	organization 4167 4191	General Electric Company
+T50	location 4323 4328	Texas
+T51	location 4426 4431	Texas
+T52	organization 4444 4458	National Guard
+T53	location 4555 4562	Abilene
+T54	program_title 4582 4594	News Summary
+T55	organization 4627 4639	Bush cabinet
+T56	program_title 4764 4786	FOCUS - DEFENSE CHOICE
+T57	organization 4824 4832	Pentagon
+T58	person 4862 4877	Spencer Michels
+T59	person 4898 4913	Donald Rumsfeld
+T60	organization 5129 5133	Navy
+T61	person 5141 5149	Rumsfeld
+T62	organization 5192 5200	congress
+T63	person 5226 5241	President Nixon
+T64	organization 5289 5293	NATO
+T65	person 5300 5311	Gerald Ford
+T66	person 5330 5338	Rumsfeld
+T67	organization 5540 5570	General Instrument Corporation
+T68	person 5616 5624	Rumsfeld
+T69	person 5640 5648	Mr. Bush
+T70	organization 6365 6384	national commission
+T71	person 6437 6449	don Rumsfeld
+T72	person 6681 6699	Secretary Rumsfeld
+T73	organization 6761 6769	Pentagon
+T74	person 6880 6888	Rumsfeld
+T75	organization 6977 6985	Pentagon
+T76	person 7572 7584	Mr. Rumsfeld
+T77	organization 8458 8466	Congress
+T78	person 8686 8698	Don Rumsfeld
+T79	person 8732 8740	Mr. Bush
+T80	person 8775 8787	Mr. Rumsfeld
+T81	person 8789 8801	Colin Powell
+T82	person 8806 8833	Vice President-elect Cheney
+T83	organization 8864 8872	Pentagon
+T84	person 9047 9061	General Powell
+T85	person 9084 9095	Dick Cheney
+T86	person 9134 9146	Don Rumsfeld
+T87	person 9152 9162	Condi Rice
+T88	person 9508 9528	President-elect Bush
+T89	person 9682 9690	Rumsfeld
+T90	person 9709 9722	James Woolsey
+T91	organization 9733 9736	CIA
+T92	organization 9750 9754	navy
+T93	organization 9788 9814	missile defense commission
+T94	person 9826 9834	Rumsfeld
+T95	person 9844 9866	General George Joulwan
+T96	organization 9904 9908	NATO
+T97	organization 9914 9918	NATO
+T98	location 9936 9942	Bosnia
+T99	person 9948 9959	John Isaacs
+T100	organization 9978 10005	Council for a Livable World
+T101	person 10186 10198	Don Rumsfeld
+T102	organization 10300 10304	NATO
+T103	location 10313 10324	Middle East
+T104	organization 10395 10403	Pentagon
+T105	person 10549 10561	Don Rumsfeld
+T106	person 10655 10659	Bush
+T107	person 10824 10836	Don Rumsfeld
+T108	organization 11017 11024	Marines
+T109	person 11175 11186	John Isaacs
+T110	person 11203 11218	Donald Rumsfeld
+T111	publication_title 11492 11521	comprehensive test ban treaty
+T112	organization 11531 11537	Senate
+T113	person 11582 11602	President-elect Bush
+T114	publication_title 11650 11677	chemical weapons convention
+T115	person 11695 11709	President Bush
+T116	publication_title 11742 11760	START II agreement
+T117	person 11962 11982	President-elect Bush
+T118	person 12056 12068	Don Rumsfeld
+T119	person 12139 12159	President-elect Bush
+T120	person 12523 12538	Donald Rumsfeld
+T121	organization 12638 12646	Pentagon
+T122	person 12703 12714	Jim Woolsey
+T123	organization 12818 12826	Pentagon
+T124	organization 13031 13039	Congress
+T125	organization 13354 13361	Marines
+T126	organization 13521 13529	Pentagon
+T127	organization 13627 13648	Reagan administration
+T128	organization 13946 13954	Pentagon
+T129	organization 14207 14215	Congress
+T130	organization 14329 14337	Pentagon
+T131	person 14386 14390	Bush
+T132	person 14395 14403	Rumsfeld
+T133	organization 14751 14759	Pentagon
+T134	person 15096 15108	Don Rumsfeld
+T135	location 15345 15358	United States
+T136	person 15541 15552	John Isaacs
+T137	person 15691 15699	Rumsfeld
+T138	organization 15945 15957	Soviet Union
+T139	event 15969 15977	Cold War
+T140	person 15983 16003	President-elect Bush
+T141	organization 16128 16136	Pentagon
+T142	organization 16190 16199	Air Force
+T143	organization 16227 16231	Navy
+T144	person 16240 16248	Rumsfeld
+T145	person 16253 16257	Bush
+T146	organization 16336 16344	Congress
+T147	organization 16376 16384	Pentagon
+T148	person 16433 16441	Rumsfeld
+T149	person 17413 17421	Rumsfeld
+T150	location 18110 18115	China
+T151	location 18123 18137	Taiwan Straits
+T152	location 18164 18175	North Korea
+T153	location 18189 18200	South Korea
+T154	location 18250 18256	Kuwait
+T155	event 18358 18369	World War I
+T156	event 18397 18405	Cold War
+T157	event 18648 18656	Cold War
+T158	person 18707 18718	John Isaacs
+T159	person 18831 18835	Bush
+T160	person 18911 18926	Donald Rumsfeld
+T161	organization 19472 19488	Republican Party
+T162	person 19537 19549	Bill Clinton
+T163	location 19613 19619	Alaska
+T164	person 19726 19737	Jim Woolsey
+T165	person 19761 19768	Clinton
+T166	person 19874 19882	Rumsfeld
+T167	organization 19952 19968	Republican Party
+T168	person 20035 20046	Jim Woolsey
+T169	person 20168 20172	Bush
+T170	person 20295 20317	Clinton administration
+T171	person 20373 20380	Clinton
+T172	person 20563 20578	Donald Rumsfeld
+T173	person 21048 21063	General Joulwan
+T174	organization 21278 21282	NATO
+T175	person 21517 21528	John Isaacs
+T176	person 21547 21555	Rumsfeld
+T177	person 21600 21612	Colin Powell
+T178	person 21634 21644	Condi Rice
+T179	person 21673 21684	Dick Cheney
+T180	person 21842 21850	Rumsfeld
+T181	person 21914 21922	Rumsfeld
+T182	person 22271 22291	President-elect Bush
+T183	person 22418 22434	Condoleezza Rice
+T184	person 22502 22522	President-elect Bush
+T185	person 22858 22870	Colin Powell
+T186	person 22875 22885	Condi Rice
+T187	location 22959 22963	U.S.
+T188	organization 23003 23025	Clinton administration
+T189	organization 23997 24013	State Department
+T190	organization 24018 24036	Defense Department
+T191	person 24069 24081	Colin Powell
+T192	organization 24398 24414	State Department
+T193	person 24421 24433	Don Rumsfeld
+T194	location 24814 24818	U.S.
+T195	location 24836 24842	Bosnia
+T196	location 24847 24853	Kosovo
+T197	person 24876 24896	President-elect Bush
+T198	location 24918 24922	U.S.
+T199	location 25006 25010	U.S.
+T200	person 25072 25080	Rumsfeld
+T201	person 25085 25091	Powell
+T202	location 25184 25194	Yugoslavia
+T203	location 25514 25527	United States
+T204	program_title 25689 25715	FOCUS - MAKING MONEY COUNT
+T205	program_title 25755 25763	NewsHour
+T206	person 25891 25902	Paul Solman
+T207	organization 25906 25910	WGBH
+T208	location 25912 25918	Boston
+T209	organization 26071 26085	Citizen School
+T210	person 27585 27602	Kelly Fitzsimmons
+T211	person 27607 27621	Vanessa Kirsch
+T212	organization 27643 27658	New Profit Inc.
+T213	event 27701 27720	dot- com revolution
+T214	person 28843 28857	Vanessa Kirsch
+T215	organization 29271 29286	New Profit Inc.
+T216	person 29324 29330	Kirsch
+T217	person 29335 29346	Fitzsimmons
+T218	organization 29355 29371	New Profit, Inc.
+T219	organization 29528 29538	New Profit
+T220	person 29677 29686	Ned Rimer
+T221	organization 29699 29714	Citizen Schools
+T222	location 29922 29928	Boston
+T223	person 30863 30867	Paul
+T224	person 30910 30923	Robert Kaplan
+T225	organization 30989 30998	Mobil Oil
+T226	organization 31220 31225	Mobil
+T227	person 31846 31856	Bob Kaplan
+T228	organization 31923 31928	Mobil
+T229	person 31960 31966	Kaplan
+T230	person 32847 32858	Fitzsimmons
+T231	person 32863 32869	Kirsch
+T232	person 32882 32888	Kaplan
+T233	organization 32921 32937	New Profit, Inc.
+T234	organization 33119 33133	Citizen school
+T235	organization 33312 33322	New Profit
+T236	organization 33326 33335	Jumpstart
+T237	person 33395 33410	Aaron Lieberman
+T238	location 33789 33795	Boston
+T239	organization 33837 33846	Jumpstart
+T240	organization 33970 33979	Jumpstart
+T241	organization 34153 34162	Jumpstart
+T242	organization 34329 34338	Jumpstart
+T243	person 34701 34710	Ned Rimer
+T244	organization 34931 34941	New Profit
+T245	person 34953 34970	Kelly Fitzsimmons
+T246	person 35442 35453	Fitzsimmons
+T247	location 35840 35847	America
+T248	location 35960 35967	America
+T249	person 36067 36079	Peter Karoff
+T250	location 36374 36381	America
+T251	organization 36836 36851	Citizen Schools
+T252	organization 37542 37551	Microsoft
+T253	organization 37608 37617	Microsoft
+T254	organization 37749 37758	Microsoft
+T255	person 37847 37860	Robert Kaplan
+T256	organization 37955 37964	Microsoft
+T257	organization 37967 37972	Intel
+T258	organization 37975 37985	Home Depot
+T259	organization 38162 38178	New Profit, inc.
+T260	organization 38245 38254	Microsoft
+T261	organization 38264 38269	Intel
+T262	organization 38279 38292	Cisco Systems
+T263	program_title 38536 38555	UPDATE - CELL RISKS
+T264	person 38656 38669	Susan Dentzer
+T265	organization 38743 38776	Henry J. Kaiser Family Foundation
+T266	location 39374 39382	Maryland
+T267	organization 39437 39445	Motorola
+T268	organization 39450 39457	Verizon
+T269	person 39611 39627	Dr. George Carlo
+T270	person 39807 39812	Carlo
+T271	publication_title 39973 40016	Journal of the American Medical Association
+T272	person 40379 40391	Joshua Musca
+T273	organization 41218 41243	National Cancer Institute
+T274	publication_title 41317 41348	New England Journal of Medicine
+T275	organization 42551 42584	Federal Communications Commission
+T276	organization 42685 42688	FCC
+T277	organization 42756 42759	FCC
+T278	program_title 43319 43341	FINALLY - LOOKING BACK
+T279	person 43429 43449	Elizabeth Farnsworth
+T280	program_title 43506 43514	NewsHour
+T281	person 43547 43564	Michael Beschloss
+T282	person 43591 43605	Haynes Johnson
+T283	person 43662 43682	Richard Norton Smith
+T284	person 43698 43711	Roger Wilkins
+T285	organization 43715 43738	George Mason University
+T286	person 43763 43770	Richard
+T287	event 44129 44145	election of 2000
+T288	person 44665 44671	Haynes
+T289	organization 44922 44932	Washington
+T290	person 45250 45257	Richard
+T291	person 45442 45447	Roger
+T292	organization 45716 45740	Washington football team
+T293	event 45890 45935	war between the Palestinians and the Israelis
+T294	location 45986 45998	Grand Rapids
+T295	person 46005 46012	Richard
+T296	person 46017 46027	Ralph Bunt
+T297	organization 46160 46164	U.N.
+T298	location 46435 46446	Middle East
+T299	person 46569 46586	Michael Beschloss
+T300	person 46722 46731	Elizabeth
+T301	person 46794 46806	John Kennedy
+T302	event 47448 47464	election of 2000
+T303	event 47642 47650	Cold War
+T304	event 47654 47666	World War II
+T305	event 47698 47720	recession even of 1992
+T306	person 47856 47875	Arthur Schlessinger
+T307	person 47959 47973	George W. Bush
+T308	person 48028 48035	Richard
+T309	person 48229 48238	Elizabeth
+T310	event 48379 48382	Y2K
+T311	program_title 49214 49222	NewsHour
+T312	person 49317 49323	Haynes
+T313	person 50350 50363	Roger Wilkins
+T314	location 50631 50637	Mexico
+T315	person 50734 50752	Slobodan Milosevic
+T316	organization 50896 50909	Supreme Court
+T317	person 51023 51038	Justice Stevens
+T318	event 51230 51239	Civil War
+T319	organization 51240 51253	Supreme Court
+T320	person 51432 51439	Richard
+T321	person 51553 51558	Roger
+T322	organization 51782 51792	Washington
+T323	organization 51818 51826	Congress
+T324	person 51849 51856	Al Gore
+T325	person 51962 51969	Michael
+T326	person 52051 52056	Roger
+T327	location 52072 52083	Middle East
+T328	location 52297 52303	Russia
+T329	person 52307 52321	Vladimir Putin
+T330	event 52472 52480	Cold War
+T331	location 52534 52540	Russia
+T332	person 52574 52579	Putin
+T333	person 52654 52667	Boris Yeltsin
+T334	location 52695 52701	Russia
+T335	location 52789 52802	United States
+T336	person 52851 52856	Putin
+T337	person 53044 53050	Haynes
+T338	location 53122 53133	Middle East
+T339	person 53138 53143	Roger
+T340	person 53411 53416	Roger
+T341	location 53611 53617	Russia
+T342	location 53715 53720	China
+T343	person 53822 53827	Roger
+T344	location 53965 53971	Africa
+T345	person 54226 54233	Richard
+T346	person 54313 54318	Roger
+T347	person 54329 54340	Vicente Fox
+T348	organization 54745 54760	Catholic Church
+T349	location 54812 54823	Middle East
+T350	person 54876 54885	St. Peter
+T351	person 55232 55239	Michael
+T352	person 55432 55443	George Bush
+T353	publication_title 55497 55501	Time
+T354	person 55665 55670	Roger
+T355	person 55743 55750	Richard
+T356	person 55808 55819	Tiger Woods
+T357	person 55858 55864	Haynes
+T358	person 55954 55967	Craig Ventner
+T359	program_title 56222 56227	RECAP
+T360	person 56289 56309	President-elect Bush
+T361	person 56320 56335	Donald Rumsfeld
+T362	publication_title 56387 56403	year 2000 Census
+T363	location 56413 56417	U.S.
+T364	person 56558 56565	Shields
+T365	person 56570 56576	Brooks
+T366	person 56596 56611	Margaret Warner

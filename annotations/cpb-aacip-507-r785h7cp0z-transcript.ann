@@ -1,0 +1,324 @@
+T1	organization 117 120	FCC
+T2	location 201 208	America
+T3	organization 399 411	Urban League
+T4	person 505 515	Jim Lehrer
+T5	person 523 536	Judy Woodruff
+T6	location 542 552	Washington
+T7	person 554 558	Judy
+T8	person 601 626	Secretary of State Shultz
+T9	organization 677 684	Soviets
+T10	location 732 736	U.S.
+T11	location 771 777	Poland
+T12	location 783 792	Argentina
+T13	organization 812 816	U.S.
+T14	location 834 843	Nicaragua
+T15	location 900 911	El Salvador
+T16	location 1040 1049	Cleveland
+T17	person 1081 1113	Secretary of State George Shultz
+T18	person 1211 1225	Andrei Gromyko
+T19	person 1237 1243	Shultz
+T20	location 1255 1259	Oslo
+T21	organization 1273 1293	Norwegian government
+T22	location 1411 1420	Stockholm
+T23	organization 1453 1460	Soviets
+T24	location 1490 1496	Geneva
+T25	person 1516 1526	Mr. Shultz
+T26	person 1610 1621	Mr. Gromyko
+T27	organization 1800 1807	Soviets
+T28	location 1863 1867	U.S.
+T29	organization 1872 1876	NATO
+T30	location 1947 1953	Europe
+T31	person 1955 1965	Mr. Shultz
+T32	organization 1978 1985	Soviets
+T33	location 2072 2078	Europe
+T34	location 2107 2116	Stockholm
+T35	organization 2122 2128	Moscow
+T36	organization 2131 2142	Warsaw Pact
+T37	organization 2219 2226	Soviets
+T38	location 2277 2289	East Germany
+T39	location 2294 2308	Czechoslovakia
+T40	organization 2324 2328	NATO
+T41	organization 2373 2379	Soviet
+T42	publication_title 2395 2403	Red Star
+T43	person 2407 2411	Judy
+T44	program_title 2413 2448	Long Distance Charges -- FCC Ruling
+T45	organization 2465 2498	Federal Communications Commission
+T46	organization 2626 2629	FCC
+T47	organization 2750 2754	AT&T
+T48	organization 2945 2948	FCC
+T49	organization 3120 3123	FCC
+T50	organization 3159 3167	Congress
+T51	organization 3225 3233	Congress
+T52	person 3275 3294	Senator Robert Dole
+T53	organization 3315 3318	FCC
+T54	organization 3407 3412	House
+T55	person 3516 3524	Packwood
+T56	organization 3654 3687	Federal Communications Commission
+T57	organization 3851 3859	Congress
+T58	organization 4046 4050	AT&T
+T59	organization 4095 4103	Congress
+T60	organization 4118 4121	FCC
+T61	organization 4132 4136	AT&T
+T62	location 4254 4262	Colorado
+T63	person 4263 4288	Congressman Timothy Wirth
+T64	organization 4338 4343	House
+T65	organization 4558 4561	FCC
+T66	organization 4582 4586	AT&T
+T67	organization 4608 4611	MCI
+T68	organization 4641 4644	FCC
+T69	organization 4662 4686	House of Representatives
+T70	organization 4692 4713	Department of Justice
+T71	organization 4719 4741	Department of Commerce
+T72	organization 4773 4779	Senate
+T73	organization 4797 4801	AT&T
+T74	organization 5256 5260	AT&T
+T75	person 5320 5333	Merrill Brown
+T76	publication_title 5373 5388	Washington Post
+T77	person 5390 5399	Mr. Brown
+T78	organization 6135 6139	AT&T
+T79	organization 6244 6247	FCC
+T80	organization 6353 6357	AT&T
+T81	organization 6456 6459	MCI
+T82	organization 6746 6757	Wall Street
+T83	organization 6841 6844	FCC
+T84	organization 7286 7298	Capitol Hill
+T85	organization 7380 7388	Congress
+T86	organization 8095 8106	Bell System
+T87	organization 8286 8290	AT&T
+T88	person 8759 8771	Senator Dole
+T89	organization 8788 8791	MCI
+T90	person 8838 8843	Nader
+T91	organization 8846 8860	Congress Watch
+T92	person 8884 8893	Tim Wirth
+T93	organization 9306 9311	House
+T94	organization 9376 9381	House
+T95	organization 9590 9593	FCC
+T96	organization 9853 9861	Congress
+T97	organization 9963 9966	FCC
+T98	organization 10066 10086	United States Senate
+T99	person 10181 10197	Senator Packwood
+T100	organization 10691 10695	AT&T
+T101	organization 10730 10733	MCI
+T102	organization 11188 11192	AT&T
+T103	organization 11357 11361	AT&T
+T104	organization 11452 11455	MCI
+T105	organization 11571 11575	AT&T
+T106	organization 11650 11654	AT&T
+T107	organization 11679 11682	MCI
+T108	organization 11686 11692	Sprint
+T109	organization 11696 11702	Allnet
+T110	organization 12015 12019	AT&T
+T111	organization 12352 12356	AT&T
+T112	organization 12429 12433	AT&T
+T113	organization 12463 12467	AT&T
+T114	organization 12573 12577	AT&T
+T115	person 12612 12621	Mr. Brown
+T116	person 12634 12638	Judy
+T117	program_title 12640 12683	Black America: "Out of Sight, Out of Mind"?
+T118	location 13062 13073	White House
+T119	organization 14214 14226	Urban League
+T120	person 14227 14247	president John Jacob
+T121	location 14281 14288	America
+T122	person 14305 14314	Mr. Jacob
+T123	person 14360 14369	Mr. Jacob
+T124	location 14879 14886	America
+T125	location 14898 14905	America
+T126	event 15439 15452	the recession
+T127	location 16983 16990	America
+T128	location 17001 17008	America
+T129	organization 17092 17103	Republicans
+T130	organization 17111 17120	Democrats
+T131	person 17124 17137	Ronald Reagan
+T132	location 17179 17186	America
+T133	location 17827 17834	America
+T134	location 18025 18032	America
+T135	person 19253 19262	Mr. Jacob
+T136	person 19324 19337	Ronald Reagan
+T137	organization 19538 19546	Congress
+T138	location 19881 19888	America
+T139	location 20059 20066	America
+T140	person 20129 20142	Ronald Reagan
+T141	person 20298 20308	Mr. Reagan
+T142	person 20646 20656	Mr. Reagan
+T143	location 20704 20728	1600 Pennsylvania Avenue
+T144	person 20769 20782	Ronald Reagan
+T145	person 20896 20906	Mr. Reagan
+T146	location 21106 21117	White House
+T147	person 21163 21173	John Jacob
+T148	person 21230 21235	Robin
+T149	organization 21252 21266	United Nations
+T150	organization 21267 21301	Food and Agricultural Organization
+T151	location 21347 21353	Africa
+T152	organization 21416 21419	FAO
+T153	location 21520 21526	Africa
+T154	organization 21715 21719	U.N.
+T155	location 21856 21866	Washington
+T156	person 21868 21889	Senator John Danforth
+T157	location 21956 21962	Africa
+T158	location 21968 21976	Missouri
+T159	person 22001 22029	Majority Leader Howard Baker
+T160	person 22089 22105	Senator Danforth
+T161	person 22143 22159	President Reagan
+T162	location 22272 22278	Africa
+T163	location 22835 22845	Mozambique
+T164	organization 22974 22978	CARE
+T165	location 23384 23397	United States
+T166	location 23466 23472	Africa
+T167	person 23474 23490	Senator Danforth
+T168	location 23620 23652	Sugarland Mountain, Pennsylvania
+T169	location 23668 23678	Casablanca
+T170	organization 23684 23715	Islamic Conference Organization
+T171	location 23743 23748	Egypt
+T172	location 23780 23785	Egypt
+T173	location 23832 23838	Israel
+T174	publication_title 24004 24027	Israeli-Egyptian treaty
+T175	location 24034 24041	Lebanon
+T176	location 24059 24065	Beirut
+T177	organization 24183 24202	American University
+T178	location 24279 24286	Tripoli
+T179	location 24416 24421	Sidon
+T180	location 24569 24579	Washington
+T181	organization 24585 24601	State Department
+T182	location 24664 24670	Poland
+T183	person 24684 24700	President Reagan
+T184	organization 24706 24729	Polish national airline
+T185	location 24791 24804	United States
+T186	location 24875 24879	Rome
+T187	person 24881 24895	Pope John Paul
+T188	organization 24976 24983	Vatican
+T189	organization 24992 25022	Communist government of Poland
+T190	person 25049 25069	Cardinal Jozef Glemp
+T191	organization 25087 25109	Polish Catholic Church
+T192	location 25152 25156	Rome
+T193	person 25183 25187	Judy
+T194	program_title 25189 25213	Missionaries in Salvador
+T195	location 25226 25235	Argentina
+T196	person 25287 25310	President Raul Alfonsin
+T197	location 25397 25412	Central America
+T198	location 25454 25467	United States
+T199	location 25531 25540	Nicaragua
+T200	person 25542 25550	Alfonsin
+T201	location 25572 25581	Argentina
+T202	location 25587 25593	Mexico
+T203	location 25733 25744	El Salvador
+T204	location 25880 25891	Lempa River
+T205	location 25921 25932	El Salvador
+T206	location 26113 26123	Chirilagua
+T207	person 26217 26231	Charles Krause
+T208	location 26418 26428	Chirilagua
+T209	location 26542 26552	Chirilagua
+T210	location 26686 26696	Chirilagua
+T211	location 26717 26728	El Salvador
+T212	location 26843 26853	Chirilagua
+T213	organization 26909 26937	Our Lady of Guadalupe Church
+T214	organization 27028 27045	Chirilagua parish
+T215	location 27093 27108	Cleveland, Ohio
+T216	person 27505 27521	Father John Loya
+T217	location 27562 27572	Chirilagua
+T218	person 27578 27597	Father David Fallon
+T219	person 27610 27625	Therese Osborne
+T220	person 27633 27646	Maria Berlich
+T221	location 27750 27761	El Salvador
+T222	location 27971 27984	United States
+T223	person 28140 28154	Sister Therese
+T224	location 28196 28205	Cleveland
+T225	location 28270 28280	Chirilagua
+T226	person 28598 28610	Father David
+T227	location 28623 28634	El Salvador
+T228	organization 28680 28697	Cleveland mission
+T229	organization 28716 28733	Chirilagua church
+T230	location 29324 29334	Chirilagua
+T231	location 29427 29435	El Cucol
+T232	location 29629 29638	Guadalupe
+T233	person 29780 29795	La Nina Chinita
+T234	person 29868 29876	Cypriana
+T235	person 30757 30769	Sister Maria
+T236	location 30826 30836	Chirilagua
+T237	location 30900 30910	Chirilagua
+T238	person 31225 31239	Sister Therese
+T239	organization 31413 31430	Cleveland mission
+T240	location 32003 32014	El Salvador
+T241	person 32054 32066	Sister Maria
+T242	location 32568 32578	Chirilagua
+T243	person 32944 32949	David
+T244	person 32954 32958	John
+T245	person 32968 32975	Therese
+T246	person 32980 32985	Maria
+T247	location 33160 33173	United States
+T248	location 33403 33413	Chirilagua
+T249	location 34446 34455	Cleveland
+T250	location 34539 34548	Cleveland
+T251	publication_title 35010 35016	Gospel
+T252	location 35101 35112	El Salvador
+T253	organization 35155 35171	State Department
+T254	organization 35237 35258	Salvadoran government
+T255	location 35354 35363	Cleveland
+T256	location 35417 35427	Chirilagua
+T257	location 35479 35501	Cade's Cove, Tennessee
+T258	location 35518 35526	New York
+T259	location 35603 35613	New Jersey
+T260	person 35614 35639	Senator Harrison Williams
+T261	event 35698 35718	Abscam investigation
+T262	organization 35774 35805	Second Circuit Court of Appeals
+T263	person 35836 35844	Williams
+T264	person 35905 35913	Williams
+T265	location 35981 36004	Allenwood, Pennyslvania
+T266	location 36086 36104	San Antonio, Texas
+T267	person 36123 36150	Major General Robert Owenby
+T268	organization 36156 36160	Army
+T269	organization 36456 36459	FBI
+T270	person 36566 36572	Owenby
+T271	person 36595 36600	Robin
+T272	program_title 36602 36620	Birth Control Pill
+T273	organization 36806 36830	Johns Hopkins University
+T274	location 36834 36843	Baltimore
+T275	person 37565 37587	Charlayne Hunter-Gault
+T276	person 37605 37614	Charlayne
+T277	organization 38546 38573	Centers for Disease Control
+T278	person 38739 38753	Dr. Howard Ory
+T279	organization 38795 38798	CDC
+T280	location 38918 38925	Atlanta
+T281	person 38927 38934	Dr. Ory
+T282	person 38996 39003	Dr. Ory
+T283	location 39008 39015	Atlanta
+T284	location 39634 39638	U.S.
+T285	location 40882 40886	U.S.
+T286	person 42115 42120	Robin
+T287	person 42188 42205	Dr. Diana Petitti
+T288	person 42264 42275	Dr. Pettiti
+T289	organization 42331 42355	University of California
+T290	location 42359 42372	San Francisco
+T291	organization 42419 42423	KQED
+T292	person 42425 42436	Dr. Pettiti
+T293	person 42443 42450	Dr. Ory
+T294	person 43627 43634	Dr. Ory
+T295	person 43765 43772	Dr. Ory
+T296	location 43974 43987	United States
+T297	location 44920 44933	United States
+T298	person 46188 46197	Charlayne
+T299	person 46215 46222	Dr. Ory
+T300	person 46243 46254	Dr. Petitti
+T301	person 46820 46831	Dr. Petitti
+T302	person 47149 47156	Dr. Ory
+T303	person 47754 47761	Dr. Ory
+T304	person 47798 47804	Howard
+T305	person 47841 47848	Dr. Ory
+T306	person 47965 47970	Diana
+T307	person 48554 48565	Dr. Petitti
+T308	person 48826 48833	Dr. Ory
+T309	person 49607 49614	Dr. Ory
+T310	person 49729 49734	Diana
+T311	person 50062 50069	Dr. Ory
+T312	person 50443 50451	Dr. Pike
+T313	person 50474 50484	Dr. Vessey
+T314	person 50897 50904	Dr. Ory
+T315	person 51340 51345	Diana
+T316	person 51616 51627	Dr. Petitti
+T317	person 51671 51675	Judy
+T318	location 51746 51751	China
+T319	organization 52195 52214	World Wildlife Fund
+T320	location 52241 52251	Washington
+T321	person 52968 52973	Robin
+T322	person 52998 53002	Judy
+T323	program_title 53015 53023	NewsHour
+T324	person 53073 53087	Robert MacNeil

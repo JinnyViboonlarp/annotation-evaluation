@@ -1,0 +1,29 @@
+(annotation_choice='default', label_choice='LOC_to_ORG')
+precision       0.780 (5088/6522)
+recall  	0.764 (5088/6663)
+F1      	0.772
+
+(annotation_choice='default', label_choice='strict')
+precision       0.761 (4962/6522)
+recall  	0.745 (4962/6663)
+F1      	0.753
+
+(annotation_choice='uncased', label_choice='LOC_to_ORG')
+precision       0.734 (4379/5965)
+recall  	0.657 (4379/6663)
+F1      	0.694
+
+(annotation_choice='uncased', label_choice='strict')
+precision       0.703 (4192/5965)
+recall  	0.629 (4192/6663)
+F1      	0.664
+
+(annotation_choice='force-uncased', label_choice='LOC_to_ORG')
+precision       0.813 (3633/4470)
+recall  	0.545 (3633/6663)
+F1      	0.653
+
+(annotation_choice='force-uncased', label_choice='strict')
+precision       0.784 (3504/4470)
+recall  	0.526 (3504/6663)
+F1      	0.629

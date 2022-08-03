@@ -1,0 +1,287 @@
+T1	organization 59 62	CIA
+T2	person 63 77	Director Gates
+T3	organization 89 101	Soviet Union
+T4	person 160 186	Soviet President Gorbachev
+T5	location 214 221	Mideast
+T6	location 245 255	Washington
+T7	program_title 287 299	News Summary
+T8	person 313 326	Judy Woodruff
+T9	location 333 341	New York
+T10	person 351 355	Judy
+T11	program_title 380 388	NewsHour
+T12	event 420 455	rape trial of William Kennedy Smith
+T13	person 619 631	Kwame Holman
+T14	program_title 712 724	NEWS SUMMARY
+T15	organization 739 742	CIA
+T16	person 743 764	Director Robert Gates
+T17	organization 797 809	Soviet Union
+T18	location 868 872	U.S.
+T19	person 883 888	Gates
+T20	organization 962 992	House Armed Services Committee
+T21	organization 1542 1546	USSR
+T22	organization 1557 1567	Bolsheviks
+T23	location 1602 1606	U.S.
+T24	organization 1625 1637	Soviet Union
+T25	person 1639 1653	Robert Strauss
+T26	organization 1797 1808	Soviet army
+T27	location 1848 1854	Moscow
+T28	person 1907 1926	President Gorbachev
+T29	person 1970 1979	Gorbachev
+T30	publication_title 1993 2008	Minsk agreement
+T31	person 2091 2100	Gaby Rado
+T32	organization 2104 2131	Independent Television News
+T33	person 2145 2158	Mr. Gorbachev
+T34	location 2211 2218	Kremlin
+T35	person 2369 2378	Gorbachev
+T36	person 2453 2472	Georgy Shakhnazarov
+T37	organization 2486 2509	young politicians forum
+T38	person 2890 2906	Mr. Shakhnazarov
+T39	person 2971 2980	Gorbachev
+T40	person 3269 3288	President Gorbachev
+T41	person 3440 3453	Mr. Gorbachev
+T42	publication_title 3474 3489	Minsk agreement
+T43	person 3877 3897	President Nazarbayev
+T44	location 3901 3911	Kazakhstan
+T45	publication_title 3952 3967	Minsk agreement
+T46	organization 4157 4162	Union
+T47	organization 4182 4192	parliament
+T48	location 4201 4208	Ukraine
+T49	publication_title 4302 4317	Minsk agreement
+T50	location 4337 4348	Byelorussia
+T51	person 4364 4382	President Kravchuk
+T52	location 4386 4393	Ukraine
+T53	person 4402 4419	Mikhail Gorbachev
+T54	location 4580 4590	Red Square
+T55	person 4760 4773	Mr. Gorbachev
+T56	location 4890 4900	Yugoslavia
+T57	location 4962 4968	Osijek
+T58	organization 5070 5084	United Nations
+T59	location 5132 5139	Croatia
+T60	organization 5145 5149	U.N.
+T61	person 5150 5183	Secretary General Perez DeCuellar
+T62	person 5242 5246	Judy
+T63	location 5284 5295	Middle East
+T64	location 5323 5333	Washington
+T65	location 5423 5428	Syria
+T66	location 5430 5437	Lebanon
+T67	person 5740 5754	Terry Anderson
+T68	location 5775 5779	U.S.
+T69	location 5909 5917	New York
+T70	location 5920 5935	Kennedy Airport
+T71	person 5937 5945	Anderson
+T72	location 6008 6015	Lebanon
+T73	location 6217 6221	U.S.
+T74	event 6249 6257	Gulf War
+T75	person 6259 6273	President Bush
+T76	location 6334 6341	Chicago
+T77	location 6478 6482	U.S.
+T78	organization 6576 6603	Chicago Mercantile Exchange
+T79	location 6764 6771	America
+T80	person 6998 7014	Patrick Buchanan
+T81	location 7165 7187	Concord, New Hampshire
+T82	person 7219 7227	Buchanan
+T83	person 7314 7328	President Bush
+T84	organization 7433 7451	U.S. Supreme Court
+T85	location 7472 7480	New York
+T86	organization 7843 7867	Federal Trade Commission
+T87	organization 7869 7872	TRW
+T88	organization 8084 8087	TRW
+T89	person 8191 8202	Ansan Suchi
+T90	location 8284 8289	Burma
+T91	location 8314 8326	Oslo, Norway
+T92	location 8580 8585	Burma
+T93	location 8620 8625	Burma
+T94	location 8728 8743	Burmese capital
+T95	program_title 8804 8816	News Summary
+T96	program_title 8836 8844	NewsHour
+T97	event 8863 8895	William Kennedy Smith rape trial
+T98	program_title 8994 9010	FOCUS - TV TRIAL
+T99	event 9031 9066	rape trial of William Kennedy Smith
+T100	person 9144 9159	John F. Kennedy
+T101	location 9168 9172	U.S.
+T102	person 9173 9195	Senator Edward Kennedy
+T103	location 9212 9236	West Palm Beach, Florida
+T104	event 10305 10335	trial of William Kennedy Smith
+T105	location 10387 10397	Palm Beach
+T106	person 10566 10588	prosecutor Moira Lasch
+T107	event 10604 10615	Smith Trial
+T108	location 11350 11357	Florida
+T109	person 11381 11386	Smith
+T110	location 11443 11459	Kennedy compound
+T111	person 12094 12099	Smith
+T112	person 13633 13638	Smith
+T113	person 14456 14466	Ellen Hume
+T114	organization 14500 14545	Shorenstein-Barone Center on Press & Politics
+T115	organization 14549 14567	Harvard University
+T116	person 14569 14578	Ann Lewis
+T117	location 14605 14611	Boston
+T118	person 14613 14625	Steven Brill
+T119	organization 14666 14674	Court TV
+T120	person 14732 14746	Susan Xenarios
+T121	organization 14795 14820	Rape Intervention Program
+T122	organization 14824 14853	St. Luke's Roosevelt Hospital
+T123	location 14857 14870	New York City
+T124	person 14872 14884	Steven Brill
+T125	organization 14972 14980	Court TV
+T126	organization 15018 15021	CNN
+T127	organization 15121 15124	CNN
+T128	organization 15270 15273	CNN
+T129	location 15653 15666	United States
+T130	organization 15671 15674	CNN
+T131	person 16553 16567	Kennedy family
+T132	organization 16623 16626	CNN
+T133	organization 16673 16676	CNN
+T134	person 17519 17529	Ellen Hume
+T135	person 17670 17682	Steven Brill
+T136	organization 17691 17694	CNN
+T137	organization 18202 18205	PBS
+T138	person 18568 18573	Ellen
+T139	person 18679 18684	Ellen
+T140	organization 18925 18928	CNN
+T141	event 19210 19223	Noriega trial
+T142	event 19232 19242	S&L crisis
+T143	event 19504 19517	Noriega trial
+T144	person 19674 19679	Ellen
+T145	organization 19769 19777	Court TV
+T146	organization 19864 19867	CNN
+T147	person 19921 19930	Ann Lewis
+T148	organization 21321 21333	Soviet Union
+T149	person 21518 21523	Ellen
+T150	event 21688 21703	Lindburgh trial
+T151	person 22435 22447	Steven Brill
+T152	organization 22503 22506	CNN
+T153	event 22545 22580	Clarence Thomas-Anita Hill hearings
+T154	person 22602 22618	Long Dong Silver
+T155	publication_title 22653 22665	Constitution
+T156	location 22871 22882	El Salvador
+T157	person 23085 23094	Ann Lewis
+T158	organization 23396 23408	Soviet Union
+T159	event 23554 23570	Palm Beach trial
+T160	person 24167 24179	Steven Brill
+T161	person 24909 24920	Moira Lasch
+T162	person 25126 25135	Roy Black
+T163	location 25478 25485	Florida
+T164	location 25762 25769	Florida
+T165	organization 26035 26043	Court TV
+T166	person 26090 26104	Susan Xenarios
+T167	person 26508 26517	Mr. Brill
+T168	person 27097 27106	Ann Lewis
+T169	event 27181 27208	William Kennedy Smith trial
+T170	person 27883 27897	Susan Xenarios
+T171	person 29689 29698	Ann Lewis
+T172	publication_title 30703 30717	New York Times
+T173	event 31259 31295	Anita Hill- Clarence Thomas hearings
+T174	person 31665 31675	Ellen Hume
+T175	person 32393 32398	Ellen
+T176	program_title 32531 32545	Current Affair
+T177	publication_title 32591 32605	New York Times
+T178	person 32726 32731	Ellen
+T179	person 32911 32925	Susan Xenarios
+T180	person 32962 32971	Ann Lewis
+T181	person 33730 33739	Ann Lewis
+T182	person 33784 33789	Susan
+T183	location 34081 34091	Washington
+T184	location 34180 34190	Washington
+T185	person 34789 34803	Susan Xenarios
+T186	person 34819 34831	Steven Brill
+T187	person 34833 34843	Ellen Hume
+T188	person 34849 34858	Ann Lewis
+T189	person 34875 34878	Jim
+T190	program_title 34915 34923	NewsHour
+T191	program_title 35165 35185	PLEDGE BREAK SEGMENT
+T192	program_title 35250 35258	NewsHour
+T193	organization 35338 35350	Soviet Union
+T194	organization 35370 35373	CIA
+T195	person 35374 35395	Director Robert Gates
+T196	organization 35421 35451	House Armed Services Committee
+T197	organization 35719 35731	Soviet Union
+T198	location 35841 35847	Russia
+T199	location 35849 35856	Ukraine
+T200	location 35931 35944	United States
+T201	organization 36097 36114	Soviet government
+T202	location 36407 36411	U.S.
+T203	organization 36432 36436	USSR
+T204	organization 36495 36499	USSR
+T205	location 36635 36648	United States
+T206	organization 37208 37212	USSR
+T207	organization 37223 37233	Bolsheviks
+T208	person 37254 37279	Russian President Yeltsin
+T209	location 37803 37809	Russia
+T210	organization 38218 38222	USSR
+T211	location 38996 39002	Russia
+T212	organization 39058 39065	Soviets
+T213	organization 39320 39339	Ministry of Defense
+T214	program_title 39472 39491	FOCUS - DISCREDITED
+T215	organization 39589 39592	TRW
+T216	organization 39635 39659	Federal Trade Commission
+T217	organization 39681 39684	TRW
+T218	person 39763 39775	Kwame Holman
+T219	location 39835 39842	America
+T220	organization 40295 40306	Equifax CBI
+T221	organization 40308 40311	TRW
+T222	organization 40317 40328	Trans Union
+T223	person 40951 40965	Ed Mierzwinski
+T224	organization 40973 41003	Public Interest Research Group
+T225	organization 41072 41096	Federal Trade Commission
+T226	organization 41475 41505	Public Interest Research Group
+T227	organization 41626 41641	Consumers Union
+T228	organization 41930 41945	Consumers Union
+T229	organization 42013 42020	US Purg
+T230	person 42170 42184	Barry Connelly
+T231	organization 42204 42229	Associated Credit Bureaus
+T232	person 42730 42744	Ursula Daniels
+T233	person 43276 43283	Daniels
+T234	person 43679 43686	Daniels
+T235	location 43733 43749	Washington, D.C.
+T236	organization 43760 43767	Equifax
+T237	person 43812 43819	Daniels
+T238	location 44162 44169	Florida
+T239	person 44182 44194	Seymour Shor
+T240	organization 44296 44303	Equifax
+T241	organization 44308 44311	TRW
+T242	person 44473 44477	Shor
+T243	organization 44693 44706	Discover Card
+T244	organization 44793 44806	Discover Card
+T245	organization 44821 44837	American Express
+T246	person 44882 44886	Shor
+T247	organization 45025 45036	Equifax CBI
+T248	organization 45054 45057	TRW
+T249	organization 45116 45126	Mastercard
+T250	organization 45128 45132	Visa
+T251	person 45552 45562	John Baker
+T252	organization 45591 45598	Equifax
+T253	person 45624 45636	Seymour Shor
+T254	person 45857 45869	Seymour Shor
+T255	organization 45922 45929	Equifax
+T256	person 45984 45988	Shor
+T257	organization 46047 46054	Equifax
+T258	organization 46079 46086	Equifax
+T259	program_title 46100 46108	NewsHour
+T260	person 46167 46171	Shor
+T261	person 46233 46247	Ursula Daniels
+T262	organization 46249 46256	Equifax
+T263	person 46283 46290	Daniels
+T264	organization 46355 46362	Equifax
+T265	publication_title 46430 46456	Clear Credit Reporting Act
+T266	organization 46505 46517	Capitol Hill
+T267	organization 46540 46578	House Subcommittee on Consumer Affairs
+T268	organization 46839 46847	Congress
+T269	organization 46908 46925	TRW Credit Bureau
+T270	organization 46996 46999	TRW
+T271	organization 47143 47146	TRW
+T272	person 47557 47567	John Baker
+T273	organization 47571 47578	Equifax
+T274	organization 48132 48135	TRW
+T275	organization 48219 48227	Congress
+T276	program_title 48237 48242	RECAP
+T277	organization 48299 48302	CIA
+T278	person 48303 48317	Director Gates
+T279	organization 48323 48331	Congress
+T280	organization 48336 48348	Soviet Union
+T281	person 48394 48420	Soviet President Gorbachev
+T282	location 48481 48488	Mideast
+T283	location 48516 48526	Washington
+T284	person 48540 48544	Judy
+T285	person 48574 48577	Jim
+T286	program_title 48590 48598	NewsHour
+T287	person 48646 48659	Judy Woodruff

@@ -1,0 +1,95 @@
+T1	person 959 962	Jim
+T2	person 977 982	Robin
+T3	publication_title 2043 2112	Depository Institutions Deregulation and Monetary Control Act of 1980
+T4	organization 2124 2132	Congress
+T5	person 2176 2181	Robin
+T6	person 2283 2296	Marshall Loeb
+T7	publication_title 2317 2331	Money Magazine
+T8	person 2333 2341	Mr. Loeb
+T9	person 2429 2434	Robin
+T10	location 3567 3577	New Jersey
+T11	location 3582 3590	New York
+T12	location 3617 3628	New England
+T13	location 3658 3669	New England
+T14	person 5997 6000	Jim
+T15	person 6173 6184	John Hardin
+T16	organization 6237 6267	First Federal Savings and Loan
+T17	location 6271 6296	Rock Hill, South Carolina
+T18	organization 6371 6406	U.S. League of Savings Associations
+T19	person 6434 6444	Mr. Hardin
+T20	person 6636 6646	Mr. Lehrer
+T21	person 7462 7474	Senator Garn
+T22	person 8160 8168	Mr. Loeb
+T23	person 11820 11825	Robin
+T24	person 11917 11934	Sandra McLoughlin
+T25	location 11963 11973	Pittsburgh
+T26	organization 11976 11987	Mellon Bank
+T27	person 12028 12042	Ms. McLoughlin
+T28	organization 12080 12108	American Bankers Association
+T29	person 12144 12158	Ms. McLoughlin
+T30	person 12252 12257	Robin
+T31	organization 12306 12317	Mellon Bank
+T32	publication_title 12644 12649	reg Q
+T33	person 12697 12707	Mr. Hardin
+T34	publication_title 12881 12886	reg Q
+T35	publication_title 12912 12917	Reg Q
+T36	publication_title 12943 12948	Reg Q
+T37	person 13159 13167	Mr. Loeb
+T38	person 14060 14070	Mr. Hardin
+T39	person 14668 14678	Mr. Hardin
+T40	publication_title 15003 15022	Wall Street Journal
+T41	person 15030 15044	Mr. W.C. Smith
+T42	location 15072 15082	Pittsburgh
+T43	person 15244 15249	Robin
+T44	person 15353 15363	Mr. Hardin
+T45	person 15500 15510	Mr. Hardin
+T46	person 17056 17059	Jim
+T47	organization 17073 17081	Congress
+T48	person 17241 17258	Senator Jake Garn
+T49	location 17274 17278	Utah
+T50	person 17299 17311	Senator Garn
+T51	organization 17336 17360	Senate Banking Committee
+T52	person 17496 17499	Jim
+T53	organization 17681 17687	Senate
+T54	publication_title 17699 17725	Financial Institutions Act
+T55	organization 17755 17779	House of Representatives
+T56	organization 17804 17810	Senate
+T57	organization 17847 17852	House
+T58	organization 17928 17933	House
+T59	organization 17942 17948	Senate
+T60	publication_title 18039 18078	Financial Institutions Deregulation Act
+T61	organization 18223 18228	House
+T62	organization 18237 18243	Senate
+T63	organization 18950 18958	Congress
+T64	person 19156 19166	Mr. Hardin
+T65	person 19357 19367	Mr. Hardin
+T66	organization 19660 19663	ABA
+T67	organization 19674 19702	U.S. Savings and Loan League
+T68	organization 20629 20637	Congress
+T69	person 20953 20963	Mr. Hardin
+T70	publication_title 21367 21379	regulation Q
+T71	person 22385 22394	Sen. GARN
+T72	person 22581 22586	Robin
+T73	person 22618 22623	Robin
+T74	person 22635 22645	Mr. Hardin
+T75	person 23023 23026	Jim
+T76	organization 23328 23350	Federal Home Loan Bank
+T77	organization 23446 23454	Treasury
+T78	organization 23498 23503	FSLIC
+T79	person 23738 23748	Mr. Hardin
+T80	person 23758 23766	Mr. Loeb
+T81	person 23992 23999	MacNEIL
+T82	person 24012 24020	Mr. Loeb
+T83	person 25078 25090	Senator Garn
+T84	person 25092 25102	Mr. Hardin
+T85	organization 25227 25235	Congress
+T86	person 26059 26073	Ms. McLoughlin
+T87	person 27146 27158	Senator Garn
+T88	person 27803 27815	Senator Garn
+T89	person 27839 27849	Mr. Hardin
+T90	person 27851 27865	Ms. McLoughlin
+T91	person 27883 27891	Mr. Loeb
+T92	location 27895 27903	New York
+T93	person 27917 27920	Jim
+T94	person 27943 27948	Robin
+T95	person 28020 28034	Robert MacNeil

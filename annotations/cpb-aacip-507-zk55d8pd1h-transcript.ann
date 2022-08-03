@@ -1,0 +1,253 @@
+T1	location 62 71	Nicaragua
+T2	organization 161 178	The Supreme Court
+T3	program_title 310 322	News Summary
+T4	person 336 339	Jim
+T5	program_title 365 377	News Summary
+T6	person 379 391	Kwame Holman
+T7	program_title 393 403	News Maker
+T8	location 442 451	Nicaragua
+T9	person 453 466	Daniel Ortega
+T10	program_title 513 545	[FOCUS - EXXON - FACING CHARGES]
+T11	organization 575 580	Exxon
+T12	person 607 619	Robert Adler
+T13	person 624 636	Richard Samp
+T14	program_title 657 686	[FOCUS - NEGLIGENT TREATMENT]
+T15	person 745 793	New York State Health Commissioner David Axelrod
+T16	person 805 824	Dr. Harvey Wachsman
+T17	program_title 826 838	NEWS SUMMARY
+T18	location 854 863	Nicaragua
+T19	location 950 954	U.S.
+T20	person 971 994	President Daniel Ortega
+T21	program_title 1114 1122	Newshour
+T22	person 1124 1134	Mr. Ortega
+T23	person 1148 1174	Correspondent Kwame Holman
+T24	person 1668 1678	Mr. Ortega
+T25	program_title 1689 1701	News Summary
+T26	person 1724 1756	President-elect Violeta Chamorro
+T27	person 1764 1770	Ortega
+T28	event 1846 1855	civil war
+T29	location 1954 1962	Honduras
+T30	person 2012 2025	Mrs. Chamorro
+T31	person 2042 2060	Alejandro Elsavedo
+T32	person 2120 2126	Ortega
+T33	location 2231 2235	U.S.
+T34	location 2260 2268	Honduras
+T35	location 2273 2283	Washington
+T36	person 2285 2309	Secretary of State Baker
+T37	location 2330 2343	United States
+T38	organization 2414 2420	Senate
+T39	organization 2584 2588	U.N.
+T40	organization 2594 2597	OAS
+T41	location 2710 2719	Nicaragua
+T42	person 2736 2746	Pres. Bush
+T43	person 2754 2776	Soviet Pres. Gorbachev
+T44	location 2805 2814	Nicaragua
+T45	person 2844 2852	Mr. Bush
+T46	location 2933 2944	Air Force 1
+T47	location 2985 2993	New York
+T48	person 3050 3065	Pres. Gorbachev
+T49	location 3101 3110	Nicaragua
+T50	location 3115 3130	Central America
+T51	location 3176 3182	Europe
+T52	person 3613 3622	Gorbachev
+T53	person 3671 3674	Jim
+T54	organization 3694 3712	U.S. Supreme Court
+T55	location 3815 3823	Maryland
+T56	location 4055 4061	Mexico
+T57	publication_title 4115 4132	U.S. Constitution
+T58	location 4209 4213	U.S.
+T59	location 4231 4241	Washington
+T60	location 4249 4253	D.C.
+T61	person 4254 4272	Mayor Marion Barry
+T62	organization 4357 4376	U.S. District Court
+T63	organization 4429 4449	Northrop Corporation
+T64	organization 4528 4541	U.S. military
+T65	organization 4677 4685	Northrop
+T66	location 4901 4924	Cape Canaveral, Florida
+T67	location 4988 4998	East Coast
+T68	location 5039 5055	Washington, D.C.
+T69	person 5158 5188	Mission Commander John Creyton
+T70	organization 5343 5358	U.S. government
+T71	organization 5430 5449	Commerce Department
+T72	organization 5745 5762	Soviet parliament
+T73	person 5915 5930	Pres. Gorbachev
+T74	program_title 6153 6165	News Summary
+T75	person 6190 6209	Pres. Daniel Ortega
+T76	location 6213 6222	Nicaragua
+T77	organization 6249 6254	Exxon
+T78	program_title 6294 6304	NEWS MAKER
+T79	program_title 6344 6354	News Maker
+T80	location 6370 6379	Nicaragua
+T81	person 6391 6414	President Daniel Ortega
+T82	person 6416 6426	Mr. Ortega
+T83	person 6468 6484	Violeta Chamorro
+T84	location 6583 6592	Nicaragua
+T85	location 6704 6717	United States
+T86	person 6733 6759	Correspondent Kwame Holman
+T87	person 6770 6786	President Ortega
+T88	location 6790 6797	Managua
+T89	person 6819 6836	Alehandro Bedania
+T90	organization 6866 6893	Nicaraguan Foreign Ministry
+T91	organization 7229 7232	UNO
+T92	organization 7434 7441	Perenta
+T93	organization 7507 7510	UNO
+T94	organization 7731 7734	UNO
+T95	organization 7762 7769	Perenta
+T96	organization 7811 7814	UNO
+T97	organization 7833 7840	Perenta
+T98	organization 8152 8168	Sandinista Front
+T99	location 8204 8213	Nicaragua
+T100	organization 8731 8735	Army
+T101	organization 8744 8764	Ministry of Interior
+T102	person 8918 8931	Mrs. Chamorro
+T103	organization 8986 8990	Army
+T104	person 9784 9803	President Gorbachev
+T105	person 9808 9822	President Bush
+T106	person 9890 9903	Mr. Gorbachev
+T107	person 9994 10007	Mr. Gorbachev
+T108	organization 10016 10028	Soviet Union
+T109	location 10119 10132	United States
+T110	location 10285 10294	Nicaragua
+T111	location 10314 10318	U.S.
+T112	location 10330 10334	U.S.
+T113	location 10346 10350	U.S.
+T114	location 10540 10544	U.S.
+T115	location 10585 10589	U.S.
+T116	location 10610 10614	U.S.
+T117	organization 10691 10694	UNO
+T118	organization 10771 10783	Soviet Union
+T119	organization 11063 11079	Sandinista Front
+T120	person 11494 11509	Secretary Baker
+T121	person 11543 11556	Mrs, Chamorro
+T122	location 12383 12392	Nicaragua
+T123	location 13393 13406	United States
+T124	organization 14202 14217	Government Army
+T125	person 14499 14513	General Ortega
+T126	organization 14536 14539	UNO
+T127	person 14540 14558	Mr. Antonio Lacaia
+T128	organization 14617 14634	Interior Ministry
+T129	organization 14643 14647	army
+T130	location 15556 15569	United States
+T131	organization 15644 15655	Sandinistas
+T132	location 15723 15732	Nicaragua
+T133	location 15786 15800	Eastern Europe
+T134	person 15877 15887	Mr. Castro
+T135	location 15890 15894	Cuba
+T136	location 15941 15945	Cuba
+T137	organization 16047 16071	Socialists International
+T138	organization 16112 16128	Cuban Government
+T139	organization 16478 16489	Sandinistas
+T140	organization 16493 16496	UNO
+T141	organization 16617 16628	Sandinistas
+T142	person 16713 16726	Daniel Ortega
+T143	organization 16979 16982	UNO
+T144	organization 17105 17108	UNO
+T145	organization 17297 17308	Sandinistas
+T146	program_title 17927 17935	Newshour
+T147	organization 17946 17951	Exxon
+T148	program_title 17977 18007	FOCUS - EXXON - FACING CHARGES
+T149	organization 18056 18073	Exxon Corporation
+T150	location 18103 18120	Anchorage, Alaska
+T151	event 18176 18192	Alaska oil spill
+T152	organization 18205 18210	Exxon
+T153	location 18347 18359	Exxon Valdez
+T154	organization 18478 18483	Exxon
+T155	organization 18530 18535	Exxon
+T156	organization 18544 18562	Justice Department
+T157	person 18716 18728	Robert Adler
+T158	organization 18759 18793	National Resources Defense Council
+T159	organization 18799 18803	NRDC
+T160	organization 18854 18859	Exxon
+T161	person 18861 18873	Richard Samp
+T162	organization 18899 18926	Washington Legal Foundation
+T163	person 18928 18937	Mr. Adler
+T164	organization 18944 18949	Exxon
+T165	organization 19056 19064	Congress
+T166	location 19247 19251	U.S.
+T167	organization 19425 19430	Exxon
+T168	organization 19475 19480	Exxon
+T169	person 19858 19866	Mr. Samp
+T170	organization 19871 19876	Exxon
+T171	person 19982 19991	Mr. Adler
+T172	organization 20017 20022	Exxon
+T173	person 20957 20966	Mr. Adler
+T174	organization 21206 21211	Exxon
+T175	organization 21867 21872	Exxon
+T176	person 22071 22079	Mr. Samp
+T177	organization 22503 22508	Exxon
+T178	location 22720 22726	Alaska
+T179	person 22990 22999	Mr. Adler
+T180	organization 23175 23194	Ashland Oil Company
+T181	location 23216 23226	Ohio River
+T182	organization 23778 23783	Exxon
+T183	person 24164 24172	Mr. Samp
+T184	organization 24350 24355	Exxon
+T185	organization 24457 24462	Exxon
+T186	location 24722 24734	Exxon Valdez
+T187	person 25185 25194	Mr. Adler
+T188	organization 25502 25520	Justice Department
+T189	organization 25672 25677	Exxon
+T190	organization 25883 25888	Exxon
+T191	person 26010 26019	Mr. Adler
+T192	organization 26336 26354	Justice Department
+T193	person 27126 27135	Mr. Adler
+T194	organization 27181 27198	Exxon Corporation
+T195	organization 27331 27336	Exxon
+T196	person 27573 27581	Mr. Samp
+T197	person 27601 27610	Mr. Adler
+T198	person 27933 27942	Mr. Adler
+T199	organization 27948 27953	Exxon
+T200	person 28469 28478	Mr. Adler
+T201	organization 28705 28730	General Accounting Office
+T202	location 28989 28996	America
+T203	person 29321 29329	Mr. Samp
+T204	person 30227 30235	Mr. Samp
+T205	person 30237 30246	Mr. Adler
+T206	program_title 30329 30356	FOCUS - NEGLIGENT TREATMENT
+T207	organization 30678 30685	Harvard
+T208	location 30718 30726	New York
+T209	location 30838 30846	New York
+T210	person 31238 31248	Pres. Bush
+T211	organization 31279 31303	Johns Hopkins University
+T212	location 31724 31731	America
+T213	publication_title 31858 31889	New England Journal of Medicine
+T214	person 32161 32178	Dr. David Axelrod
+T215	location 32186 32200	New York State
+T216	publication_title 32245 32259	Harvard Report
+T217	person 32339 32354	Harvey Wachsman
+T218	organization 32416 32466	American Board of Professional Liability Attorneys
+T219	organization 32491 32510	Brooklyn Law School
+T220	organization 32519 32566	University of South Florida College of Medicine
+T221	person 32568 32579	Dr. Axelrod
+T222	organization 32816 32824	Stanford
+T223	organization 33400 33407	Harvard
+T224	person 34534 34544	Pres. Bush
+T225	person 36267 36279	Dr. Wachsman
+T226	organization 36581 36584	AMA
+T227	person 37574 37585	Dr. Axelrod
+T228	person 37873 37884	Dr. Axelrod
+T229	person 38201 38212	Dr. Axelrod
+T230	publication_title 39695 39705	New Yorker
+T231	organization 40913 40920	Harvard
+T232	organization 41105 41112	Harvard
+T233	organization 42419 42426	Harvard
+T234	location 43458 43466	Virginia
+T235	location 43471 43482	New Zealand
+T236	location 43506 43517	New Zealand
+T237	location 43800 43811	New Zealand
+T238	person 43986 43997	Dr. Axelrod
+T239	person 44677 44689	Dr. Wachsman
+T240	organization 44928 44935	Harvard
+T241	location 45248 45256	Virginia
+T242	location 45308 45319	New Zealand
+T243	location 45501 45512	New Zealand
+T244	location 45619 45627	Virginia
+T245	program_title 46859 46864	RECAP
+T246	location 46923 46932	Nicaragua
+T247	program_title 47029 47037	Newshour
+T248	person 47039 47051	Pres. Ortega
+T249	organization 47173 47177	NASA
+T250	person 47240 47245	Robin
+T251	person 47274 47277	Jim
+T252	program_title 47290 47298	Newshour
+T253	person 47347 47361	Robert MacNeil
