@@ -1,0 +1,128 @@
+T1	Person 505 515	Jim Lehrer
+T2	Person 523 536	Judy Woodruff
+T3	Place 771 777	Poland
+T4	Place 783 792	Argentina
+T5	Place 834 843	Nicaragua
+T6	Place 900 911	El Salvador
+T7	Person 1100 1113	George Shultz
+T8	Person 1211 1225	Andrei Gromyko
+T9	Place 1255 1259	Oslo
+T10	Place 1411 1420	Stockholm
+T11	Place 1490 1496	Geneva
+T12	Person 1614 1621	Gromyko
+T13	Place 1947 1953	Europe
+T14	Place 2072 2078	Europe
+T15	Place 2107 2116	Stockholm
+T16	Place 2122 2128	Moscow
+T17	Place 2131 2137	Warsaw
+T18	Place 2277 2289	East Germany
+T19	Place 2294 2308	Czechoslovakia
+T20	Organisation 3159 3167	Congress
+T21	Person 3283 3294	Robert Dole
+T22	Place 3516 3524	Packwood
+T23	Organisation 3851 3859	Congress
+T24	Organisation 4095 4103	Congress
+T25	Place 4254 4262	Colorado
+T26	Person 4275 4288	Timothy Wirth
+T27	Organisation 4662 4686	House Of Representatives
+T28	Organisation 4773 4779	Senate
+T29	Person 5320 5333	Merrill Brown
+T30	Place 7286 7298	Capitol Hill
+T31	Organisation 7380 7388	Congress
+T32	Person 8767 8771	Dole
+T33	Person 8838 8843	Nader
+T34	Person 8884 8893	Tim Wirth
+T35	Organisation 9853 9861	Congress
+T36	Organisation 10066 10086	United States Senate
+T37	Place 10189 10197	Packwood
+T38	Place 13062 13073	White House
+T39	Place 14395 14403	American
+T40	Person 17124 17137	Ronald Reagan
+T41	Person 19324 19337	Ronald Reagan
+T42	Person 20129 20142	Ronald Reagan
+T43	Person 20302 20308	Reagan
+T44	Person 20650 20656	Reagan
+T45	Place 20709 20721	Pennsylvania
+T46	Person 20769 20782	Ronald Reagan
+T47	Person 20900 20906	Reagan
+T48	Place 21106 21117	White House
+T49	Place 21252 21266	United Nations
+T50	Place 21347 21353	Africa
+T51	Place 21520 21526	Africa
+T52	Person 21856 21866	Washington
+T53	Person 21876 21889	John Danforth
+T54	Place 21956 21962	Africa
+T55	Place 21968 21976	Missouri
+T56	Person 22017 22029	Howard Baker
+T57	Person 22143 22159	president Reagan
+T58	Place 22272 22278	Africa
+T59	Place 22835 22845	Mozambique
+T60	Place 23384 23397	United States
+T61	Place 23466 23472	Africa
+T62	Organisation 23620 23629	Sugarland
+T63	Place 23640 23652	Pennsylvania
+T64	Place 23668 23678	Casablanca
+T65	Place 23743 23748	Egypt
+T66	Place 23780 23785	Egypt
+T67	Place 23832 23838	Israel
+T68	Place 24034 24041	Lebanon
+T69	Place 24059 24065	Beirut
+T70	Organisation 24183 24202	American University
+T71	Place 24279 24286	Tripoli
+T72	Place 24416 24421	Sidon
+T73	Person 24569 24579	Washington
+T74	Person 24684 24700	president Reagan
+T75	Place 24706 24712	Polish
+T76	Place 24791 24804	United States
+T77	Place 24875 24879	Rome
+T78	Place 24976 24983	Vatican
+T79	Place 25152 25156	Rome
+T80	Place 25226 25235	Argentina
+T81	Person 25297 25310	Raul Alfonsin
+T82	Place 25454 25467	United States
+T83	Place 25531 25540	Nicaragua
+T84	Place 25572 25581	Argentina
+T85	Place 25587 25593	Mexico
+T86	Place 25733 25744	El Salvador
+T87	Place 25880 25891	Lempa River
+T88	Place 25921 25932	El Salvador
+T89	Place 26113 26123	Chirilagua
+T90	Place 26418 26428	Chirilagua
+T91	Place 26542 26552	Chirilagua
+T92	Place 26717 26728	El Salvador
+T93	Place 26843 26853	Chirilagua
+T94	Place 27093 27102	Cleveland
+T95	Place 27104 27108	Ohio
+T96	Place 27562 27572	Chirilagua
+T97	Place 27750 27761	El Salvador
+T98	Place 27971 27984	United States
+T99	Place 28196 28205	Cleveland
+T100	Place 28270 28280	Chirilagua
+T101	Place 28623 28634	El Salvador
+T102	Place 28680 28689	Cleveland
+T103	Place 29324 29334	Chirilagua
+T104	Place 30900 30910	Chirilagua
+T105	Place 31413 31422	Cleveland
+T106	Place 32003 32014	El Salvador
+T107	Place 32568 32578	Chirilagua
+T108	Place 33160 33173	United States
+T109	Place 33403 33413	Chirilagua
+T110	Place 35101 35112	El Salvador
+T111	Place 35354 35363	Cleveland
+T112	Place 35417 35427	Chirilagua
+T113	Place 35492 35501	Tennessee
+T114	Place 35518 35526	New York
+T115	Place 35603 35613	New Jersey
+T116	Person 35622 35639	Harrison Williams
+T117	Place 36834 36843	Baltimore
+T118	Person 37565 37587	charlayne Hunter-gault
+T119	Place 38918 38925	Atlanta
+T120	Place 39008 39015	Atlanta
+T121	Place 42345 42355	California
+T122	Place 42359 42372	San Francisco
+T123	Organisation 42419 42423	Kqed
+T124	Place 43974 43987	United States
+T125	Place 44920 44933	United States
+T126	Person 48612 48618	Howard
+T127	Organisation 52195 52214	World Wildlife Fund
+T128	Person 53073 53087	Robert Macneil

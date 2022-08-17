@@ -1,0 +1,173 @@
+T1	Person 150 162	Oliver North
+T2	Person 199 213	Lawrence Walsh
+T3	Place 272 280	New York
+T4	Person 293 305	Mario Biaggi
+T5	Place 424 436	South Africa
+T6	Person 618 632	Elliott Abrams
+T7	Organisation 748 754	Senate
+T8	Person 877 890	Jonathan Mann
+T9	Place 1033 1037	Iran
+T10	Person 1067 1079	Oliver North
+T11	Person 1900 1905	Hakim
+T12	Person 1928 1944	president Reagan
+T13	Person 2032 2046	Elliott Abrams
+T14	Person 2106 2120	George Schultz
+T15	Person 2350 2362	Oliver North
+T16	Person 2364 2378	Lawrence Walsh
+T17	Organisation 2402 2408	Senate
+T18	Organisation 3010 3016	Senate
+T19	Person 3140 3153	Warren Rudman
+T20	Person 3281 3291	Washington
+T21	Place 3931 3939	New York
+T22	Person 4005 4017	Mario Biaggi
+T23	Place 4085 4093	New York
+T24	Person 4252 4263	Edwin Meese
+T25	Place 5010 5015	Forth
+T26	Person 5378 5388	Washington
+T27	Place 5620 5626	Madrid
+T28	Person 5659 5672	Leon Sullivan
+T29	Place 5742 5754	South Africa
+T30	Person 5818 5828	Washington
+T31	Place 5844 5856	Philadelphia
+T32	Place 5965 5977	South Africa
+T33	Place 6278 6290	South Africa
+T34	Place 6426 6432	Canada
+T35	Person 6641 6655	Brian Mulroney
+T36	Place 6677 6683	Canada
+T37	Place 6726 6732	Canada
+T38	Place 7074 7080	Canada
+T39	Person 7118 7134	president Reagan
+T40	Place 7147 7152	Italy
+T41	Place 7203 7209	Venice
+T42	Person 7271 7277	Reagan
+T43	Place 7620 7632	North Dakota
+T44	Person 7655 7671	Bruce Van Sickle
+T45	Person 7947 7961	Andres Segovia
+T46	Place 8046 8052	Madrid
+T47	Place 8054 8059	Spain
+T48	Person 8147 8161	Elliott Abrams
+T49	Person 8437 8451	Elliott Abrams
+T50	Person 8509 8522	Judy Woodruff
+T51	Person 8977 8990	William Cohen
+T52	Person 9096 9109	John Singlaub
+T53	Place 9166 9172	Taiwan
+T54	Place 9177 9188	South Korea
+T55	Place 9931 9937	Melton
+T56	Organisation 10172 10180	Congress
+T57	Place 10220 10226	Melton
+T58	Place 10635 10641	Melton
+T59	Place 11301 11307	Melton
+T60	Place 11481 11487	Melton
+T61	Place 11564 11570	Melton
+T62	Person 11958 11970	Oliver North
+T63	Person 12063 12075	Oliver North
+T64	Person 12234 12246	Oliver North
+T65	Place 12625 12634	Nicaragua
+T66	Organisation 15060 15066	Senate
+T67	Organisation 15234 15242	Congress
+T68	Place 15862 15875	Latin America
+T69	Person 15888 15893	Habib
+T70	Organisation 18419 18427	Congress
+T71	Organisation 19102 19110	Congress
+T72	Place 19956 19969	United States
+T73	Person 21531 21544	George Shultz
+T74	Organisation 22495 22501	Senate
+T75	Place 22951 22964	United States
+T76	Organisation 23018 23026	Congress
+T77	Organisation 23281 23289	Congress
+T78	Organisation 23819 23827	Hamilton
+T79	Place 24475 24487	Panama canal
+T80	Place 24492 24498	Mexico
+T81	Person 25254 25268	Richard Secord
+T82	Person 25313 25318	Hakim
+T83	Place 25521 25525	Iran
+T84	Person 25595 25599	Shah
+T85	Person 25613 25618	Hakim
+T86	Person 25758 25763	Hakim
+T87	Place 25834 25838	Iran
+T88	Person 25938 25943	Hakim
+T89	Person 26080 26085	Hakim
+T90	Person 26119 26124	Hakim
+T91	Person 26255 26260	Hakim
+T92	Place 26392 26405	United States
+T93	Place 26591 26604	United States
+T94	Place 26640 26651	White House
+T95	Place 26805 26809	Iran
+T96	Place 27061 27074	United States
+T97	Place 27305 27318	United States
+T98	Person 27390 27395	Hakim
+T99	Place 31454 31458	Iran
+T100	Place 31467 31480	United States
+T101	Person 31526 31531	Hakim
+T102	Organisation 31790 31796	Senate
+T103	Person 31817 31830	Daniel Inouye
+T104	Place 31834 31840	Hawaii
+T105	Person 31856 31869	Warren Rudman
+T106	Place 31873 31886	New Hampshire
+T107	Organisation 31910 31916	Senate
+T108	Person 31970 31975	Hakim
+T109	Place 32301 32313	Philadelphia
+T110	Place 32883 32896	United States
+T111	Person 33225 33230	Hakim
+T112	Person 33297 33313	president Reagan
+T113	Place 33528 33532	Iran
+T114	Person 33551 33556	Hakim
+T115	Person 33690 33704	Lawrence Walsh
+T116	Person 33829 33834	Hakim
+T117	Person 33979 33984	Hakim
+T118	Place 34045 34058	United States
+T119	Place 34129 34142	United States
+T120	Place 34506 34519	United States
+T121	Person 34535 34547	Oliver North
+T122	Person 34549 34561	Oliver North
+T123	Person 34848 34860	Oliver North
+T124	Person 35042 35055	Bud Mcfarlane
+T125	Place 36062 36075	United States
+T126	Place 36176 36189	United States
+T127	Place 36239 36252	United States
+T128	Place 38389 38402	United States
+T129	Place 39163 39172	Nicaragua
+T130	Place 39195 39201	Africa
+T131	Place 39205 39209	Asia
+T132	Person 39633 39647	Elliott Abrams
+T133	Person 40456 40465	Don Regan
+T134	Place 40671 40675	Iran
+T135	Place 41103 41107	Iran
+T136	Person 41966 41979	Jonathan Mann
+T137	Person 42223 42236	Jonathan Mann
+T138	Person 42344 42348	Mann
+T139	Place 43039 43052	South America
+T140	Place 43078 43087	Caribbean
+T141	Place 43099 43112	North America
+T142	Place 43131 43137	Europe
+T143	Place 43164 43170	Africa
+T144	Place 43197 43201	Asia
+T145	Place 43225 43236	Middle East
+T146	Place 43447 43455	Americas
+T147	Place 43492 43505	United States
+T148	Place 45029 45035	Africa
+T149	Place 45040 45046	Africa
+T150	Place 45232 45238	Europe
+T151	Place 45613 45619	Africa
+T152	Place 47168 47174	Africa
+T153	Place 47740 47753	United States
+T154	Person 47820 47824	Mann
+T155	Place 48035 48041	Europe
+T156	Place 48055 48069	United Kingdom
+T157	Place 48074 48085	Switzerland
+T158	Place 48567 48573	Uganda
+T159	Place 48575 48581	Uganda
+T160	Place 48801 48807	Uganda
+T161	Place 48951 48960	Australia
+T162	Place 49417 49430	United States
+T163	Place 49438 49444	Europe
+T164	Organisation 52267 52283	Rand Corporation
+T165	Place 52929 52935	Africa
+T166	Person 53015 53019	Mann
+T167	Person 53256 53268	Oliver North
+T168	Person 53355 53369	Elliott Abrams
+T169	Person 53415 53429	Lawrence Walsh
+T170	Organisation 53539 53545	Senate
+T171	Person 53566 53579	Daniel Inouye
+T172	Person 53584 53597	Warren Rudman
+T173	Person 53721 53731	Jim Lehrer

@@ -1,0 +1,66 @@
+T1	Person 150 162	oliver north
+T2	Person 199 213	lawrence walsh
+T3	Person 618 632	elliott abrams
+T4	Person 873 890	dr. jonathan mann
+T5	Person 1067 1079	oliver north
+T6	Person 1928 1944	president reagan
+T7	Person 2032 2046	elliott abrams
+T8	Person 2106 2120	george schultz
+T9	Person 2350 2362	oliver north
+T10	Person 2364 2378	lawrence walsh
+T11	Person 3140 3153	warren rudman
+T12	Person 3281 3291	washington
+T13	Person 4252 4263	edwin meese
+T14	Organisation 5231 5254	foreign service officer
+T15	Person 5378 5388	washington
+T16	Person 5659 5672	leon sullivan
+T17	Person 5818 5828	washington
+T18	Place 5844 5856	philadelphia
+T19	Person 6641 6655	brian mulroney
+T20	Person 7118 7134	president reagan
+T21	Place 7203 7209	venice
+T22	Place 7610 7632	bismarck, north dakota
+T23	Person 7655 7671	bruce van sickle
+T24	Person 7947 7961	andres segovia
+T25	Person 8147 8161	elliott abrams
+T26	Person 8437 8451	elliott abrams
+T27	Person 8509 8522	judy woodruff
+T28	Person 8977 8990	william cohen
+T29	Person 9096 9109	john singlaub
+T30	Place 9166 9172	taiwan
+T31	Organisation 10694 10717	foreign service officer
+T32	Person 11958 11970	oliver north
+T33	Person 12063 12075	oliver north
+T34	Person 12234 12246	oliver north
+T35	Place 12625 12634	nicaragua
+T36	Place 15862 15875	latin america
+T37	Person 21531 21544	george shultz
+T38	Organisation 23819 23827	hamilton
+T39	Place 24475 24487	panama canal
+T40	Place 24492 24498	mexico
+T41	Person 25254 25268	richard secord
+T42	Person 25595 25599	shah
+T43	Person 31817 31830	daniel inouye
+T44	Place 31834 31840	hawaii
+T45	Person 31856 31869	warren rudman
+T46	Place 31877 31886	hampshire
+T47	Place 32301 32313	philadelphia
+T48	Person 33297 33313	president reagan
+T49	Person 33690 33704	lawrence walsh
+T50	Person 34535 34547	oliver north
+T51	Person 34549 34561	oliver north
+T52	Person 34848 34860	oliver north
+T53	Person 35042 35055	bud mcfarlane
+T54	Place 39163 39172	nicaragua
+T55	Person 39633 39647	elliott abrams
+T56	Person 40456 40465	don regan
+T57	Organisation 40515 40522	cabinet
+T58	Person 41962 41979	dr. jonathan mann
+T59	Person 42113 42123	washington
+T60	Person 42219 42236	dr. jonathan mann
+T61	Organisation 52267 52283	rand corporation
+T62	Person 53256 53268	oliver north
+T63	Person 53355 53369	elliott abrams
+T64	Person 53415 53429	lawrence walsh
+T65	Person 53566 53579	daniel inouye
+T66	Person 53584 53597	warren rudman

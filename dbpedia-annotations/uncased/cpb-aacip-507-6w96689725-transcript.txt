@@ -1,0 +1,29 @@
+T1	Organisation 171 175	ford
+T2	Organisation 351 355	ford
+T3	Organisation 1187 1191	ford
+T4	Place 2285 2307	scranton, pennsylvania
+T5	Person 2481 2493	jimmy carter
+T6	Place 2563 2567	iowa
+T7	Person 3064 3077	ronald reagan
+T8	Person 4008 4019	gerald ford
+T9	Person 4099 4112	ronald reagan
+T10	Organisation 7420 7424	ment
+T11	Organisation 8866 8870	ford
+T12	Person 8875 8887	jimmy carter
+T13	Organisation 9173 9177	ford
+T14	Organisation 13010 13014	ford
+T15	Organisation 14146 14150	ford
+T16	Person 14526 14529	req
+T17	Place 16417 16421	iowa
+T18	Organisation 16741 16745	ford
+T19	Person 17363 17374	james baker
+T20	Organisation 17609 17613	ford
+T21	Organisation 18133 18138	hopes
+T22	Place 20605 20609	rome
+T23	Organisation 21529 21533	ford
+T24	Place 24225 24233	illinois
+T25	Place 24235 24247	pennsylvania
+T26	Place 24252 24260	michigan
+T27	Person 24661 24673	jimmy carter
+T28	Person 24876 24888	jimmy carter
+T29	Person 27105 27119	robert macneil

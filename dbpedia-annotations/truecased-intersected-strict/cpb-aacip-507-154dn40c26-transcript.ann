@@ -1,0 +1,101 @@
+T1	Place 76 82	Moscow
+T2	Place 224 236	South Africa
+T3	Place 327 333	Dallas
+T4	Person 407 417	Jim Lehrer
+T5	Person 435 448	Judy Woodruff
+T6	Place 1025 1031	Moscow
+T7	Person 1417 1430	Yuri Andropov
+T8	Place 1590 1596	Moscow
+T9	Place 1668 1681	United States
+T10	Person 2346 2356	John Block
+T11	Place 3637 3642	Texas
+T12	Person 3675 3681	Reagan
+T13	Place 4595 4603	Illinois
+T14	Place 4605 4617	Rhode Island
+T15	Place 4619 4627	Michigan
+T16	Place 4629 4641	Pennsylvania
+T17	Place 4643 4647	Ohio
+T18	Place 4721 4728	Chicago
+T19	Place 5104 5110	Dallas
+T20	Person 5933 5949	Margaret Heckler
+T21	Place 6059 6069	California
+T22	Place 6230 6240	Pleasanton
+T23	Organisation 6297 6305	Congress
+T24	Place 7063 7075	South Africa
+T25	Place 7217 7225	New York
+T26	Place 7269 7281	South Africa
+T27	Place 7488 7500	South Africa
+T28	Place 7581 7593	South Africa
+T29	Place 7821 7828	Lebanon
+T30	Person 7848 7853	Zahle
+T31	Place 7992 7998	Beirut
+T32	Place 8129 8134	Egypt
+T33	Person 8191 8207	Kamal Hassan Ali
+T34	Person 8252 8265	Hosni Mubarak
+T35	Place 8352 8357	Egypt
+T36	Person 8401 8412	Anwar Sadat
+T37	Person 8451 8458	Mubarak
+T38	Place 8473 8478	Egypt
+T39	Place 9382 9390	New York
+T40	Place 9943 9951	New York
+T41	Place 10369 10377	New York
+T42	Place 10456 10464	New York
+T43	Place 10537 10545	New City
+T44	Place 10908 10916	New York
+T45	Person 10949 10959	Ryan White
+T46	Place 11467 11480	San Francisco
+T47	Person 12707 12713	Robert
+T48	Person 13616 13622	Newman
+T49	Place 14757 14768	Los Angeles
+T50	Person 15064 15077	Mathilde Krim
+T51	Place 16548 16554	Africa
+T52	Place 16718 16724	Europe
+T53	Person 21618 21628	Washington
+T54	Organisation 21999 22024	Lambda Legal Defense Fund
+T55	Organisation 23354 23375	Public Health Service
+T56	Organisation 23384 23413	National Institutes Of Health
+T57	Place 24163 24171	New York
+T58	Place 24231 24239	New York
+T59	Place 25090 25098	New York
+T60	Place 25146 25154	New York
+T61	Place 25258 25266	New York
+T62	Place 27123 27129	Kokomo
+T63	Place 27407 27413	Kokomo
+T64	Place 28127 28135	New York
+T65	Person 29071 29076	Alisa
+T66	Place 31171 31181	California
+T67	Place 31945 31953	Colorado
+T68	Person 32181 32187	Vernon
+T69	Person 36788 36794	Vernon
+T70	Place 36864 36872	Colorado
+T71	Person 37246 37252	Vernon
+T72	Place 38052 38060	Colorado
+T73	Place 38098 38108	New Jersey
+T74	Place 38256 38266	New Jersey
+T75	Place 38326 38334	Colorado
+T76	Place 38398 38404	Denver
+T77	Person 38779 38785	Vernon
+T78	Place 40212 40220	Colorado
+T79	Place 40428 40436	New York
+T80	Place 40473 40483	New Jersey
+T81	Person 40736 40742	Vernon
+T82	Person 41553 41559	Vernon
+T83	Organisation 41919 41928	Red Cross
+T84	Person 43412 43418	Vernon
+T85	Place 43423 43431	Colorado
+T86	Place 43472 43480	New York
+T87	Place 45281 45285	Iowa
+T88	Person 45298 45307	Jim Leach
+T89	Person 46541 46551	Ray Powell
+T90	Place 47353 47360	Creston
+T91	Organisation 47536 47549	District Bank
+T92	Place 48244 48251	Creston
+T93	Place 50112 50116	Iowa
+T94	Person 50129 50142	Jim Lightfoot
+T95	Person 50642 50651	Jim Leach
+T96	Place 50664 50668	Iowa
+T97	Place 51552 51560	Illinois
+T98	Organisation 53555 53563	Congress
+T99	Place 53623 53629	Moscow
+T100	Place 53766 53778	South Africa
+T101	Person 54018 54031	Judy Woodruff

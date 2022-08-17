@@ -1,0 +1,98 @@
+T1	Place 62 71	nicaragua
+T2	Organisation 74 84	sandinista
+T3	Place 442 451	nicaragua
+T4	Person 453 466	daniel ortega
+T5	Organisation 522 527	exxon
+T6	Organisation 575 580	exxon
+T7	Person 607 619	robert adler
+T8	Person 780 785	david
+T9	Place 854 863	nicaragua
+T10	Organisation 866 876	sandinista
+T11	Person 981 994	daniel ortega
+T12	Person 1740 1756	violeta chamorro
+T13	Place 1954 1962	honduras
+T14	Person 2017 2025	chamorro
+T15	Place 2260 2268	honduras
+T16	Person 2273 2283	washington
+T17	Place 2594 2597	oas
+T18	Place 2710 2719	nicaragua
+T19	Place 2805 2814	nicaragua
+T20	Place 3101 3110	nicaragua
+T21	Place 3815 3823	maryland
+T22	Place 4055 4061	mexico
+T23	Person 4231 4241	washington
+T24	Person 4260 4272	marion barry
+T25	Place 4901 4924	cape canaveral, florida
+T26	Person 5039 5049	washington
+T27	Organisation 5745 5762	soviet parliament
+T28	Person 6196 6209	daniel ortega
+T29	Place 6213 6222	nicaragua
+T30	Organisation 6249 6254	exxon
+T31	Place 6370 6379	nicaragua
+T32	Person 6401 6414	daniel ortega
+T33	Person 6468 6484	violeta chamorro
+T34	Place 6583 6592	nicaragua
+T35	Organisation 6652 6662	sandanista
+T36	Place 6790 6797	managua
+T37	Organisation 8152 8168	sandinista front
+T38	Place 8204 8213	nicaragua
+T39	Person 8923 8931	chamorro
+T40	Place 10285 10294	nicaragua
+T41	Organisation 11063 11079	sandinista front
+T42	Person 11548 11556	chamorro
+T43	Place 12383 12392	nicaragua
+T44	Organisation 15644 15655	sandinistas
+T45	Place 15723 15732	nicaragua
+T46	Organisation 16478 16489	sandinistas
+T47	Organisation 16617 16628	sandinistas
+T48	Person 16713 16726	daniel ortega
+T49	Organisation 16790 16800	sandinista
+T50	Organisation 17297 17308	sandinistas
+T51	Organisation 17946 17951	exxon
+T52	Organisation 17985 17990	exxon
+T53	Organisation 18056 18073	exxon corporation
+T54	Place 18103 18120	anchorage, alaska
+T55	Place 18176 18182	alaska
+T56	Organisation 18205 18210	exxon
+T57	Organisation 18478 18483	exxon
+T58	Organisation 18530 18535	exxon
+T59	Person 18716 18728	robert adler
+T60	Organisation 18854 18859	exxon
+T61	Person 18932 18937	adler
+T62	Organisation 18944 18949	exxon
+T63	Organisation 19425 19430	exxon
+T64	Organisation 19475 19480	exxon
+T65	Organisation 19871 19876	exxon
+T66	Person 19986 19991	adler
+T67	Organisation 20017 20022	exxon
+T68	Person 20961 20966	adler
+T69	Organisation 21206 21211	exxon
+T70	Organisation 21867 21872	exxon
+T71	Organisation 22503 22508	exxon
+T72	Place 22720 22726	alaska
+T73	Person 22994 22999	adler
+T74	Place 23216 23226	ohio river
+T75	Organisation 23778 23783	exxon
+T76	Organisation 24350 24355	exxon
+T77	Organisation 24457 24462	exxon
+T78	Person 25189 25194	adler
+T79	Organisation 25672 25677	exxon
+T80	Organisation 25883 25888	exxon
+T81	Person 26014 26019	adler
+T82	Person 27130 27135	adler
+T83	Organisation 27181 27198	exxon corporation
+T84	Organisation 27331 27336	exxon
+T85	Person 27605 27610	adler
+T86	Person 27937 27942	adler
+T87	Organisation 27948 27953	exxon
+T88	Person 28473 28478	adler
+T89	Person 30241 30246	adler
+T90	Person 32165 32170	david
+T91	Place 32533 32546	south florida
+T92	Place 43458 43466	virginia
+T93	Place 45248 45256	virginia
+T94	Place 45619 45627	virginia
+T95	Place 46923 46932	nicaragua
+T96	Organisation 46935 46945	sandinista
+T97	Organisation 47173 47177	nasa
+T98	Person 47347 47361	robert macneil

@@ -1,0 +1,128 @@
+T1	Person 82 92	Jim Lehrer
+T2	Person 363 378	Lamar Alexander
+T3	Person 383 392	Tom Udall
+T4	Organisation 413 419	Senate
+T5	Person 453 467	Lindsey Hilsum
+T6	Place 537 548	Ivory Coast
+T7	Person 602 612	Ray Suarez
+T8	Place 678 683	Texas
+T9	Person 766 779	Jeffrey Brown
+T10	Place 857 862	Haiti
+T11	Place 1605 1618	Nelson County
+T12	Organisation 2331 2366	Corporation For Public Broadcasting
+T13	Person 2499 2509	Washington
+T14	Organisation 2668 2692	House Of Representatives
+T15	Person 2801 2813	John Boehner
+T16	Person 3026 3036	Washington
+T17	Organisation 3488 3496	Congress
+T18	Person 4099 4110	Eric Cantor
+T19	Organisation 4273 4279	Senate
+T20	Place 4390 4394	Utah
+T21	Person 4409 4417	Mike Lee
+T22	Person 4438 4451	Judy Woodruff
+T23	Organisation 6893 6901	Congress
+T24	Organisation 7255 7263	Congress
+T25	Person 14435 14442	Clinton
+T26	Person 14452 14464	Alice Rivlin
+T27	Place 15228 15239	Ivory Coast
+T28	Place 15303 15308	Haiti
+T29	Person 15444 15455	Owen Honors
+T30	Place 15643 15651	Virginia
+T31	Organisation 15660 15664	Navy
+T32	Person 15673 15684	John Harvey
+T33	Organisation 16082 16086	Navy
+T34	Organisation 16157 16161	Navy
+T35	Place 16321 16329	Pakistan
+T36	Place 16356 16362	Punjab
+T37	Place 16654 16662	Pakistan
+T38	Place 16683 16694	Afghanistan
+T39	Person 16706 16718	Hamid Karzai
+T40	Person 16809 16815	Karzai
+T41	Place 17056 17067	Rockhampton
+T42	Place 17069 17078	Australia
+T43	Organisation 17209 17220	Steve Scott
+T44	Place 17325 17332	Hampton
+T45	Place 18272 18279	Hampton
+T46	Person 18627 18639	Saint George
+T47	Place 19192 19199	Detroit
+T48	Person 19279 19283	Ford
+T49	Organisation 19775 19783	Congress
+T50	Organisation 19907 19913	Senate
+T51	Person 19978 19987	Tom Udall
+T52	Place 20000 20010	New Mexico
+T53	Person 20044 20059	Lamar Alexander
+T54	Place 20063 20072	Tennessee
+T55	Organisation 20089 20095	Senate
+T56	Organisation 20267 20273	Senate
+T57	Organisation 20508 20532	House Of Representatives
+T58	Organisation 21256 21262	Senate
+T59	Organisation 21493 21499	Senate
+T60	Place 21593 21602	Tennessee
+T61	Organisation 21741 21747	Senate
+T62	Organisation 22666 22672	Senate
+T63	Organisation 23070 23076	Senate
+T64	Organisation 23737 23743	Senate
+T65	Organisation 23787 23793	Senate
+T66	Person 24093 24100	Russell
+T67	Organisation 24983 24989	Senate
+T68	Organisation 26609 26615	Senate
+T69	Organisation 27006 27012	Senate
+T70	Organisation 27315 27321	Senate
+T71	Organisation 27844 27850	Senate
+T72	Organisation 28431 28437	Senate
+T73	Organisation 28614 28620	Senate
+T74	Organisation 28821 28827	Senate
+T75	Person 28922 28932	Al Franken
+T76	Organisation 29444 29450	Senate
+T77	Organisation 30151 30157	Senate
+T78	Organisation 30763 30769	Senate
+T79	Organisation 30969 30975	Senate
+T80	Organisation 30999 31005	Senate
+T81	Organisation 31171 31177	Senate
+T82	Organisation 31418 31424	Senate
+T83	Place 31661 31672	Ivory Coast
+T84	Person 31840 31854	Lindsey Hilsum
+T85	Person 33226 33236	Ray Suarez
+T86	Person 33379 33385	Dupree
+T87	Place 33513 33519	Dallas
+T88	Person 33787 33793	Dupree
+T89	Place 33826 33831	Texas
+T90	Place 33882 33887	Texas
+T91	Person 34039 34052	Craig Watkins
+T92	Place 34889 34902	Dallas County
+T93	Place 35466 35471	Texas
+T94	Place 35575 35588	Dallas County
+T95	Place 35732 35745	Dallas County
+T96	Place 35749 35754	Texas
+T97	Place 36050 36055	Texas
+T98	Place 36625 36630	Texas
+T99	Place 37180 37185	Texas
+T100	Place 37808 37821	Dallas County
+T101	Place 39059 39072	Dallas County
+T102	Place 39199 39212	Dallas County
+T103	Place 39623 39636	Dallas County
+T104	Place 39642 39647	Texas
+T105	Person 40287 40300	Jeffrey Brown
+T106	Place 40403 40408	Haiti
+T107	Place 40627 40632	Haiti
+T108	Place 41020 41023	Gan
+T109	Place 41063 41070	Jamaica
+T110	Place 41250 41255	Haiti
+T111	Place 41395 41401	Oregon
+T112	Place 41524 41529	Haiti
+T113	Place 41642 41647	Haiti
+T114	Place 41930 41937	Jamaica
+T115	Place 42044 42051	Jamaica
+T116	Place 42385 42390	Haiti
+T117	Place 42576 42581	Haiti
+T118	Place 42608 42615	Jamaica
+T119	Place 42819 42826	Jamaica
+T120	Place 42856 42861	Haiti
+T121	Place 42871 42876	Haiti
+T122	Place 46717 46722	Haiti
+T123	Place 47731 47735	Nice
+T124	Place 49795 49800	Haiti
+T125	Organisation 50094 50098	Navy
+T126	Person 50315 50330	Margaret Warner
+T127	Place 50364 50375	South Korea
+T128	Person 50846 50856	Jim Lehrer

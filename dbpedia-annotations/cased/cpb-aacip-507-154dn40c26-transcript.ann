@@ -1,0 +1,142 @@
+T1	Place 76 82	Moscow
+T2	Organisation 141 167	Farm Credit Administration
+T3	Place 224 236	South Africa
+T4	Place 327 333	Dallas
+T5	Person 407 417	Jim Lehrer
+T6	Person 435 448	Judy Woodruff
+T7	Organisation 596 610	health concern
+T8	Place 1025 1031	Moscow
+T9	Person 1187 1193	Reagan
+T10	Place 1259 1265	Soviet
+T11	Person 1417 1430	Yuri Andropov
+T12	Place 1532 1538	Soviet
+T13	Place 1590 1596	Moscow
+T14	Place 1668 1681	United States
+T15	Organisation 2052 2078	Farm Credit Administration
+T16	Person 2346 2356	John Block
+T17	Place 2967 2975	American
+T18	Person 3425 3436	Tip O'Neill
+T19	Person 3463 3469	Reagan
+T20	Person 3519 3526	O'Neill
+T21	Place 3637 3642	Texas
+T22	Person 3644 3651	O'Neill
+T23	Person 3675 3681	Reagan
+T24	Place 4595 4603	Illinois
+T25	Place 4605 4617	Rhode Island
+T26	Place 4619 4627	Michigan
+T27	Place 4629 4641	Pennsylvania
+T28	Place 4721 4728	Chicago
+T29	Place 5104 5110	Dallas
+T30	Person 5933 5949	Margaret Heckler
+T31	Place 6059 6069	California
+T32	Place 6230 6240	Pleasanton
+T33	Organisation 6297 6305	Congress
+T34	Place 6673 6681	American
+T35	Place 7034 7042	American
+T36	Place 7063 7075	South Africa
+T37	Place 7217 7225	New York
+T38	Place 7258 7262	Kock
+T39	Place 7269 7281	South Africa
+T40	Place 7488 7500	South Africa
+T41	Place 7581 7593	South Africa
+T42	Place 7821 7828	Lebanon
+T43	Person 7848 7853	Zahle
+T44	Organisation 7870 7876	Syrian
+T45	Place 7992 7998	Beirut
+T46	Place 8129 8134	Egypt
+T47	Person 8191 8207	Kamal Hassan Ali
+T48	Person 8252 8265	Hosni Mubarak
+T49	Person 8276 8279	Ali
+T50	Place 8352 8357	Egypt
+T51	Person 8401 8412	Anwar Sadat
+T52	Person 8451 8458	Mubarak
+T53	Place 8473 8478	Egypt
+T54	Organisation 8797 8823	Farm Credit Administration
+T55	Place 9382 9395	New York City
+T56	Organisation 9913 9926	The residents
+T57	Place 9943 9951	New York
+T58	Place 10354 10360	Queens
+T59	Place 10369 10377	New York
+T60	Place 10456 10464	New York
+T61	Place 10908 10921	New York City
+T62	Person 10949 10959	Ryan White
+T63	Place 10963 10978	Kokomo, Indiana
+T64	Place 11467 11480	San Francisco
+T65	Person 12707 12713	Robert
+T66	Place 12746 12765	Seattle, Washington
+T67	Person 13616 13622	Newman
+T68	Organisation 13908 13924	public knowledge
+T69	Person 14630 14636	Robert
+T70	Place 14757 14768	Los Angeles
+T71	Person 15064 15077	Mathilde Krim
+T72	Place 16548 16554	Africa
+T73	Place 16718 16724	Europe
+T74	Place 16744 16750	Africa
+T75	Person 19776 19795	Helen Singer Kaplan
+T76	Organisation 20011 20023	Lambda Legal
+T77	Place 21013 21020	confine
+T78	Organisation 21999 22024	Lambda Legal Defense Fund
+T79	Person 22905 22909	Koch
+T80	Place 23209 23218	Kettering
+T81	Place 24163 24171	New York
+T82	Place 24231 24239	New York
+T83	Place 25090 25098	New York
+T84	Place 25146 25154	New York
+T85	Place 25258 25266	New York
+T86	Place 27123 27129	Kokomo
+T87	Place 27407 27413	Kokomo
+T88	Place 27438 27460	New Haven, Connecticut
+T89	Place 28127 28140	New York City
+T90	Person 29071 29076	Alisa
+T91	Place 31171 31181	California
+T92	Place 31945 31953	Colorado
+T93	Place 32146 32154	Colorado
+T94	Person 32181 32187	Vernon
+T95	Place 32693 32701	Colorado
+T96	Place 33637 33645	American
+T97	Person 36788 36794	Vernon
+T98	Place 36864 36872	Colorado
+T99	Person 37246 37252	Vernon
+T100	Place 38052 38060	Colorado
+T101	Place 38098 38108	New Jersey
+T102	Place 38256 38266	New Jersey
+T103	Place 38326 38334	Colorado
+T104	Place 38398 38404	Denver
+T105	Person 38779 38785	Vernon
+T106	Place 40212 40220	Colorado
+T107	Place 40428 40441	New York City
+T108	Place 40473 40483	New Jersey
+T109	Person 40736 40742	Vernon
+T110	Organisation 41098 41103	avail
+T111	Person 41553 41559	Vernon
+T112	Organisation 41919 41928	Red Cross
+T113	Person 43412 43418	Vernon
+T114	Place 43423 43431	Colorado
+T115	Place 43472 43480	New York
+T116	Organisation 43722 43748	Farm Credit Administration
+T117	Place 44645 44654	farm belt
+T118	Place 45088 45096	American
+T119	Place 45281 45285	Iowa
+T120	Person 45298 45307	Jim Leach
+T121	Person 46541 46551	Ray Powell
+T122	Place 46602 46615	Creston, Iowa
+T123	Place 47102 47115	Creston, Iowa
+T124	Place 47353 47360	Creston
+T125	Organisation 47536 47549	district bank
+T126	Place 48244 48251	Creston
+T127	Place 48686 48693	Creston
+T128	Place 49126 49133	Creston
+T129	Place 50064 50071	Creston
+T130	Place 50112 50116	Iowa
+T131	Person 50129 50142	Jim Lightfoot
+T132	Person 50642 50651	Jim Leach
+T133	Place 50664 50668	Iowa
+T134	Place 51552 51560	Illinois
+T135	Place 52059 52066	Creston
+T136	Place 53111 53119	American
+T137	Place 53231 53244	Creston, Iowa
+T138	Organisation 53555 53563	Congress
+T139	Place 53623 53629	Moscow
+T140	Organisation 53688 53714	Farm Credit Administration
+T141	Place 53766 53778	South Africa
+T142	Person 54018 54031	Judy Woodruff

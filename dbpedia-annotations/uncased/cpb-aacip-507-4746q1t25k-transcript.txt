@@ -1,0 +1,177 @@
+T1	Person 32 42	gwen ifill
+T2	Person 94 104	ray suarez
+T3	Organisation 160 167	cabinet
+T4	Person 253 273	elizabeth farnsworth
+T5	Organisation 487 494	cabinet
+T6	Person 543 556	norman mineta
+T7	Person 620 641	reagan administration
+T8	Person 652 664	linda chavez
+T9	Place 698 706	michigan
+T10	Person 715 730	spencer abraham
+T11	Organisation 1017 1024	cabinet
+T12	Organisation 1066 1073	cabinet
+T13	Organisation 1131 1138	cabinet
+T14	Organisation 1379 1386	cabinet
+T15	Organisation 1431 1438	cabinet
+T16	Person 1804 1816	jake siewert
+T17	Organisation 1836 1841	hopes
+T18	Place 2270 2279	jerusalem
+T19	Place 2456 2460	gaza
+T20	Place 2624 2636	persian gulf
+T21	Place 2938 2942	aden
+T22	Place 2944 2949	yemen
+T23	Person 3014 3024	lackluster
+T24	Organisation 3243 3250	cabinet
+T25	Organisation 3415 3422	cabinet
+T26	Person 3447 3457	ray suarez
+T27	Organisation 3489 3496	cabinet
+T28	Person 3560 3566	austin
+T29	Place 3617 3625	michigan
+T30	Person 3634 3649	spencer abraham
+T31	Person 3677 3692	debbie stabenow
+T32	Place 3787 3795	lebanese
+T33	Person 3902 3912	dan quayle
+T34	Person 4384 4396	linda chavez
+T35	Organisation 4484 4491	cabinet
+T36	Person 4595 4605	washington
+T37	Person 4723 4744	reagan administration
+T38	Place 4770 4778	maryland
+T39	Person 5579 5592	norman mineta
+T40	Organisation 5692 5699	cabinet
+T41	Organisation 5868 5883	lockheed martin
+T42	Place 5928 5938	california
+T43	Organisation 6077 6085	san jose
+T44	Organisation 6272 6279	cabinet
+T45	Organisation 7591 7598	cabinet
+T46	Place 7733 7737	opec
+T47	Place 7983 7987	opec
+T48	Place 8149 8153	opec
+T49	Organisation 9018 9025	cabinet
+T50	Organisation 9907 9919	capitol hill
+T51	Person 9968 9979	don nickles
+T52	Place 9983 9991	oklahoma
+T53	Person 10037 10047	harry reid
+T54	Place 10051 10057	nevada
+T55	Organisation 10217 10224	cabinet
+T56	Person 10530 10541	norm mineta
+T57	Organisation 10873 10880	cabinet
+T58	Person 11074 11085	norm mineta
+T59	Person 11263 11274	norm mineta
+T60	Person 11796 11806	bill cohen
+T61	Organisation 11855 11862	cabinet
+T62	Organisation 12632 12639	cabinet
+T63	Person 12807 12819	colin powell
+T64	Person 12821 12833	don rumsfeld
+T65	Person 12835 12839	paul
+T66	Person 12879 12890	norm mineta
+T67	Organisation 13018 13025	cabinet
+T68	Organisation 13070 13077	cabinet
+T69	Organisation 13248 13255	cabinet
+T70	Organisation 13494 13501	cabinet
+T71	Organisation 13632 13639	cabinet
+T72	Organisation 13795 13802	cabinet
+T73	Organisation 14827 14834	cabinet
+T74	Organisation 14976 14983	cabinet
+T75	Person 15054 15066	don rumsfeld
+T76	Person 15091 15095	paul
+T77	Person 15107 15120	john ashcroft
+T78	Person 15776 15788	linda chavez
+T79	Person 16426 16439	john ashcroft
+T80	Person 16575 16587	ronnie white
+T81	Organisation 17456 17472	democratic party
+T82	Person 17940 17953	john ashcroft
+T83	Person 17962 17975	john ashcroft
+T84	Place 18200 18208	missouri
+T85	Organisation 19272 19279	cabinet
+T86	Person 19654 19666	linda chavez
+T87	Organisation 20401 20408	cabinet
+T88	Person 20844 20854	washington
+T89	Person 21431 21444	john ashcroft
+T90	Place 21914 21922	missouri
+T91	Person 21932 21944	mel carnahan
+T92	Place 22097 22105	missouri
+T93	Place 22367 22375	missouri
+T94	Person 22658 22670	ronnie white
+T95	Organisation 22880 22887	cabinet
+T96	Person 23149 23154	david
+T97	Person 23423 23436	john ashcroft
+T98	Place 23629 23637	missouri
+T99	Place 23685 23693	missouri
+T100	Place 23741 23749	missouri
+T101	Person 24353 24365	elaine jones
+T102	Organisation 24389 24413	naacp legal defense fund
+T103	Person 24415 24427	clint bolick
+T104	Person 24547 24559	elaine jones
+T105	Person 24599 24612	john ashcroft
+T106	Person 24848 24861	john ashcroft
+T107	Person 25158 25171	john ashcroft
+T108	Person 25558 25570	clint bolick
+T109	Person 25572 25584	elaine jones
+T110	Person 25707 25720	john ashcroft
+T111	Place 25856 25864	missouri
+T112	Person 25989 26001	ronnie white
+T113	Person 26103 26116	arlen specter
+T114	Person 26187 26200	martin luther
+T115	Place 26226 26234	missouri
+T116	Person 26382 26394	elaine jones
+T117	Person 26536 26549	john ashcroft
+T118	Person 26646 26659	john ashcroft
+T119	Person 28173 28186	john ashcroft
+T120	Person 28396 28409	john ashcroft
+T121	Person 29046 29059	john ashcroft
+T122	Person 29760 29772	clint bolick
+T123	Person 31059 31071	clint bolick
+T124	Person 31113 31125	ronnie white
+T125	Person 31161 31173	ronnie white
+T126	Place 31207 31215	missouri
+T127	Person 31605 31617	ronnie white
+T128	Place 31680 31688	missouri
+T129	Person 31979 31991	ronnie white
+T130	Person 32227 32239	ronnie white
+T131	Person 32343 32356	john ashcroft
+T132	Person 32399 32409	washington
+T133	Person 32475 32488	john ashcroft
+T134	Person 32596 32606	washington
+T135	Person 32908 32920	ronnie white
+T136	Person 32995 33008	john ashcroft
+T137	Organisation 33260 33276	democratic party
+T138	Person 33497 33510	john ashcroft
+T139	Organisation 36250 36257	cabinet
+T140	Person 36655 36666	george bush
+T141	Person 37052 37065	john ashcroft
+T142	Person 37213 37225	elaine jones
+T143	Person 37247 37259	clint bolick
+T144	Person 37285 37298	john ashcroft
+T145	Person 37741 37754	john ashcroft
+T146	Person 38112 38124	clint bolick
+T147	Person 38261 38274	john ashcroft
+T148	Person 38344 38357	john ashcroft
+T149	Person 38480 38493	john ashcroft
+T150	Organisation 38790 38801	u.s. senate
+T151	Person 38889 38899	ray suarez
+T152	Person 39122 39127	david
+T153	Person 39140 39160	elizabeth farnsworth
+T154	Place 39199 39203	gaza
+T155	Place 39771 39775	gaza
+T156	Organisation 40522 40529	cabinet
+T157	Person 40548 40558	ehud barak
+T158	Place 40657 40664	germany
+T159	Place 40671 40685	czechoslovakia
+T160	Place 40766 40770	gaza
+T161	Place 41176 41185	palestine
+T162	Place 41367 41371	gaza
+T163	Place 42142 42150	tel aviv
+T164	Place 42193 42197	gaza
+T165	Place 43093 43101	tel aviv
+T166	Place 44798 44804	vienna
+T167	Place 45446 45452	vienna
+T168	Place 45537 45543	vienna
+T169	Place 47373 47380	tunisia
+T170	Place 47384 47391	algeria
+T171	Place 47630 47639	jerusalem
+T172	Place 47747 47761	ottoman empire
+T173	Person 48982 48987	david
+T174	Place 49349 49353	gaza
+T175	Place 49810 49814	gaza
+T176	Organisation 49994 50001	cabinet
+T177	Person 50267 50277	gwen ifill

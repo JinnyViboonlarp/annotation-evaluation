@@ -1,0 +1,283 @@
+T1	Person 32 42	Jim Lehrer
+T2	Place 245 252	Seattle
+T3	Place 279 287	Cambodia
+T4	Organisation 389 393	NEWS
+T5	Place 486 500	Salt Lake City
+T6	Place 638 652	Salt Lake City
+T7	Organisation 685 716	International Olympic Committee
+T8	Organisation 786 789	IOC
+T9	Person 859 874	George Mitchell
+T10	Place 1631 1637	Oregon
+T11	Place 1712 1718	Oregon
+T12	Place 1899 1907	Virginia
+T13	Place 2132 2137	Yemen
+T14	Place 2165 2182	Arabian peninsula
+T15	Place 2486 2494	American
+T16	Place 2551 2564	United States
+T17	Place 2582 2587	China
+T18	Organisation 2648 2672	Chinese foreign ministry
+T19	Place 2707 2712	China
+T20	Place 2952 2960	Cambodia
+T21	Person 3236 3243	Hun Sen
+T22	Place 3570 3578	New York
+T23	Place 3638 3646	Cambodia
+T24	Person 3663 3676	Terence Smith
+T25	Person 3774 3781	Clinton
+T26	Person 3899 3909	Henry Hyde
+T27	Place 3913 3921	Illinois
+T28	Organisation 3997 4003	Senate
+T29	Place 4073 4084	White House
+T30	Place 4523 4531	Cambodia
+T31	Place 4647 4661	Salt Lake City
+T32	Organisation 4729 4760	International Olympic Committee
+T33	Organisation 4892 4923	International Olympic Committee
+T34	Place 5018 5032	Salt Lake City
+T35	Place 5125 5131	Sweden
+T36	Place 5136 5147	Switzerland
+T37	Place 5279 5293	Salt Lake City
+T38	Organisation 5486 5489	IOC
+T39	Organisation 5606 5609	ICO
+T40	Person 5858 5873	George Mitchell
+T41	Person 7096 7102	Howard
+T42	Organisation 7113 7134	National Public Radio
+T43	Person 7140 7157	Christine Brennan
+T44	Organisation 7387 7418	International Olympic Committee
+T45	Person 7663 7676	Prince Albert
+T46	Place 7680 7686	Monaco
+T47	Place 8119 8126	Atlanta
+T48	Place 8187 8198	Minneapolis
+T49	Place 8211 8218	Atlanta
+T50	Organisation 8361 8364	IOC
+T51	Place 8477 8491	Salt Lake City
+T52	Place 8529 8543	Salt Lake City
+T53	Organisation 8655 8658	IOC
+T54	Organisation 9063 9066	IOC
+T55	Organisation 9171 9174	IOC
+T56	Place 9211 9215	Utah
+T57	Organisation 9548 9579	International Olympic Committee
+T58	Organisation 9588 9591	IOC
+T59	Place 10140 10154	Salt Lake City
+T60	Place 10180 10194	Salt Lake City
+T61	Place 10411 10425	Salt Lake City
+T62	Place 10757 10770	United States
+T63	Place 10814 10820	Munich
+T64	Place 10873 10881	Montreal
+T65	Place 10936 10944	Montreal
+T66	Place 11237 11247	Manchester
+T67	Place 11268 11278	Manchester
+T68	Organisation 11280 11287	England
+T69	Organisation 11436 11439	IOC
+T70	Organisation 11544 11547	ICO
+T71	Organisation 11680 11683	IOC
+T72	Place 11872 11886	Salt Lake City
+T73	Place 11927 11941	Salt Lake City
+T74	Organisation 12021 12024	ICO
+T75	Person 12128 12134	Howard
+T76	Place 12152 12166	Salt Lake City
+T77	Place 12233 12247	Salt Lake City
+T78	Place 12361 12375	Salt Lake City
+T79	Place 12426 12440	Salt Lake City
+T80	Place 12653 12667	Salt Lake City
+T81	Organisation 12735 12766	International Olympic Committee
+T82	Organisation 12903 12934	International Olympic Committee
+T83	Place 13003 13017	Salt Lake City
+T84	Organisation 13072 13103	International Olympic Committee
+T85	Organisation 13248 13279	International Olympic Committee
+T86	Organisation 13408 13439	International Olympic Committee
+T87	Place 13592 13606	Salt Lake City
+T88	Organisation 13908 13911	IOC
+T89	Place 14112 14119	Atlanta
+T90	Person 14256 14263	Augusta
+T91	Organisation 14288 14291	IOC
+T92	Organisation 14393 14396	IOC
+T93	Place 14512 14519	Atlanta
+T94	Place 14538 14545	Atlanta
+T95	Place 14840 14847	Atlanta
+T96	Place 14930 14944	Salt Lake City
+T97	Place 14995 15009	Salt Lake City
+T98	Organisation 15077 15080	IOC
+T99	Organisation 15146 15149	IOC
+T100	Organisation 15564 15567	IOC
+T101	Person 15639 15647	Mitchell
+T102	Organisation 15792 15795	IOC
+T103	Organisation 15887 15918	International Olympic Committee
+T104	Organisation 15947 15978	International Olympic Committee
+T105	Person 15998 16004	Hodler
+T106	Organisation 16049 16052	IOC
+T107	Organisation 16099 16102	IOC
+T108	Person 16108 16118	Dick Pound
+T109	Organisation 16426 16429	IOC
+T110	Organisation 16667 16670	IOC
+T111	Organisation 16794 16797	IOC
+T112	Organisation 16930 16961	International Olympic Committee
+T113	Place 18172 18181	Australia
+T114	Organisation 18290 18293	ICO
+T115	Organisation 18432 18435	IOC
+T116	Organisation 18663 18694	International Olympic Committee
+T117	Organisation 19030 19061	International Olympic Committee
+T118	Person 19087 19093	Howard
+T119	Person 19225 19235	Phil Ponce
+T120	Device 19271 19276	havoc
+T121	Place 19396 19405	Indonesia
+T122	Place 19410 19418	Malaysia
+T123	Place 19678 19691	Western India
+T124	Place 19764 19771	Gujarat
+T125	Place 19941 19957	Papua New Guinea
+T126	Place 20078 20085	Pacific
+T127	Place 20117 20122	China
+T128	Place 20125 20138	Yangtze River
+T129	Place 20263 20268	China
+T130	Place 20479 20489	Bangladesh
+T131	Place 20502 20514	Jamuna River
+T132	Place 20584 20594	Bangladesh
+T133	Place 20716 20725	Caribbean
+T134	Place 20730 20745	Central America
+T135	Place 20877 20886	Caribbean
+T136	Place 20910 20915	Nevis
+T137	Place 20940 20958	Dominican Republic
+T138	Place 20960 20965	Haiti
+T139	Place 20971 20975	Cuba
+T140	Place 21020 21032	Florida Keys
+T141	Place 21112 21127	Central America
+T142	Place 21229 21237	Honduras
+T143	Place 21239 21248	Nicaragua
+T144	Place 21250 21261	El Salvador
+T145	Place 21263 21272	Guatemala
+T146	Place 21278 21284	Mexico
+T147	Place 21333 21341	Honduras
+T148	Place 21414 21420	Canada
+T149	Place 21425 21436	New England
+T150	Place 21652 21659	Florida
+T151	Place 22032 22039	Florida
+T152	Place 22286 22298	Florida Keys
+T153	Place 22313 22327	North Carolina
+T154	Person 22440 22443	Eve
+T155	Place 22464 22487	Southeast United States
+T156	Place 22489 22497	Virginia
+T157	Place 22546 22554	Virginia
+T158	Place 22701 22707	Oregon
+T159	Person 22917 22927	Bob Watson
+T160	Organisation 22975 22985	World Bank
+T161	Organisation 23047 23065	American Red Cross
+T162	Place 23841 23854	Yangtze River
+T163	Place 23875 23885	Bangladesh
+T164	Place 23914 23919	India
+T165	Place 24093 24102	Indonesia
+T166	Place 24117 24123	Brazil
+T167	Place 24129 24135	Mexico
+T168	Place 24473 24486	United States
+T169	Place 24625 24638	United States
+T170	Organisation 24652 24670	American Red Cross
+T171	Organisation 25219 25237	American Red Cross
+T172	Place 25584 25592	Honduras
+T173	Place 25597 25606	Nicaragua
+T174	Place 25942 25947	Earth
+T175	Place 25979 25984	Earth
+T176	Place 26409 26413	Peru
+T177	Place 26431 26440	Indonesia
+T178	Place 26500 26505	China
+T179	Place 26510 26520	Bangladesh
+T180	Place 26640 26653	Yangtze River
+T181	Place 26741 26751	Bangladesh
+T182	Place 26760 26770	Bangladesh
+T183	Place 27409 27416	Pacific
+T184	Place 27519 27523	Peru
+T185	Place 27528 27535	Ecuador
+T186	Place 27805 27809	Peru
+T187	Place 28170 28175	Earth
+T188	Place 28404 28409	Earth
+T189	Place 28908 28916	Honduras
+T190	Place 29007 29018	Tegucigalpa
+T191	Place 29034 29049	Central America
+T192	Place 29127 29146	Yangtze River Basin
+T193	Place 30586 30599	Yangtze River
+T194	Place 30988 30996	American
+T195	Place 31249 31261	Southeastern
+T196	Place 31568 31573	Texas
+T197	Person 31577 31584	Del Rio
+T198	Place 31691 31696	Texas
+T199	Place 31702 31707	Texas
+T200	Person 31760 31767	Del Rio
+T201	Place 31995 32002	Florida
+T202	Place 32129 32142	United States
+T203	Place 32223 32236	United States
+T204	Organisation 32411 32420	Red Cross
+T205	Place 32959 32965	Kansas
+T206	Place 33228 33240	South Dakota
+T207	Person 33581 33588	Del Rio
+T208	Place 33777 33784	Florida
+T209	Place 33790 33797	Alabama
+T210	Organisation 34043 34052	Red Cross
+T211	Place 34290 34303	United States
+T212	Organisation 35574 35584	World Bank
+T213	Place 35901 35911	Bangladesh
+T214	Place 35913 35918	India
+T215	Place 35920 35925	China
+T216	Place 36236 36244	Cambodia
+T217	Place 36660 36667	Seattle
+T218	Person 37280 37286	tricky
+T219	Place 37522 37526	Asia
+T220	Place 37722 37726	Asia
+T221	Place 37871 37875	Asia
+T222	Place 38006 38011	Asian
+T223	Place 38098 38104	Korean
+T224	Place 38164 38171	Seattle
+T225	Place 38175 38180	Seoul
+T226	Place 38756 38761	Asian
+T227	Person 38966 38973	Charles
+T228	Organisation 41269 41286	McDonnell-Douglas
+T229	Person 42747 42758	Dick Conway
+T230	Place 42770 42777	Seattle
+T231	Place 43569 43577	Cambodia
+T232	Person 43742 43749	Hun Sen
+T233	Person 43834 43847	Terence Smith
+T234	Place 43890 43898	Cambodia
+T235	Place 43958 43966	Cambodia
+T236	Place 43996 44004	American
+T237	Place 44089 44097	Cambodia
+T238	Place 44209 44217	New York
+T239	Place 44518 44532	Southeast Asia
+T240	Place 44560 44574	Southeast Asia
+T241	Place 44662 44670	Cambodia
+T242	Place 44767 44775	Cambodia
+T243	Place 44847 44856	Indochina
+T244	Place 45205 45213	Cambodia
+T245	Place 45945 45955	Phnom-Penh
+T246	Place 46711 46719	Cambodia
+T247	Person 46901 46908	Hun Sen
+T248	Person 46944 46957	King Sihanouk
+T249	Place 47311 47319	Cambodia
+T250	Person 47460 47467	Hun Sen
+T251	Place 47623 47631	Cambodia
+T252	Place 47667 47681	United Nations
+T253	Person 47921 47929	Sihanouk
+T254	Person 47937 47953	Prince Ranariddh
+T255	Place 48079 48087	Cambodia
+T256	Person 48096 48103	Hun Sen
+T257	Place 48135 48143	Cambodia
+T258	Person 48558 48574	Prince Ranariddh
+T259	Person 48608 48615	Hun Sen
+T260	Place 48715 48723	Cambodia
+T261	Person 48725 48732	Hun Sen
+T262	Person 48794 48807	King Sihanouk
+T263	Person 48818 48833	Prince Sihanouk
+T264	Person 49004 49012	Sihanouk
+T265	Place 49054 49062	Cambodia
+T266	Place 49536 49550	United Nations
+T267	Place 49842 49856	United Nations
+T268	Place 49931 49939	Cambodia
+T269	Place 50286 50294	Cambodia
+T270	Place 50329 50343	United Nations
+T271	Place 50564 50566	UN
+T272	Place 50636 50638	UN
+T273	Place 50688 50702	United Nations
+T274	Place 50762 50764	UN
+T275	Place 50786 50788	UN
+T276	Place 51333 51341	Cambodia
+T277	Place 51850 51858	Cambodia
+T278	Place 52511 52519	Cambodia
+T279	Place 53060 53074	Salt Lake City
+T280	Person 53176 53183	Clinton
+T281	Organisation 53220 53226	Senate
+T282	Place 53301 53307	Oregon
+T283	Person 53389 53399	Jim Lehrer

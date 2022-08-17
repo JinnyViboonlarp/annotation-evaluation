@@ -1,0 +1,90 @@
+T1	Place 76 82	moscow
+T2	Organisation 141 167	farm credit administration
+T3	Place 327 333	dallas
+T4	Person 435 448	judy woodruff
+T5	Person 455 465	washington
+T6	Organisation 596 610	health concern
+T7	Place 1025 1031	moscow
+T8	Person 1177 1193	president reagan
+T9	Person 1417 1430	yuri andropov
+T10	Organisation 1454 1464	moratorium
+T11	Organisation 1551 1555	tass
+T12	Place 1590 1596	moscow
+T13	Organisation 1654 1658	tass
+T14	Organisation 2052 2078	farm credit administration
+T15	Person 2346 2356	john block
+T16	Person 2456 2477	reagan administration
+T17	Organisation 3329 3336	cabinet
+T18	Person 3453 3469	president reagan
+T19	Place 4595 4603	illinois
+T20	Place 4605 4617	rhode island
+T21	Place 4619 4627	michigan
+T22	Place 4629 4641	pennsylvania
+T23	Place 4643 4647	ohio
+T24	Person 4652 4662	washington
+T25	Place 4721 4728	chicago
+T26	Organisation 5010 5026	dallas-ft. worth
+T27	Place 5104 5110	dallas
+T28	Person 5933 5949	margaret heckler
+T29	Place 6059 6069	california
+T30	Person 6114 6135	reagan administration
+T31	Place 6230 6240	pleasanton
+T32	Place 7821 7828	lebanon
+T33	Person 7848 7853	zahle
+T34	Place 7992 7998	beirut
+T35	Organisation 8155 8162	cabinet
+T36	Person 8191 8207	kamal hassan ali
+T37	Person 8252 8265	hosni mubarak
+T38	Organisation 8333 8340	cabinet
+T39	Person 8401 8412	anwar sadat
+T40	Organisation 8797 8823	farm credit administration
+T41	Person 10949 10959	ryan white
+T42	Place 10963 10978	kokomo, indiana
+T43	Place 11467 11480	san francisco
+T44	Person 12755 12765	washington
+T45	Person 13112 13122	washington
+T46	Place 13472 13481	louisiana
+T47	Organisation 13908 13924	public knowledge
+T48	Place 14757 14768	los angeles
+T49	Person 15064 15077	mathilde krim
+T50	Organisation 15121 15144	aids medical foundation
+T51	Person 19776 19795	helen singer kaplan
+T52	Organisation 19889 19911	cornell medical center
+T53	Organisation 20011 20023	lambda legal
+T54	Place 21013 21020	confine
+T55	Person 21618 21628	washington
+T56	Organisation 21999 22024	lambda legal defense fund
+T57	Place 23209 23218	kettering
+T58	Place 27449 27460	connecticut
+T59	Place 31171 31181	california
+T60	Place 31945 31953	colorado
+T61	Place 32146 32154	colorado
+T62	Place 36864 36872	colorado
+T63	Place 38052 38060	colorado
+T64	Place 38326 38334	colorado
+T65	Place 38398 38404	denver
+T66	Place 40212 40220	colorado
+T67	Organisation 41098 41103	avail
+T68	Place 43423 43431	colorado
+T69	Organisation 43518 43523	hopes
+T70	Organisation 43722 43748	farm credit administration
+T71	Place 44645 44654	farm belt
+T72	Place 45281 45285	iowa
+T73	Person 46541 46551	ray powell
+T74	Place 46611 46615	iowa
+T75	Place 47111 47115	iowa
+T76	Place 47353 47360	creston
+T77	Organisation 47536 47549	district bank
+T78	Place 48244 48251	creston
+T79	Place 48686 48693	creston
+T80	Place 49126 49133	creston
+T81	Place 50064 50071	creston
+T82	Place 50112 50116	iowa
+T83	Place 50664 50668	iowa
+T84	Organisation 51540 51560	continental illinois
+T85	Place 52059 52066	creston
+T86	Person 52740 52750	washington
+T87	Place 53240 53244	iowa
+T88	Place 53623 53629	moscow
+T89	Organisation 53688 53714	farm credit administration
+T90	Person 54018 54031	judy woodruff

@@ -1,0 +1,40 @@
+(annotation_choice='cased', label_choice='strict')
+precision       0.823 (2923/3550)
+recall  	0.439 (2923/6663)
+F1      	0.572
+
+(annotation_choice='uncased', label_choice='strict')
+precision       0.826 (1741/2108)
+recall  	0.261 (1741/6663)
+F1      	0.397
+
+(annotation_choice='truecased', label_choice='strict')
+precision       0.874 (2637/3016)
+recall  	0.396 (2637/6663)
+F1      	0.545
+
+===================================================================
+Strict intersection
+===================================================================
+(annotation_choice='cased', label_choice='strict')
+precision       0.871 (2211/2538)
+recall  	0.332 (2211/6663)
+F1      	0.481
+
+(annotation_choice='truecased', label_choice='strict')
+precision       0.917 (2260/2465)
+recall  	0.339 (2260/6663)
+F1      	0.495
+
+===================================================================
+Relaxed intersection
+===================================================================
+(annotation_choice='cased', label_choice='strict')
+precision       0.850 (2857/3362)
+recall  	0.429 (2857/6663)
+F1      	0.570
+
+(annotation_choice='truecased', label_choice='strict')
+precision       0.903 (2509/2778)
+recall  	0.377 (2509/6663)
+F1      	0.532

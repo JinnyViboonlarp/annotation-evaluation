@@ -3,9 +3,10 @@ import sys
 from collections import defaultdict
 
 gold_dir = "annotations"
-test_dir_base = "model-annotations"
 
-label_dict = {'PERSON':'person', 'ORG':'organization', 'FAC':'location', 'GPE':'location', 'LOC':'location'}
+# this label_dict is to ensure common terminology between the three annotation schemes (gold annotation, spaCy, and DBpedia)
+label_dict = {'PERSON':'person', 'ORG':'organization', 'FAC':'location', 'GPE':'location', 'LOC':'location', 'person':'person', 
+    'organization':'organization', 'location':'location', 'Person':'person', 'Place':'location', 'Organisation':'organization'}
 interested_labels = list(set(label_dict.values()))
 
 def sum_over_labels(confusion_dict):
@@ -13,7 +14,7 @@ def sum_over_labels(confusion_dict):
         confusion_dict[(s,'all')] = sum([confusion_dict[(s,label)] for label in interested_labels])
 
 def calculate_F1(confusion_dict):
-     all_labels = (interested_labels + ['all'])
+    all_labels = (interested_labels + ['all'])
     for label in all_labels:
         try:
             confusion_dict[('precision',label)] = (confusion_dict[('true_pos',label)] / (confusion_dict[('true_pos',label)] + confusion_dict[('false_pos',label)]))
@@ -122,14 +123,11 @@ def evaluate(gold_path, test_path, label_choice, metric):
 
     # the lines_to_list method converts lines in .ann file to a list of annotations sorted by end character's index.
     # the lines in the annotation files are supposed to be already sorted this way.
-    # This method also change the test file's labels to match the gold file's terminology if change_label is True.
+    # This method also change the test file's labels to match the gold file's terminology.
     # if metric == 'token', each entity is tokenized before being put into entity_list.
-    def lines_to_list(lines, change_label=False, metric='token'):
+    def lines_to_list(lines, metric='token'):
         entity_list = [tuple(line.split()) for line in lines] 
-        if(change_label):
-            entity_list = [(label_dict[l[1]],int(l[2]),int(l[3]), " ".join(l[4:])) for l in entity_list if l[1] in label_dict]
-        else:
-            entity_list = [(l[1],int(l[2]),int(l[3]), " ".join(l[4:])) for l in entity_list if l[1] in interested_labels]
+        entity_list = [(label_dict[l[1]],int(l[2]),int(l[3]), " ".join(l[4:])) for l in entity_list if l[1] in label_dict]
         if(metric == 'token'): # each entity must be tokenized
             i = 0
             while(i < len(entity_list)): # can't use a for loop since len(entity_list) can increase
@@ -149,7 +147,7 @@ def evaluate(gold_path, test_path, label_choice, metric):
     #print(goldlist)
 
     infile = open(test_path, 'r')
-    testlist = lines_to_list(infile.readlines(), change_label=True)
+    testlist = lines_to_list(infile.readlines())
     infile.close()
     #print(testlist)
     
@@ -163,28 +161,34 @@ def evaluate(gold_path, test_path, label_choice, metric):
         sys.exit()
     return confusion_dict
 
-def evaluate_all(annotation_choice, label_choice, metric = 'token'):
+def evaluate_all(model_choice = 'spacy', annotation_choice = 'default', label_choice = 'strict', metric = 'token'):
     confusion_dict_all = defaultdict(lambda: 0)
     for label in interested_labels + ['all']:
         for s in ['true_pos','false_pos','false_neg']:
             confusion_dict_all[(s, label)] = 0
-    test_dir = (test_dir_base + "/" + annotation_choice)
     for gold_name in os.listdir(gold_dir):
         if(gold_name.endswith(".ann")):
-            test_name = (annotation_choice + "-" + gold_name)
+            if(model_choice == 'spacy'):
+                test_dir = ("model-annotations/" + annotation_choice)
+                test_name = (annotation_choice + "-" + gold_name)
+            elif(model_choice == 'dbpedia'):
+                test_dir = ("dbpedia-annotations/" + annotation_choice)
+                test_name = gold_name
+            else:
+                print("ERROR: parameter 'model_choice' has invalid value")
             test_path = (test_dir + "/" + test_name)
+            #print(gold_path)
+            #print(test_path)
             if(os.path.isfile(test_path)):
                 gold_path = (gold_dir + "/" + gold_name)
                 #print("evaluating "+test_name)
                 confusion_dict = evaluate(gold_path, test_path, label_choice, metric)
-                #print(confusion_dict)
                 confusion_dict_all = {k: confusion_dict_all[k] + confusion_dict[k] for k in set(confusion_dict_all)}
-    #print(confusion_dict_all)
     calculate_F1(confusion_dict_all)
 
 def evaluate_test(annotation_choice, label_choice, metric = 'token'):
     # use only for debugging the program
-    test_dir = (test_dir_base + "/" + annotation_choice)
+    test_dir = ("model-annotations/" + annotation_choice)
     gold_name = 'cpb-aacip-507-154dn40c26-transcript.ann'
     test_name = (annotation_choice + "-" + gold_name)
     test_path = (test_dir + "/" + test_name)
@@ -196,10 +200,12 @@ def evaluate_test(annotation_choice, label_choice, metric = 'token'):
 
 if __name__ == '__main__':
 
-    # annotation_choice are from ['default','uncased','force-uncased']
+    # model_choice are from ['spacy','dbpedia']
+    # if model_choice == 'spacy', then annotation_choice are from ['default','uncased','force-uncased']
+    # if model_choice == 'dbpedia', then annotation_choice are from ['cased','uncased','truecased'], maybe with suffix -intersected-[strict, relaxed]
     # label_choice are from ['strict', 'LOC_to_ORG', 'blind']
     # metric are from ['token','strict','relaxed']
 
     #evaluate_test(annotation_choice='force-uncased', label_choice='LOC_to_ORG', metric = 'token')
-    evaluate_all(annotation_choice='uncased', label_choice='LOC_to_ORG')
+    evaluate_all(model_choice='dbpedia', annotation_choice='truecased-intersected-relaxed')
     

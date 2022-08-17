@@ -1,0 +1,206 @@
+T1	Place 84 98	salt lake city
+T2	Organisation 235 241	boeing
+T3	Place 245 252	seattle
+T4	Place 279 287	cambodia
+T5	Organisation 685 716	international olympic committee
+T6	Organisation 786 789	ioc
+T7	Person 859 874	george mitchell
+T8	Person 911 921	washington
+T9	Place 1631 1637	oregon
+T10	Person 1642 1652	washington
+T11	Place 1712 1718	oregon
+T12	Person 1755 1765	washington
+T13	Place 1899 1907	virginia
+T14	Place 2132 2137	yemen
+T15	Place 2165 2182	arabian peninsula
+T16	Organisation 2648 2672	chinese foreign ministry
+T17	Place 2952 2960	cambodia
+T18	Person 3058 3062	paul
+T19	Person 3236 3243	hun sen
+T20	Place 3638 3646	cambodia
+T21	Person 3663 3676	terence smith
+T22	Person 3899 3909	henry hyde
+T23	Place 3913 3921	illinois
+T24	Place 4411 4425	salt lake city
+T25	Organisation 4490 4496	boeing
+T26	Place 4523 4531	cambodia
+T27	Organisation 4729 4760	international olympic committee
+T28	Organisation 4892 4923	international olympic committee
+T29	Organisation 5486 5489	ioc
+T30	Person 5858 5873	george mitchell
+T31	Organisation 7113 7134	national public radio
+T32	Person 7140 7157	christine brennan
+T33	Organisation 7387 7418	international olympic committee
+T34	Person 7648 7661	princess anne
+T35	Person 7663 7676	prince albert
+T36	Place 7680 7686	monaco
+T37	Place 8119 8126	atlanta
+T38	Place 8187 8198	minneapolis
+T39	Place 8211 8218	atlanta
+T40	Organisation 8361 8364	ioc
+T41	Organisation 8655 8658	ioc
+T42	Organisation 9063 9066	ioc
+T43	Organisation 9171 9174	ioc
+T44	Place 9211 9215	utah
+T45	Organisation 9548 9579	international olympic committee
+T46	Organisation 9588 9591	ioc
+T47	Place 10646 10657	los angeles
+T48	Place 10873 10881	montreal
+T49	Place 10936 10944	montreal
+T50	Place 11237 11247	manchester
+T51	Place 11268 11278	manchester
+T52	Organisation 11436 11439	ioc
+T53	Organisation 11680 11683	ioc
+T54	Organisation 12735 12766	international olympic committee
+T55	Organisation 12903 12934	international olympic committee
+T56	Organisation 13072 13103	international olympic committee
+T57	Organisation 13248 13279	international olympic committee
+T58	Organisation 13408 13439	international olympic committee
+T59	Organisation 13908 13911	ioc
+T60	Place 14112 14119	atlanta
+T61	Organisation 14288 14291	ioc
+T62	Organisation 14393 14396	ioc
+T63	Place 14512 14519	atlanta
+T64	Place 14538 14545	atlanta
+T65	Place 14840 14847	atlanta
+T66	Organisation 15077 15080	ioc
+T67	Organisation 15146 15149	ioc
+T68	Organisation 15564 15567	ioc
+T69	Organisation 15792 15795	ioc
+T70	Organisation 15887 15918	international olympic committee
+T71	Organisation 15947 15978	international olympic committee
+T72	Organisation 16049 16052	ioc
+T73	Person 16054 16076	juan antonio samaranch
+T74	Organisation 16099 16102	ioc
+T75	Person 16108 16118	dick pound
+T76	Person 16175 16197	juan antonio samaranch
+T77	Organisation 16426 16429	ioc
+T78	Person 16614 16636	juan antonio samaranch
+T79	Organisation 16667 16670	ioc
+T80	Organisation 16794 16797	ioc
+T81	Organisation 16930 16961	international olympic committee
+T82	Organisation 18432 18435	ioc
+T83	Organisation 18663 18694	international olympic committee
+T84	Organisation 19030 19061	international olympic committee
+T85	Person 19225 19235	phil ponce
+T86	Device 19271 19276	havoc
+T87	Place 19678 19691	western india
+T88	Place 20125 20138	yangtze river
+T89	Place 20479 20489	bangladesh
+T90	Place 20502 20514	jamuna river
+T91	Place 20584 20594	bangladesh
+T92	Place 20898 20915	st. kitts & nevis
+T93	Place 20940 20958	dominican republic
+T94	Place 20960 20965	haiti
+T95	Place 21229 21237	honduras
+T96	Place 21239 21248	nicaragua
+T97	Place 21250 21261	el salvador
+T98	Place 21263 21272	guatemala
+T99	Place 21278 21284	mexico
+T100	Place 21333 21341	honduras
+T101	Place 22313 22327	north carolina
+T102	Place 22489 22497	virginia
+T103	Place 22546 22554	virginia
+T104	Place 22701 22707	oregon
+T105	Person 22712 22722	washington
+T106	Person 22917 22927	bob watson
+T107	Organisation 23047 23065	american red cross
+T108	Place 23841 23854	yangtze river
+T109	Place 23875 23885	bangladesh
+T110	Place 24129 24135	mexico
+T111	Organisation 24652 24670	american red cross
+T112	Organisation 25219 25237	american red cross
+T113	Place 25584 25592	honduras
+T114	Place 25597 25606	nicaragua
+T115	Place 26510 26520	bangladesh
+T116	Place 26640 26653	yangtze river
+T117	Place 26741 26751	bangladesh
+T118	Place 26760 26770	bangladesh
+T119	Place 28908 28916	honduras
+T120	Place 29007 29018	tegucigalpa
+T121	Place 29127 29140	yangtze river
+T122	Place 29883 29889	planet
+T123	Place 30586 30599	yangtze river
+T124	Person 31577 31584	del rio
+T125	Person 31760 31767	del rio
+T126	Place 32959 32965	kansas
+T127	Place 33219 33240	spencer, south dakota
+T128	Person 33581 33588	del rio
+T129	Place 33790 33797	alabama
+T130	Place 35901 35911	bangladesh
+T131	Organisation 36204 36210	boeing
+T132	Place 36236 36244	cambodia
+T133	Organisation 36320 36326	boeing
+T134	Organisation 36366 36372	boeing
+T135	Organisation 36570 36576	boeing
+T136	Place 36660 36667	seattle
+T137	Person 37280 37286	tricky
+T138	Organisation 37459 37465	boeing
+T139	Place 38006 38011	asian
+T140	Organisation 38058 38064	boeing
+T141	Place 38164 38171	seattle
+T142	Place 38175 38180	seoul
+T143	Organisation 38457 38463	boeing
+T144	Organisation 38732 38738	boeing
+T145	Place 38756 38761	asian
+T146	Person 38945 38955	washington
+T147	Organisation 39015 39021	boeing
+T148	Organisation 39426 39432	boeing
+T149	Organisation 40080 40086	boeing
+T150	Organisation 40259 40265	boeing
+T151	Organisation 40560 40566	boeing
+T152	Organisation 41020 41026	boeing
+T153	Organisation 41269 41286	mcdonnell-douglas
+T154	Organisation 41385 41391	boeing
+T155	Organisation 41613 41619	boeing
+T156	Organisation 41771 41777	boeing
+T157	Organisation 41942 41948	boeing
+T158	Organisation 42706 42712	boeing
+T159	Person 42747 42758	dick conway
+T160	Place 42770 42777	seattle
+T161	Organisation 42812 42818	boeing
+T162	Organisation 42918 42924	boeing
+T163	Organisation 43145 43151	boeing
+T164	Organisation 43222 43228	boeing
+T165	Organisation 43352 43358	boeing
+T166	Organisation 43384 43390	boeing
+T167	Place 43569 43577	cambodia
+T168	Place 43616 43631	southeast asian
+T169	Person 43742 43749	hun sen
+T170	Person 43834 43847	terence smith
+T171	Place 43890 43898	cambodia
+T172	Place 43958 43966	cambodia
+T173	Place 44089 44097	cambodia
+T174	Place 44518 44532	southeast asia
+T175	Place 44560 44574	southeast asia
+T176	Place 44662 44670	cambodia
+T177	Place 44767 44775	cambodia
+T178	Place 44847 44856	indochina
+T179	Place 45205 45213	cambodia
+T180	Place 45945 45955	phnom-penh
+T181	Place 46711 46719	cambodia
+T182	Person 46901 46908	hun sen
+T183	Person 46944 46957	king sihanouk
+T184	Place 47311 47319	cambodia
+T185	Person 47460 47467	hun sen
+T186	Place 47497 47507	vietnamese
+T187	Place 47623 47631	cambodia
+T188	Person 47937 47953	prince ranariddh
+T189	Place 48079 48087	cambodia
+T190	Person 48096 48103	hun sen
+T191	Place 48135 48143	cambodia
+T192	Person 48558 48574	prince ranariddh
+T193	Person 48608 48615	hun sen
+T194	Place 48715 48723	cambodia
+T195	Person 48725 48732	hun sen
+T196	Person 48794 48807	king sihanouk
+T197	Person 48818 48833	prince sihanouk
+T198	Place 49054 49062	cambodia
+T199	Place 49163 49167	pope
+T200	Place 49931 49939	cambodia
+T201	Place 50286 50294	cambodia
+T202	Place 51333 51341	cambodia
+T203	Place 51850 51858	cambodia
+T204	Place 52511 52519	cambodia
+T205	Place 53301 53307	oregon
+T206	Person 53312 53322	washington

@@ -1,0 +1,168 @@
+T1	Place 96 101	Union
+T2	Person 177 186	Gorbachev
+T3	Person 313 326	Judy Woodruff
+T4	Place 333 341	New York
+T5	Person 434 455	William Kennedy Smith
+T6	Person 752 764	Robert Gates
+T7	Place 804 809	Union
+T8	Place 1054 1060	Soviet
+T9	Place 1542 1546	USSR
+T10	Organisation 1557 1567	Bolsheviks
+T11	Place 1632 1637	Union
+T12	Person 1639 1653	Robert Strauss
+T13	Place 1797 1803	Soviet
+T14	Place 1848 1854	Moscow
+T15	Person 1917 1926	Gorbachev
+T16	Person 1970 1979	Gorbachev
+T17	Place 1993 1998	Minsk
+T18	Place 2053 2059	Soviet
+T19	Person 2149 2158	Gorbachev
+T20	Place 2211 2218	Kremlin
+T21	Person 2369 2378	Gorbachev
+T22	Person 2453 2459	Georgy
+T23	Person 2971 2980	Gorbachev
+T24	Person 3279 3288	Gorbachev
+T25	Person 3444 3453	Gorbachev
+T26	Place 3474 3479	Minsk
+T27	Person 3887 3897	Nazarbayev
+T28	Place 3901 3911	Kazakhstan
+T29	Place 3952 3957	Minsk
+T30	Place 4157 4162	Union
+T31	Place 4201 4208	Ukraine
+T32	Place 4302 4307	Minsk
+T33	Place 4337 4348	Byelorussia
+T34	Place 4386 4393	Ukraine
+T35	Person 4402 4419	Mikhail Gorbachev
+T36	Place 4580 4590	Red Square
+T37	Person 4764 4773	Gorbachev
+T38	Place 4890 4900	Yugoslavia
+T39	Place 4962 4968	Osijek
+T40	Place 5070 5084	United Nations
+T41	Place 5132 5139	Croatia
+T42	Place 5145 5149	U.N.
+T43	Person 5323 5333	Washington
+T44	Place 5423 5428	Syria
+T45	Place 5430 5437	Lebanon
+T46	Person 5740 5754	Terry Anderson
+T47	Place 5909 5917	New York
+T48	Place 5920 5935	Kennedy Airport
+T49	Place 6008 6015	Lebanon
+T50	Person 6269 6273	Bush
+T51	Place 7174 7187	New Hampshire
+T52	Person 7324 7328	Bush
+T53	Place 7472 7480	New York
+T54	Place 8165 8172	Burmese
+T55	Place 8191 8196	Ansan
+T56	Place 8284 8289	Burma
+T57	Place 8314 8318	Oslo
+T58	Place 8320 8326	Norway
+T59	Place 8580 8585	Burma
+T60	Place 8620 8625	Burma
+T61	Place 8728 8735	Burmese
+T62	Person 8863 8884	William Kennedy Smith
+T63	Person 9045 9066	William Kennedy Smith
+T64	Person 9152 9159	Kennedy
+T65	Person 9181 9195	Edward Kennedy
+T66	Place 9217 9236	Palm Beach, Florida
+T67	Person 10314 10335	William Kennedy Smith
+T68	Place 11350 11357	Florida
+T69	Place 11443 11459	Kennedy compound
+T70	Person 14462 14466	Hume
+T71	Person 14569 14578	Ann Lewis
+T72	Place 14605 14611	Boston
+T73	Organisation 14666 14674	Court TV
+T74	Place 14835 14853	Roosevelt Hospital
+T75	Place 14857 14870	New York City
+T76	Organisation 15018 15021	CNN
+T77	Organisation 15121 15124	CNN
+T78	Organisation 15270 15273	CNN
+T79	Place 15653 15666	United States
+T80	Organisation 15671 15674	CNN
+T81	Organisation 16553 16567	Kennedy family
+T82	Organisation 16623 16626	CNN
+T83	Organisation 16673 16676	CNN
+T84	Person 17525 17529	Hume
+T85	Organisation 17691 17694	CNN
+T86	Organisation 18202 18205	PBS
+T87	Organisation 18925 18928	CNN
+T88	Person 19210 19217	Noriega
+T89	Person 19504 19511	Noriega
+T90	Organisation 19769 19777	Court TV
+T91	Organisation 19864 19867	CNN
+T92	Person 19921 19930	Ann Lewis
+T93	Place 20237 20242	Paris
+T94	Place 21328 21333	Union
+T95	Organisation 22503 22506	CNN
+T96	Person 22602 22618	Long Dong Silver
+T97	Place 22871 22882	El Salvador
+T98	Person 23085 23094	Ann Lewis
+T99	Place 23403 23408	Union
+T100	Place 25478 25485	Florida
+T101	Place 25762 25769	Florida
+T102	Organisation 26035 26043	Court TV
+T103	Organisation 26512 26517	Brill
+T104	Person 27097 27106	Ann Lewis
+T105	Person 27181 27208	William Kennedy Smith trial
+T106	Person 29689 29698	Ann Lewis
+T107	Place 30703 30711	New York
+T108	Person 31271 31286	Clarence Thomas
+T109	Person 31671 31675	Hume
+T110	Place 32591 32599	New York
+T111	Person 32962 32971	Ann Lewis
+T112	Person 33730 33739	Ann Lewis
+T113	Person 34081 34091	Washington
+T114	Person 34180 34190	Washington
+T115	Person 34839 34843	Hume
+T116	Person 34849 34858	Ann Lewis
+T117	Place 35345 35350	Union
+T118	Person 35383 35395	Robert Gates
+T119	Place 35726 35731	Union
+T120	Place 35841 35847	Russia
+T121	Place 35849 35856	Ukraine
+T122	Place 35879 35885	Soviet
+T123	Place 35931 35944	United States
+T124	Organisation 35988 35997	Old Guard
+T125	Place 36097 36103	Soviet
+T126	Place 36432 36436	USSR
+T127	Place 36495 36499	USSR
+T128	Place 36635 36648	United States
+T129	Place 37208 37212	USSR
+T130	Place 37803 37809	Russia
+T131	Place 37917 37923	Soviet
+T132	Place 38218 38222	USSR
+T133	Place 38263 38269	Soviet
+T134	Place 38962 38968	Soviet
+T135	Organisation 39589 39592	TRW
+T136	Organisation 40295 40302	Equifax
+T137	Organisation 40303 40306	CBI
+T138	Organisation 40308 40311	TRW
+T139	Place 40323 40328	Union
+T140	Organisation 40973 41003	Public Interest Research Group
+T141	Place 41636 41641	Union
+T142	Place 41940 41945	Union
+T143	Person 42730 42736	Ursula
+T144	Place 43733 43749	Washington, D.C.
+T145	Organisation 43760 43767	Equifax
+T146	Place 44162 44169	Florida
+T147	Place 44182 44189	Seymour
+T148	Organisation 44296 44303	Equifax
+T149	Organisation 44821 44842	American Express card
+T150	Organisation 45116 45126	Mastercard
+T151	Organisation 45128 45132	Visa
+T152	Organisation 45591 45598	Equifax
+T153	Place 45857 45864	Seymour
+T154	Organisation 45922 45929	Equifax
+T155	Organisation 46047 46054	Equifax
+T156	Person 46233 46239	Ursula
+T157	Organisation 46249 46256	Equifax
+T158	Organisation 46355 46362	Equifax
+T159	Organisation 46505 46517	Capitol Hill
+T160	Organisation 46839 46847	Congress
+T161	Organisation 46908 46911	TRW
+T162	Organisation 47571 47578	Equifax
+T163	Organisation 48219 48227	Congress
+T164	Organisation 48323 48331	Congress
+T165	Place 48343 48348	Union
+T166	Person 48411 48420	Gorbachev
+T167	Person 48516 48526	Washington
+T168	Person 48646 48659	Judy Woodruff

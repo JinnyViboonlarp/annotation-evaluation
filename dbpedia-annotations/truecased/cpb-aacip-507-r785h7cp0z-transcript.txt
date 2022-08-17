@@ -1,0 +1,143 @@
+T1	Organisation 399 411	urban league
+T2	Person 505 515	Jim Lehrer
+T3	Person 523 536	Judy Woodruff
+T4	Place 677 684	soviets
+T5	Place 771 777	Poland
+T6	Place 783 792	Argentina
+T7	Place 834 843	Nicaragua
+T8	Place 900 911	El Salvador
+T9	Person 1100 1113	George Shultz
+T10	Person 1211 1225	Andrei Gromyko
+T11	Place 1255 1259	Oslo
+T12	Organisation 1384 1407	soviet foreign minister
+T13	Place 1411 1420	Stockholm
+T14	Place 1453 1460	soviets
+T15	Place 1490 1496	Geneva
+T16	Person 1614 1621	Gromyko
+T17	Place 1800 1807	soviets
+T18	Place 1947 1953	Europe
+T19	Place 1978 1985	soviets
+T20	Place 2072 2078	Europe
+T21	Place 2107 2116	Stockholm
+T22	Place 2122 2128	Moscow
+T23	Place 2131 2137	Warsaw
+T24	Place 2219 2226	soviets
+T25	Place 2277 2289	East Germany
+T26	Place 2294 2308	Czechoslovakia
+T27	Organisation 2373 2384	soviet army
+T28	Organisation 3159 3167	Congress
+T29	Person 3283 3294	Robert Dole
+T30	Place 3516 3524	Packwood
+T31	Organisation 3851 3859	Congress
+T32	Organisation 4095 4103	Congress
+T33	Place 4254 4262	Colorado
+T34	Person 4275 4288	Timothy Wirth
+T35	Organisation 4662 4686	House Of Representatives
+T36	Organisation 4773 4779	Senate
+T37	Person 5320 5333	Merrill Brown
+T38	Place 7286 7298	Capitol Hill
+T39	Organisation 7380 7388	Congress
+T40	Person 8767 8771	Dole
+T41	Person 8838 8843	Nader
+T42	Person 8884 8893	Tim Wirth
+T43	Organisation 9339 9349	moratorium
+T44	Organisation 9853 9861	Congress
+T45	Organisation 10066 10086	United States Senate
+T46	Place 10189 10197	Packwood
+T47	Place 13062 13073	White House
+T48	Organisation 14214 14226	urban league
+T49	Place 14395 14403	American
+T50	Person 17124 17137	Ronald Reagan
+T51	Person 19324 19337	Ronald Reagan
+T52	Person 20129 20142	Ronald Reagan
+T53	Person 20302 20308	Reagan
+T54	Person 20650 20656	Reagan
+T55	Place 20709 20721	Pennsylvania
+T56	Person 20769 20782	Ronald Reagan
+T57	Person 20900 20906	Reagan
+T58	Place 21106 21117	White House
+T59	Place 21252 21266	United Nations
+T60	Place 21347 21353	Africa
+T61	Place 21520 21526	Africa
+T62	Person 21856 21866	Washington
+T63	Person 21876 21889	John Danforth
+T64	Place 21956 21962	Africa
+T65	Place 21968 21976	Missouri
+T66	Person 22017 22029	Howard Baker
+T67	Person 22143 22159	president Reagan
+T68	Place 22272 22278	Africa
+T69	Place 22835 22845	Mozambique
+T70	Place 23384 23397	United States
+T71	Place 23466 23472	Africa
+T72	Organisation 23620 23629	Sugarland
+T73	Place 23640 23652	Pennsylvania
+T74	Place 23668 23678	Casablanca
+T75	Place 23743 23748	Egypt
+T76	Place 23780 23785	Egypt
+T77	Place 23832 23838	Israel
+T78	Place 24034 24041	Lebanon
+T79	Place 24059 24065	Beirut
+T80	Organisation 24183 24202	American University
+T81	Place 24279 24286	Tripoli
+T82	Place 24416 24421	Sidon
+T83	Person 24569 24579	Washington
+T84	Person 24684 24700	president Reagan
+T85	Place 24706 24712	Polish
+T86	Place 24791 24804	United States
+T87	Place 24875 24879	Rome
+T88	Place 24976 24983	Vatican
+T89	Place 25152 25156	Rome
+T90	Place 25226 25235	Argentina
+T91	Person 25297 25310	Raul Alfonsin
+T92	Place 25454 25467	United States
+T93	Place 25531 25540	Nicaragua
+T94	Place 25572 25581	Argentina
+T95	Place 25587 25593	Mexico
+T96	Place 25733 25744	El Salvador
+T97	Place 25880 25891	Lempa River
+T98	Place 25921 25932	El Salvador
+T99	Place 26113 26123	Chirilagua
+T100	Place 26418 26428	Chirilagua
+T101	Place 26542 26552	Chirilagua
+T102	Place 26686 26696	chirilagua
+T103	Place 26717 26728	El Salvador
+T104	Place 26843 26853	Chirilagua
+T105	Place 27028 27038	chirilagua
+T106	Place 27093 27102	Cleveland
+T107	Place 27104 27108	Ohio
+T108	Place 27562 27572	Chirilagua
+T109	Place 27750 27761	El Salvador
+T110	Place 27971 27984	United States
+T111	Place 28196 28205	Cleveland
+T112	Place 28270 28280	Chirilagua
+T113	Place 28623 28634	El Salvador
+T114	Place 28680 28689	Cleveland
+T115	Place 28716 28726	chirilagua
+T116	Place 29324 29334	Chirilagua
+T117	Place 30826 30836	chirilagua
+T118	Place 30900 30910	Chirilagua
+T119	Place 31413 31422	Cleveland
+T120	Place 32003 32014	El Salvador
+T121	Place 32568 32578	Chirilagua
+T122	Place 33160 33173	United States
+T123	Place 33403 33413	Chirilagua
+T124	Place 35101 35112	El Salvador
+T125	Place 35237 35247	salvadoran
+T126	Place 35354 35363	Cleveland
+T127	Place 35417 35427	Chirilagua
+T128	Place 35492 35501	Tennessee
+T129	Place 35518 35526	New York
+T130	Place 35603 35613	New Jersey
+T131	Person 35622 35639	Harrison Williams
+T132	Place 36834 36843	Baltimore
+T133	Person 37565 37587	charlayne Hunter-gault
+T134	Place 38918 38925	Atlanta
+T135	Place 39008 39015	Atlanta
+T136	Place 42345 42355	California
+T137	Place 42359 42372	San Francisco
+T138	Organisation 42419 42423	Kqed
+T139	Place 43974 43987	United States
+T140	Place 44920 44933	United States
+T141	Person 48612 48618	Howard
+T142	Organisation 52195 52214	World Wildlife Fund
+T143	Person 53073 53087	Robert Macneil

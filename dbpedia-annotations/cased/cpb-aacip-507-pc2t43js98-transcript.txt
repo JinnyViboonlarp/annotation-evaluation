@@ -1,0 +1,171 @@
+T1	Person 52 62	Jim Lehrer
+T2	Person 206 223	Richard Rodriguez
+T3	Organisation 313 317	NEWS
+T4	Place 384 390	Hebron
+T5	Place 696 702	Hebron
+T6	Person 726 738	Robert Moore
+T7	Organisation 742 769	Independent Television News
+T8	Place 945 951	Hebron
+T9	Place 1334 1340	Hebron
+T10	Place 1455 1461	Hebron
+T11	Place 1801 1807	Hebron
+T12	Person 1832 1841	Netanyahu
+T13	Place 1860 1871	Palestinian
+T14	Person 1879 1885	Arafat
+T15	Person 1921 1928	Clinton
+T16	Person 1941 1947	Arafat
+T17	Place 1986 1997	Palestinian
+T18	Place 2043 2054	Palestinian
+T19	Place 2066 2072	Hebron
+T20	Place 2182 2186	Lima
+T21	Place 2651 2661	California
+T22	Place 2746 2750	Napa
+T23	Place 2767 2780	San Francisco
+T24	Place 2826 2833	Seattle
+T25	Person 2892 2902	Mike Lowry
+T26	Place 3032 3038	Oregon
+T27	Place 3044 3054	California
+T28	Place 3158 3177	Southern California
+T29	Place 3447 3455	Thailand
+T30	Person 3623 3640	Richard Rodriguez
+T31	Person 3813 3824	Paul Solman
+T32	Organisation 3828 3839	WGBH-Boston
+T33	Person 4102 4106	Fred
+T34	Place 4140 4151	Minneapolis
+T35	Organisation 4175 4180	Seven
+T36	Person 4422 4437	Francis Collins
+T37	Place 4589 4599	California
+T38	Place 4604 4612	New York
+T39	Place 4951 4960	Minnesota
+T40	Person 4976 4988	Scott McIvor
+T41	Person 5503 5512	Alexander
+T42	Person 6119 6134	Francis Collins
+T43	Place 8944 8952	American
+T44	Person 9308 9323	Francis Collins
+T45	Person 9446 9450	Mary
+T46	Place 9621 9627	Boston
+T47	Person 9633 9646	Patricia King
+T48	Organisation 9691 9723	Georgetown University Law School
+T49	Organisation 9773 9780	Collins
+T50	Device 9929 9939	remarkable
+T51	Organisation 10584 10596	The sequence
+T52	Person 10878 10882	Fred
+T53	Place 11195 11214	Washington Monument
+T54	Place 11635 11641	Boston
+T55	Organisation 14986 14993	Collins
+T56	Organisation 16437 16444	Collins
+T57	Person 19936 19949	Patricia King
+T58	Person 21552 21559	Collins
+T59	Organisation 22534 22542	Congress
+T60	Place 23059 23063	Utah
+T61	Organisation 23437 23444	Collins
+T62	Organisation 23450 23485	Biotechnology Industry Organization
+T63	Person 24778 24791	Patricia King
+T64	Organisation 25940 25947	Collins
+T65	Organisation 26380 26388	Congress
+T66	Person 29089 29106	Richard Rodriguez
+T67	Person 29258 29278	Elizabeth Farnsworth
+T68	Person 29386 29401	Michael Ramirez
+T69	Place 29481 29486	Union
+T70	Person 29496 29509	Doug Marlette
+T71	Person 29526 29537	Ann Telnaes
+T72	Place 29551 29559	American
+T73	Person 30175 30189	Roberto Alomar
+T74	Person 30450 30463	Doug Marlette
+T75	Person 31310 31321	Ann Telnaes
+T76	Person 31603 31611	Bob Dole
+T77	Person 31811 31826	Michael Ramirez
+T78	Person 32680 32687	Clinton
+T79	Person 32729 32733	Dole
+T80	Person 33221 33229	Bob Dole
+T81	Person 33234 33246	Bill Clinton
+T82	Person 33376 33387	Ann Telnaes
+T83	Person 33647 33651	Dole
+T84	Person 33899 33903	Dole
+T85	Organisation 34038 34048	Republican
+T86	Person 34184 34196	Pat Buchanan
+T87	Person 34201 34210	Bob Doran
+T88	Person 34338 34351	Doug Marlette
+T89	Person 34392 34396	Dole
+T90	Person 34692 34696	Dole
+T91	Person 35042 35067	Franklin Delano Roosevelt
+T92	Person 35078 35085	Clinton
+T93	Person 35098 35105	Eleanor
+T94	Person 35466 35473	Eleanor
+T95	Person 35536 35543	Clinton
+T96	Organisation 35570 35579	Roosevelt
+T97	Person 35619 35634	Hillary Clinton
+T98	Person 35669 35686	Eleanor Roosevelt
+T99	Person 35725 35737	Nancy Reagan
+T100	Person 36171 36178	Clinton
+T101	Person 36242 36249	Clinton
+T102	Person 36313 36324	Dick Morris
+T103	Organisation 36621 36627	Morris
+T104	Person 36640 36647	Clinton
+T105	Organisation 36670 36677	Imagine
+T106	Person 37877 37880	FDR
+T107	Place 38431 38442	White House
+T108	Place 38609 38620	White House
+T109	Place 38943 38954	White House
+T110	Person 39587 39601	Roberto Alomar
+T111	Organisation 39607 39623	Baltimore Oriole
+T112	Person 39728 39739	Ann Telnaes
+T113	Person 39882 39892	Washington
+T114	Person 40076 40089	Doug Marlette
+T115	Person 40279 40294	Michael Ramirez
+T116	Person 40505 40520	Michael Ramirez
+T117	Organisation 41710 41720	Republican
+T118	Person 45547 45551	O.J.
+T119	Person 45661 45665	O.J.
+T120	Person 46590 46605	Michael Ramirez
+T121	Person 46853 46857	O.J.
+T122	Place 47309 47318	Tennessee
+T123	Organisation 48454 48475	controversial subject
+T124	Person 48637 48652	Michael Jackson
+T125	Person 50078 50091	Newt Gingrich
+T126	Person 50200 50207	Clinton
+T127	Place 50793 50798	China
+T128	Place 50800 50805	China
+T129	Person 51050 51065	Michael Ramirez
+T130	Person 51124 51146	Clinton administration
+T131	Person 51612 51629	Richard Rodriguez
+T132	Person 51771 51780	Eva Peron
+T133	Place 51835 51844	Argentina
+T134	Place 51954 51962	American
+T135	Place 51973 51981	American
+T136	Person 52071 52080	Eva Peron
+T137	Person 52096 52106	Eva Duarte
+T138	Place 52173 52182	Argentina
+T139	Person 52191 52201	Eva Duarte
+T140	Place 52220 52232	Buenos Aires
+T141	Person 52314 52324	Juan Peron
+T142	Person 52403 52409	Franco
+T143	Person 52414 52420	Hitler
+T144	Person 52897 52906	Eva Peron
+T145	Place 52942 52951	Argentina
+T146	Place 52962 52971	Argentine
+T147	Place 53141 53150	Argentina
+T148	Place 53305 53314	Argentina
+T149	Place 53401 53410	Argentina
+T150	Person 53757 53762	Elvis
+T151	Person 53779 53792	Richard Nixon
+T152	Place 53795 53806	White House
+T153	Person 54091 54100	Eva Peron
+T154	Person 54302 54312	Juan Peron
+T155	Person 54444 54458	Christian Dior
+T156	Place 54561 54570	Argentina
+T157	Place 54597 54609	Buenos Aires
+T158	Place 54651 54660	Argentina
+T159	Person 54712 54721	Eva Peron
+T160	Person 54798 54807	Eva Peron
+T161	Place 55316 55325	Argentina
+T162	Person 55596 55605	Eva Peron
+T163	Place 55752 55761	Argentina
+T164	Person 55789 55806	Richard Rodriguez
+T165	Place 55905 55909	Lima
+T166	Place 55911 55915	Peru
+T167	Place 56051 56057	Hebron
+T168	Place 56127 56133	Hebron
+T169	Place 56207 56213	Oregon
+T170	Place 56228 56238	California
+T171	Person 56373 56383	Jim Lehrer

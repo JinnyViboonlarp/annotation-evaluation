@@ -1,0 +1,142 @@
+T1	Person 37 52	Margaret Warner
+T2	Person 54 64	Jim Lehrer
+T3	Person 178 189	Paul Solman
+T4	Person 272 285	Susan Dentzer
+T5	Person 340 360	Elizabeth Farnsworth
+T6	Person 416 433	Michael Beschloss
+T7	Person 435 449	Haynes Johnson
+T8	Person 451 471	Richard Norton Smith
+T9	Person 476 489	Roger Wilkins
+T10	Person 654 669	Donald Rumsfeld
+T11	Place 680 691	White House
+T12	Person 749 753	Ford
+T13	Organisation 1052 1076	House Of Representatives
+T14	Place 1105 1112	Arizona
+T15	Place 1114 1119	Texas
+T16	Place 1133 1140	Florida
+T17	Place 1173 1181	New York
+T18	Place 1186 1198	Pennsylvania
+T19	Person 1301 1308	Clinton
+T20	Person 2101 2108	Clinton
+T21	Place 2214 2225	North Korea
+T22	Place 2336 2345	Pyongyang
+T23	Place 2403 2414	Middle East
+T24	Place 2450 2458	Tel Aviv
+T25	Place 2525 2529	Gaza
+T26	Place 2746 2756	Gaza Strip
+T27	Place 2873 2881	Tel Aviv
+T28	Person 3145 3155	Ehud Barak
+T29	Person 3334 3347	Yasser Arafat
+T30	Person 3547 3554	Clinton
+T31	Organisation 3821 3836	Montgomery Ward
+T32	Organisation 4132 4147	Montgomery Ward
+T33	Place 4256 4263	Midwest
+T34	Place 4323 4328	Texas
+T35	Place 4426 4431	Texas
+T36	Organisation 4444 4458	National Guard
+T37	Person 4898 4913	Donald Rumsfeld
+T38	Organisation 5129 5133	Navy
+T39	Organisation 5192 5200	Congress
+T40	Person 5300 5311	Gerald Ford
+T41	Organisation 5540 5570	General Instrument Corporation
+T42	Person 5644 5648	Bush
+T43	Person 6437 6449	Don Rumsfeld
+T44	Person 8686 8698	Don Rumsfeld
+T45	Person 8736 8740	Bush
+T46	Person 8789 8801	Colin Powell
+T47	Person 9055 9061	Powell
+T48	Person 9084 9095	Dick Cheney
+T49	Person 9134 9146	Don Rumsfeld
+T50	Person 9152 9162	Condi Rice
+T51	Person 9709 9722	James Woolsey
+T52	Organisation 9750 9754	Navy
+T53	Person 9852 9866	George Joulwan
+T54	Person 10186 10198	Don Rumsfeld
+T55	Place 10313 10324	Middle East
+T56	Person 10549 10561	Don Rumsfeld
+T57	Person 10655 10659	Bush
+T58	Person 10824 10836	Don Rumsfeld
+T59	Person 11203 11218	Donald Rumsfeld
+T60	Organisation 11531 11537	Senate
+T61	Person 11705 11709	Bush
+T62	Person 12056 12068	Don Rumsfeld
+T63	Person 12523 12538	Donald Rumsfeld
+T64	Person 12703 12714	Jim Woolsey
+T65	Organisation 14207 14215	Congress
+T66	Person 15096 15108	Don Rumsfeld
+T67	Place 15345 15358	United States
+T68	Person 16253 16257	Bush
+T69	Place 18110 18115	China
+T70	Place 18123 18129	Taiwan
+T71	Place 18164 18175	North Korea
+T72	Place 18189 18200	South Korea
+T73	Place 18250 18256	Kuwait
+T74	Organisation 18590 18593	Foe
+T75	Person 18831 18835	Bush
+T76	Person 18911 18926	Donald Rumsfeld
+T77	Place 19613 19619	Alaska
+T78	Person 19726 19737	Jim Woolsey
+T79	Person 19761 19768	Clinton
+T80	Person 20035 20046	Jim Woolsey
+T81	Person 20168 20172	Bush
+T82	Person 20373 20380	Clinton
+T83	Person 20563 20578	Donald Rumsfeld
+T84	Person 21600 21612	Colin Powell
+T85	Person 21634 21644	Condi Rice
+T86	Person 21673 21684	Dick Cheney
+T87	Person 22858 22870	Colin Powell
+T88	Person 24069 24081	Colin Powell
+T89	Person 24421 24433	Don Rumsfeld
+T90	Place 24847 24853	Kosovo
+T91	Person 25085 25091	Powell
+T92	Place 25184 25194	Yugoslavia
+T93	Place 25514 25527	United States
+T94	Person 25891 25902	Paul Solman
+T95	Place 25912 25918	Boston
+T96	Organisation 28013 28020	Imagine
+T97	Place 29922 29928	Boston
+T98	Organisation 31220 31225	Mobil
+T99	Person 31846 31856	Bob Kaplan
+T100	Organisation 31923 31928	Mobil
+T101	Place 33789 33795	Boston
+T102	Organisation 37542 37551	Microsoft
+T103	Organisation 37608 37617	Microsoft
+T104	Organisation 37749 37758	Microsoft
+T105	Person 38656 38669	Susan Dentzer
+T106	Place 39374 39382	Maryland
+T107	Organisation 39437 39445	Motorola
+T108	Organisation 39450 39457	Verizon
+T109	Organisation 41218 41243	National Cancer Institute
+T110	Person 43547 43564	Michael Beschloss
+T111	Person 43591 43605	Haynes Johnson
+T112	Person 43662 43682	Richard Norton Smith
+T113	Place 45875 45881	Israel
+T114	Place 46435 46446	Middle East
+T115	Person 46569 46586	Michael Beschloss
+T116	Person 46722 46731	Elizabeth
+T117	Person 46794 46806	John Kennedy
+T118	Place 47888 47896	Imperial
+T119	Person 48229 48238	Elizabeth
+T120	Person 50350 50363	Roger Wilkins
+T121	Place 50631 50637	Mexico
+T122	Person 50734 50752	Slobodan Milosevic
+T123	Person 51782 51792	Washington
+T124	Organisation 51818 51826	Congress
+T125	Person 51849 51856	Al Gore
+T126	Place 52072 52083	Middle East
+T127	Place 52297 52303	Russia
+T128	Person 52307 52321	Vladimir Putin
+T129	Place 52534 52540	Russia
+T130	Person 52654 52667	Boris Yeltsin
+T131	Place 52695 52701	Russia
+T132	Place 52789 52802	United States
+T133	Person 52851 52856	Putin
+T134	Place 53122 53133	Middle East
+T135	Place 53611 53617	Russia
+T136	Place 53715 53720	China
+T137	Place 53965 53971	Africa
+T138	Person 54329 54340	Vicente Fox
+T139	Place 54812 54823	Middle East
+T140	Person 55432 55443	George Bush
+T141	Person 56320 56335	Donald Rumsfeld
+T142	Person 56596 56611	Margaret Warner

@@ -1,0 +1,132 @@
+T1	Person 52 62	Jim Lehrer
+T2	Person 206 223	Richard Rodriguez
+T3	Place 384 390	Hebron
+T4	Place 696 702	Hebron
+T5	Person 726 738	Robert Moore
+T6	Place 945 951	Hebron
+T7	Place 1334 1340	Hebron
+T8	Place 1455 1461	Hebron
+T9	Place 1801 1807	Hebron
+T10	Person 1832 1841	Netanyahu
+T11	Person 1879 1885	Arafat
+T12	Person 1921 1928	Clinton
+T13	Person 1941 1947	Arafat
+T14	Place 2066 2072	Hebron
+T15	Place 2182 2186	Lima
+T16	Place 2651 2661	California
+T17	Place 2767 2780	San Francisco
+T18	Place 2826 2833	Seattle
+T19	Person 2892 2902	Mike Lowry
+T20	Place 3032 3038	Oregon
+T21	Place 3044 3054	California
+T22	Place 3167 3177	California
+T23	Place 3223 3231	Pasadena
+T24	Place 3447 3455	Thailand
+T25	Person 3623 3640	Richard Rodriguez
+T26	Person 3813 3824	Paul Solman
+T27	Place 4140 4151	Minneapolis
+T28	Person 4422 4437	Francis Collins
+T29	Place 4589 4599	California
+T30	Place 4604 4612	New York
+T31	Person 4976 4988	Scott Mcivor
+T32	Person 6119 6134	Francis Collins
+T33	Person 9308 9323	Francis Collins
+T34	Place 9621 9627	Boston
+T35	Person 9633 9646	Patricia King
+T36	Organisation 9691 9723	Georgetown University Law School
+T37	Organisation 9773 9780	Collins
+T38	Place 11635 11641	Boston
+T39	Organisation 14986 14993	Collins
+T40	Organisation 16437 16444	Collins
+T41	Person 19936 19949	Patricia King
+T42	Organisation 21552 21559	Collins
+T43	Place 23059 23063	Utah
+T44	Person 24778 24791	Patricia King
+T45	Person 25940 25947	Collins
+T46	Organisation 27854 27861	Collins
+T47	Person 29089 29106	Richard Rodriguez
+T48	Person 29258 29278	Elizabeth Farnsworth
+T49	Person 29386 29401	Michael Ramirez
+T50	Person 29496 29509	Doug Marlette
+T51	Person 29526 29537	Ann Telnaes
+T52	Person 30175 30189	Roberto Alomar
+T53	Person 30450 30463	Doug Marlette
+T54	Person 31310 31321	Ann Telnaes
+T55	Person 31603 31611	Bob Dole
+T56	Person 31811 31826	Michael Ramirez
+T57	Person 32680 32687	Clinton
+T58	Person 33221 33229	Bob Dole
+T59	Person 33234 33246	Bill Clinton
+T60	Person 33376 33387	Ann Telnaes
+T61	Person 33647 33651	Dole
+T62	Person 33899 33903	Dole
+T63	Person 34184 34196	Pat Buchanan
+T64	Person 34201 34210	Bob Doran
+T65	Person 34338 34351	Doug Marlette
+T66	Person 34392 34396	Dole
+T67	Person 34692 34696	Dole
+T68	Person 35042 35067	Franklin Delano Roosevelt
+T69	Person 35078 35085	Clinton
+T70	Person 35098 35105	Eleanor
+T71	Person 35466 35473	Eleanor
+T72	Person 35536 35543	Clinton
+T73	Person 35619 35634	Hillary Clinton
+T74	Person 35669 35686	Eleanor Roosevelt
+T75	Person 35725 35737	Nancy Reagan
+T76	Person 36171 36178	Clinton
+T77	Person 36242 36249	Clinton
+T78	Person 36313 36324	Dick Morris
+T79	Organisation 36621 36627	Morris
+T80	Person 36640 36647	Clinton
+T81	Place 38431 38442	White House
+T82	Place 38609 38620	White House
+T83	Place 38943 38954	White House
+T84	Person 39587 39601	Roberto Alomar
+T85	Organisation 39607 39623	Baltimore Oriole
+T86	Person 39882 39892	Washington
+T87	Person 40076 40089	Doug Marlette
+T88	Person 40279 40294	Michael Ramirez
+T89	Person 40505 40520	Michael Ramirez
+T90	Person 46590 46605	Michael Ramirez
+T91	Place 47309 47318	Tennessee
+T92	Person 48637 48652	Michael Jackson
+T93	Person 50078 50091	Newt Gingrich
+T94	Person 50200 50207	Clinton
+T95	Place 50793 50798	China
+T96	Place 50800 50805	China
+T97	Person 51050 51065	Michael Ramirez
+T98	Person 51612 51629	Richard Rodriguez
+T99	Person 51771 51780	Eva Peron
+T100	Place 51835 51844	Argentina
+T101	Person 52071 52080	Eva Peron
+T102	Place 52173 52182	Argentina
+T103	Person 52191 52201	Eva Duarte
+T104	Place 52220 52232	Buenos Aires
+T105	Person 52314 52324	Juan Peron
+T106	Person 52403 52409	Franco
+T107	Person 52414 52420	Hitler
+T108	Person 52897 52906	Eva Peron
+T109	Place 52942 52951	Argentina
+T110	Place 53141 53150	Argentina
+T111	Place 53305 53314	Argentina
+T112	Place 53401 53410	Argentina
+T113	Person 53779 53792	Richard Nixon
+T114	Place 53795 53806	White House
+T115	Person 54091 54100	Eva Peron
+T116	Person 54302 54312	Juan Peron
+T117	Place 54561 54570	Argentina
+T118	Place 54597 54609	Buenos Aires
+T119	Place 54651 54660	Argentina
+T120	Person 54712 54721	Eva Peron
+T121	Person 54798 54807	Eva Peron
+T122	Place 55316 55325	Argentina
+T123	Person 55596 55605	Eva Peron
+T124	Place 55752 55761	Argentina
+T125	Person 55789 55806	Richard Rodriguez
+T126	Place 55905 55909	Lima
+T127	Place 55911 55915	Peru
+T128	Place 56051 56057	Hebron
+T129	Place 56127 56133	Hebron
+T130	Place 56207 56213	Oregon
+T131	Place 56228 56238	California
+T132	Person 56373 56383	Jim Lehrer

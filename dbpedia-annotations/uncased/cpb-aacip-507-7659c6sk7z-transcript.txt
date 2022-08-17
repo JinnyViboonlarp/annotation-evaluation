@@ -1,0 +1,13 @@
+T1	Organisation 281 299	chinese communists
+T2	Place 471 484	san francisco
+T3	Place 486 493	chicago
+T4	Person 1489 1493	paul
+T5	Place 2414 2427	wolverhampton
+T6	Person 4927 4940	deng xiaoping
+T7	Organisation 5338 5349	total chaos
+T8	Person 14756 14765	henry fok
+T9	Organisation 14974 14989	communist china
+T10	Place 16712 16718	taiwan
+T11	Organisation 17277 17280	tvs
+T12	Organisation 18492 18507	communist party
+T13	Person 18728 18742	robert macneil

@@ -1,0 +1,268 @@
+T1	Person 32 42	Gwen Ifill
+T2	Person 44 54	Jim Lehrer
+T3	Person 94 104	Ray Suarez
+T4	Organisation 160 167	cabinet
+T5	Person 253 273	Elizabeth Farnsworth
+T6	Place 361 367	Israel
+T7	Organisation 487 494	cabinet
+T8	Person 543 556	Norman Mineta
+T9	Person 620 641	Reagan administration
+T10	Person 652 664	Linda Chavez
+T11	Place 698 706	Michigan
+T12	Person 723 730	Abraham
+T13	Organisation 1017 1024	cabinet
+T14	Organisation 1066 1073	cabinet
+T15	Organisation 1131 1138	cabinet
+T16	Organisation 1379 1386	cabinet
+T17	Organisation 1431 1438	cabinet
+T18	Person 1500 1506	Arafat
+T19	Person 1526 1533	Clinton
+T20	Place 1608 1619	Middle East
+T21	Place 1774 1780	Israel
+T22	Person 1804 1816	Jake Siewert
+T23	Organisation 1836 1841	hopes
+T24	Place 2270 2279	Jerusalem
+T25	Person 2304 2309	Barak
+T26	Place 2456 2460	Gaza
+T27	Place 2624 2636	persian gulf
+T28	Place 2938 2942	Aden
+T29	Place 2944 2949	Yemen
+T30	Person 3014 3024	lackluster
+T31	Organisation 3243 3250	cabinet
+T32	Person 3268 3276	Ashcroft
+T33	Place 3332 3338	Israel
+T34	Organisation 3415 3422	cabinet
+T35	Person 3447 3457	Ray Suarez
+T36	Organisation 3489 3496	cabinet
+T37	Person 3560 3566	Austin
+T38	Place 3617 3625	Michigan
+T39	Person 3642 3649	Abraham
+T40	Person 3677 3692	debbie Stabenow
+T41	Place 3787 3795	lebanese
+T42	Person 3808 3815	Abraham
+T43	Person 3902 3912	Dan Quayle
+T44	Person 4384 4396	Linda Chavez
+T45	Organisation 4429 4434	Labor
+T46	Organisation 4484 4491	cabinet
+T47	Person 4595 4605	Washington
+T48	Person 4723 4744	Reagan administration
+T49	Organisation 4758 4764	Senate
+T50	Place 4770 4778	Maryland
+T51	Organisation 4972 4977	Labor
+T52	Organisation 5445 5450	Labor
+T53	Person 5579 5592	Norman Mineta
+T54	Organisation 5692 5699	cabinet
+T55	Person 5711 5718	Clinton
+T56	Place 5928 5938	California
+T57	Organisation 6077 6085	San Jose
+T58	Person 6262 6269	Clinton
+T59	Organisation 6272 6279	cabinet
+T60	Organisation 7591 7598	cabinet
+T61	Place 7733 7737	Opec
+T62	Place 7983 7987	Opec
+T63	Place 8149 8153	Opec
+T64	Place 8728 8739	Middle East
+T65	Place 8820 8833	United States
+T66	Organisation 9018 9025	cabinet
+T67	Organisation 9281 9289	Congress
+T68	Organisation 9907 9919	Capitol Hill
+T69	Organisation 9941 9947	Senate
+T70	Person 9968 9979	Don nickles
+T71	Place 9983 9991	Oklahoma
+T72	Person 10037 10047	Harry Reid
+T73	Place 10051 10057	Nevada
+T74	Organisation 10217 10224	cabinet
+T75	Organisation 10324 10330	Senate
+T76	Person 10530 10541	Norm Mineta
+T77	Person 10661 10668	Clinton
+T78	Organisation 10873 10880	cabinet
+T79	Person 11074 11085	Norm Mineta
+T80	Person 11263 11274	Norm Mineta
+T81	Person 11796 11806	bill cohen
+T82	Organisation 11855 11862	cabinet
+T83	Organisation 12632 12639	cabinet
+T84	Person 12807 12819	Colin Powell
+T85	Person 12821 12833	Don Rumsfeld
+T86	Person 12835 12847	Paul O'neill
+T87	Person 12879 12890	Norm Mineta
+T88	Organisation 13018 13025	cabinet
+T89	Organisation 13070 13077	cabinet
+T90	Organisation 13248 13255	cabinet
+T91	Organisation 13494 13501	cabinet
+T92	Organisation 13632 13639	cabinet
+T93	Organisation 13795 13802	cabinet
+T94	Organisation 14377 14385	Congress
+T95	Organisation 14827 14834	cabinet
+T96	Organisation 14976 14983	cabinet
+T97	Person 15054 15066	Don Rumsfeld
+T98	Person 15091 15103	Paul O'neill
+T99	Person 15107 15120	John Ashcroft
+T100	Organisation 15420 15426	Senate
+T101	Person 15776 15788	Linda Chavez
+T102	Person 16235 16246	Gale Norton
+T103	Person 16426 16439	John Ashcroft
+T104	Person 16575 16587	Ronnie White
+T105	Organisation 17198 17204	Senate
+T106	Organisation 17456 17472	democratic party
+T107	Person 17940 17953	John Ashcroft
+T108	Person 17962 17975	John Ashcroft
+T109	Place 18200 18208	Missouri
+T110	Person 18410 18421	Gale Norton
+T111	Organisation 18479 18485	Senate
+T112	Organisation 19020 19026	Senate
+T113	Organisation 19272 19279	cabinet
+T114	Person 19654 19666	Linda Chavez
+T115	Organisation 19864 19869	Labor
+T116	Organisation 20401 20408	cabinet
+T117	Person 20844 20854	Washington
+T118	Person 21196 21204	Ashcroft
+T119	Person 21431 21444	John Ashcroft
+T120	Person 21783 21791	Ashcroft
+T121	Organisation 21895 21901	Senate
+T122	Place 21914 21922	Missouri
+T123	Person 21932 21944	Mel Carnahan
+T124	Place 22097 22105	Missouri
+T125	Person 22321 22329	Ashcroft
+T126	Place 22367 22375	Missouri
+T127	Organisation 22396 22402	Senate
+T128	Person 22520 22528	Ashcroft
+T129	Person 22562 22570	Ashcroft
+T130	Person 22658 22670	Ronnie White
+T131	Place 22674 22682	Missouri
+T132	Person 22728 22735	Clinton
+T133	Organisation 22880 22887	cabinet
+T134	Person 22947 22955	Ashcroft
+T135	Person 23423 23436	John Ashcroft
+T136	Place 23629 23637	Missouri
+T137	Place 23685 23693	Missouri
+T138	Organisation 23703 23724	United States senator
+T139	Place 23741 23749	Missouri
+T140	Person 24106 24114	Ashcroft
+T141	Organisation 24140 24146	Senate
+T142	Person 24185 24193	Ashcroft
+T143	Person 24353 24365	Elaine Jones
+T144	Organisation 24389 24413	Naacp Legal Defense Fund
+T145	Person 24415 24427	Clint Bolick
+T146	Organisation 24462 24483	Institute For Justice
+T147	Person 24547 24559	Elaine Jones
+T148	Person 24599 24612	John Ashcroft
+T149	Person 24848 24861	John Ashcroft
+T150	Person 25158 25171	John Ashcroft
+T151	Person 25558 25570	Clint Bolick
+T152	Person 25572 25584	Elaine Jones
+T153	Person 25707 25720	John Ashcroft
+T154	Place 25856 25864	Missouri
+T155	Person 25935 25942	Clinton
+T156	Person 25989 26001	Ronnie White
+T157	Organisation 26036 26056	United States Senate
+T158	Person 26086 26098	Jim Jeffords
+T159	Person 26103 26116	Arlen Specter
+T160	Person 26155 26162	Clinton
+T161	Place 26226 26234	Missouri
+T162	Person 26382 26394	Elaine Jones
+T163	Person 26536 26549	John Ashcroft
+T164	Person 26646 26659	John Ashcroft
+T165	Person 26991 26999	Ashcroft
+T166	Person 27405 27413	Ashcroft
+T167	Place 27845 27858	United States
+T168	Person 27991 27999	Ashcroft
+T169	Person 28173 28186	John Ashcroft
+T170	Person 28396 28409	John Ashcroft
+T171	Person 29046 29059	John Ashcroft
+T172	Person 29760 29772	Clint Bolick
+T173	Person 30091 30099	Ashcroft
+T174	Person 30411 30419	Ashcroft
+T175	Person 30521 30529	Ashcroft
+T176	Place 30954 30967	United States
+T177	Person 31059 31071	clint Bolick
+T178	Person 31113 31125	Ronnie White
+T179	Person 31161 31173	Ronnie White
+T180	Place 31207 31215	Missouri
+T181	Place 31422 31435	United States
+T182	Person 31605 31617	Ronnie White
+T183	Place 31680 31688	Missouri
+T184	Person 31821 31829	Ashcroft
+T185	Person 31979 31991	Ronnie White
+T186	Person 32093 32101	Ashcroft
+T187	Person 32227 32239	Ronnie White
+T188	Person 32343 32356	John Ashcroft
+T189	Person 32399 32409	Washington
+T190	Person 32475 32488	John Ashcroft
+T191	Person 32596 32606	Washington
+T192	Person 32908 32920	Ronnie White
+T193	Person 32995 33008	John Ashcroft
+T194	Organisation 33260 33276	Democratic Party
+T195	Person 33316 33324	Ashcroft
+T196	Person 33497 33510	John Ashcroft
+T197	Person 34182 34190	Ashcroft
+T198	Organisation 34698 34706	Congress
+T199	Place 35469 35482	United States
+T200	Organisation 36250 36257	cabinet
+T201	Person 36655 36666	George Bush
+T202	Person 37052 37065	John Ashcroft
+T203	Person 37213 37225	Elaine Jones
+T204	Person 37247 37259	clint Bolick
+T205	Person 37285 37298	John Ashcroft
+T206	Person 37741 37754	John Ashcroft
+T207	Person 38112 38124	Clint Bolick
+T208	Person 38261 38274	John Ashcroft
+T209	Person 38344 38357	John Ashcroft
+T210	Place 38429 38434	Texas
+T211	Person 38480 38493	John Ashcroft
+T212	Organisation 38795 38801	Senate
+T213	Person 38889 38899	Ray Suarez
+T214	Place 39083 39094	Middle East
+T215	Place 39117 39127	camp David
+T216	Person 39140 39160	Elizabeth Farnsworth
+T217	Place 39173 39179	Israel
+T218	Place 39199 39203	Gaza
+T219	Place 39578 39584	Israel
+T220	Place 39771 39775	Gaza
+T221	Place 39897 39911	United Nations
+T222	Place 40464 40470	Europe
+T223	Place 40479 40490	Middle East
+T224	Organisation 40522 40529	cabinet
+T225	Person 40548 40558	Ehud Barak
+T226	Place 40615 40621	Europe
+T227	Place 40643 40649	Poland
+T228	Place 40657 40664	Germany
+T229	Place 40671 40685	Czechoslovakia
+T230	Place 40766 40770	Gaza
+T231	Place 41176 41185	Palestine
+T232	Place 41307 41312	Egypt
+T233	Place 41367 41371	Gaza
+T234	Place 42142 42150	Tel Aviv
+T235	Place 42193 42197	Gaza
+T236	Place 43093 43101	Tel Aviv
+T237	Place 43975 43981	Israel
+T238	Place 44383 44389	Europe
+T239	Place 44798 44804	Vienna
+T240	Place 45446 45452	Vienna
+T241	Place 45537 45543	Vienna
+T242	Place 45727 45733	Israel
+T243	Place 46049 46060	Middle East
+T244	Place 46165 46171	Israel
+T245	Place 46173 46179	Israel
+T246	Organisation 47249 47256	Imagine
+T247	Place 47362 47369	Morocco
+T248	Place 47373 47380	Tunisia
+T249	Place 47384 47391	Algeria
+T250	Place 47398 47403	Syria
+T251	Place 47411 47416	Egypt
+T252	Place 47630 47639	Jerusalem
+T253	Place 47755 47761	Empire
+T254	Place 48491 48497	Israel
+T255	Place 48591 48597	Israel
+T256	Place 48760 48766	Israel
+T257	Place 48977 48987	camp David
+T258	Place 49218 49231	United States
+T259	Place 49233 49239	Europe
+T260	Place 49349 49353	Gaza
+T261	Place 49810 49814	Gaza
+T262	Place 49837 49843	Israel
+T263	Organisation 49994 50001	cabinet
+T264	Organisation 50036 50041	Labor
+T265	Person 50077 50083	Arafat
+T266	Person 50103 50110	Clinton
+T267	Place 50178 50189	Middle East
+T268	Person 50267 50277	Gwen Ifill

@@ -1,0 +1,108 @@
+T1	Person 37 52	margaret warner
+T2	Person 178 182	paul
+T3	Person 272 285	susan dentzer
+T4	Person 340 360	elizabeth farnsworth
+T5	Person 416 433	michael beschloss
+T6	Person 435 449	haynes johnson
+T7	Person 451 471	richard norton smith
+T8	Person 476 489	roger wilkins
+T9	Person 654 669	donald rumsfeld
+T10	Organisation 749 753	ford
+T11	Place 1186 1198	pennsylvania
+T12	Place 2214 2225	north korea
+T13	Place 2336 2345	pyongyang
+T14	Place 2450 2458	tel aviv
+T15	Place 2525 2529	gaza
+T16	Organisation 2568 2595	independent television news
+T17	Place 2746 2756	gaza strip
+T18	Place 2873 2881	tel aviv
+T19	Person 3145 3155	ehud barak
+T20	Person 3334 3347	yasser arafat
+T21	Organisation 4167 4191	general electric company
+T22	Person 4898 4913	donald rumsfeld
+T23	Person 5300 5311	gerald ford
+T24	Organisation 5540 5570	general instrument corporation
+T25	Person 6437 6449	don rumsfeld
+T26	Person 8686 8698	don rumsfeld
+T27	Person 8789 8801	colin powell
+T28	Person 9084 9095	dick cheney
+T29	Person 9134 9146	don rumsfeld
+T30	Organisation 9546 9553	cabinet
+T31	Organisation 9597 9602	hopes
+T32	Person 9709 9722	james woolsey
+T33	Person 9852 9866	george joulwan
+T34	Organisation 9876 9900	supreme allied commander
+T35	Person 9948 9959	john isaacs
+T36	Person 10186 10198	don rumsfeld
+T37	Person 10549 10561	don rumsfeld
+T38	Person 10824 10836	don rumsfeld
+T39	Person 11175 11186	john isaacs
+T40	Person 11203 11218	donald rumsfeld
+T41	Person 12056 12068	don rumsfeld
+T42	Device 12322 12332	remarkable
+T43	Person 12523 12538	donald rumsfeld
+T44	Person 15096 15108	don rumsfeld
+T45	Person 15541 15552	john isaacs
+T46	Place 18123 18129	taiwan
+T47	Place 18164 18175	north korea
+T48	Place 18250 18256	kuwait
+T49	Person 18707 18718	john isaacs
+T50	Person 18911 18926	donald rumsfeld
+T51	Person 19537 19549	bill clinton
+T52	Place 19613 19619	alaska
+T53	Person 20295 20317	clinton administration
+T54	Person 20563 20578	donald rumsfeld
+T55	Person 21517 21528	john isaacs
+T56	Person 21600 21612	colin powell
+T57	Person 21673 21684	dick cheney
+T58	Person 22418 22434	condoleezza rice
+T59	Person 22858 22870	colin powell
+T60	Person 23003 23025	clinton administration
+T61	Person 24069 24081	colin powell
+T62	Person 24421 24433	don rumsfeld
+T63	Place 25184 25194	yugoslavia
+T64	Person 25891 25895	paul
+T65	Organisation 25906 25918	wgbh, boston
+T66	Organisation 29699 29714	citizen schools
+T67	Organisation 29876 29891	citizen schools
+T68	Place 29922 29928	boston
+T69	Person 30863 30867	paul
+T70	Organisation 30989 30998	mobil oil
+T71	Organisation 31220 31225	mobil
+T72	Person 31846 31856	bob kaplan
+T73	Person 33395 33410	aaron lieberman
+T74	Place 33789 33795	boston
+T75	Organisation 36836 36851	citizen schools
+T76	Organisation 38279 38292	cisco systems
+T77	Person 38656 38669	susan dentzer
+T78	Organisation 38752 38776	kaiser family foundation
+T79	Place 39374 39382	maryland
+T80	Organisation 39437 39445	motorola
+T81	Organisation 39450 39457	verizon
+T82	Organisation 39988 40016	american medical association
+T83	Organisation 41218 41243	national cancer institute
+T84	Person 43429 43449	elizabeth farnsworth
+T85	Person 43547 43564	michael beschloss
+T86	Person 43591 43605	haynes johnson
+T87	Person 43662 43682	richard norton smith
+T88	Person 43698 43711	roger wilkins
+T89	Place 45986 45998	grand rapids
+T90	Person 46569 46586	michael beschloss
+T91	Person 46794 46806	john kennedy
+T92	Person 50350 50363	roger wilkins
+T93	Place 50631 50637	mexico
+T94	Person 50734 50752	slobodan milosevic
+T95	Person 51023 51038	justice stevens
+T96	Person 51782 51792	washington
+T97	Person 51849 51856	al gore
+T98	Person 52307 52321	vladimir putin
+T99	Person 52574 52579	putin
+T100	Person 52654 52667	boris yeltsin
+T101	Person 52851 52856	putin
+T102	Person 54329 54340	vicente fox
+T103	Place 54694 54698	pope
+T104	Person 54876 54885	st. peter
+T105	Person 55432 55443	george bush
+T106	Person 55808 55819	tiger woods
+T107	Person 56320 56335	donald rumsfeld
+T108	Person 56596 56611	margaret warner

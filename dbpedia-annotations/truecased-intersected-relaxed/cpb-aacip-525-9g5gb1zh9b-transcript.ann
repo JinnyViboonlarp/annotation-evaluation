@@ -1,0 +1,145 @@
+T1	Person 82 92	Jim Lehrer
+T2	Organisation 168 176	Congress
+T3	Person 198 208	Gwen ifill
+T4	Person 363 378	Lamar Alexander
+T5	Person 383 392	Tom Udall
+T6	Organisation 413 419	Senate
+T7	Person 453 467	Lindsey Hilsum
+T8	Place 537 548	Ivory Coast
+T9	Person 602 612	Ray Suarez
+T10	Place 678 683	Texas
+T11	Person 766 779	Jeffrey Brown
+T12	Place 857 862	Haiti
+T13	Place 1605 1618	Nelson County
+T14	Organisation 2117 2135	Hewlett Foundation
+T15	Organisation 2331 2366	Corporation For Public Broadcasting
+T16	Person 2499 2509	Washington
+T17	Organisation 2668 2692	House Of Representatives
+T18	Person 2801 2813	John Boehner
+T19	Person 3026 3036	Washington
+T20	Organisation 3488 3496	Congress
+T21	Person 4099 4110	Eric Cantor
+T22	Organisation 4273 4279	Senate
+T23	Place 4390 4394	Utah
+T24	Person 4409 4417	Mike Lee
+T25	Person 4438 4451	Judy Woodruff
+T26	Person 6040 6049	Diane Lim
+T27	Person 6164 6169	James
+T28	Organisation 6893 6901	Congress
+T29	Organisation 7255 7263	Congress
+T30	Person 14435 14442	Clinton
+T31	Person 14452 14464	Alice Rivlin
+T32	Person 14501 14509	Domenici
+T33	Place 15228 15239	Ivory Coast
+T34	Place 15303 15308	Haiti
+T35	Organisation 15418 15422	Navy
+T36	Person 15444 15455	Owen Honors
+T37	Place 15643 15651	Virginia
+T38	Organisation 15660 15664	Navy
+T39	Person 15673 15684	John Harvey
+T40	Organisation 16082 16086	Navy
+T41	Organisation 16157 16161	Navy
+T42	Place 16321 16329	Pakistan
+T43	Place 16356 16362	Punjab
+T44	Place 16654 16662	Pakistan
+T45	Place 16683 16694	Afghanistan
+T46	Person 16706 16718	Hamid Karzai
+T47	Person 16809 16815	Karzai
+T48	Place 17056 17067	Rockhampton
+T49	Place 17069 17078	Australia
+T50	Organisation 17209 17220	Steve Scott
+T51	Place 17325 17332	Hampton
+T52	Place 18272 18279	Hampton
+T53	Person 18627 18639	Saint George
+T54	Place 19192 19199	Detroit
+T55	Person 19279 19283	Ford
+T56	Organisation 19613 19633	United States Senate
+T57	Organisation 19775 19783	Congress
+T58	Organisation 19907 19913	Senate
+T59	Person 19978 19987	Tom Udall
+T60	Place 20000 20010	New Mexico
+T61	Person 20044 20059	Lamar Alexander
+T62	Place 20063 20072	Tennessee
+T63	Organisation 20089 20095	Senate
+T64	Organisation 20267 20273	Senate
+T65	Organisation 20508 20532	House Of Representatives
+T66	Organisation 21256 21262	Senate
+T67	Organisation 21493 21499	Senate
+T68	Place 21593 21602	Tennessee
+T69	Organisation 21741 21747	Senate
+T70	Organisation 22666 22672	Senate
+T71	Organisation 23070 23076	Senate
+T72	Person 23485 23494	Alexander
+T73	Organisation 23737 23743	Senate
+T74	Organisation 23787 23793	Senate
+T75	Person 24093 24100	Russell
+T76	Organisation 24983 24989	Senate
+T77	Organisation 26609 26615	Senate
+T78	Organisation 27006 27012	Senate
+T79	Person 27255 27264	Alexander
+T80	Organisation 27315 27321	Senate
+T81	Organisation 27844 27850	Senate
+T82	Organisation 28431 28437	Senate
+T83	Organisation 28614 28620	Senate
+T84	Organisation 28821 28827	Senate
+T85	Person 28922 28932	Al Franken
+T86	Organisation 29444 29450	Senate
+T87	Organisation 30151 30157	Senate
+T88	Organisation 30763 30769	Senate
+T89	Organisation 30969 30975	Senate
+T90	Organisation 30999 31005	Senate
+T91	Organisation 31171 31177	Senate
+T92	Organisation 31418 31424	Senate
+T93	Place 31661 31672	Ivory Coast
+T94	Person 31840 31854	Lindsey Hilsum
+T95	Place 31967 31971	U.N.
+T96	Person 33226 33236	Ray Suarez
+T97	Person 33273 33289	cornelius Dupree
+T98	Person 33379 33385	Dupree
+T99	Place 33513 33519	Dallas
+T100	Person 33592 33598	Dupree
+T101	Person 33787 33793	Dupree
+T102	Place 33826 33831	Texas
+T103	Place 33882 33887	Texas
+T104	Person 34039 34052	Craig Watkins
+T105	Place 34889 34902	Dallas County
+T106	Place 35126 35131	Texas
+T107	Place 35466 35471	Texas
+T108	Place 35575 35588	Dallas County
+T109	Place 35732 35745	Dallas County
+T110	Place 35749 35754	Texas
+T111	Place 36050 36055	Texas
+T112	Place 36625 36630	Texas
+T113	Place 37180 37185	Texas
+T114	Place 37808 37821	Dallas County
+T115	Place 39059 39072	Dallas County
+T116	Place 39199 39212	Dallas County
+T117	Place 39623 39636	Dallas County
+T118	Place 39642 39647	Texas
+T119	Person 40287 40300	Jeffrey Brown
+T120	Place 40403 40408	Haiti
+T121	Place 40627 40632	Haiti
+T122	Place 41020 41023	Gan
+T123	Place 41063 41070	Jamaica
+T124	Place 41250 41255	Haiti
+T125	Place 41395 41401	Oregon
+T126	Place 41524 41529	Haiti
+T127	Place 41642 41647	Haiti
+T128	Place 41930 41937	Jamaica
+T129	Place 42044 42051	Jamaica
+T130	Place 42385 42390	Haiti
+T131	Place 42576 42581	Haiti
+T132	Place 42608 42615	Jamaica
+T133	Place 42819 42826	Jamaica
+T134	Place 42856 42861	Haiti
+T135	Place 42871 42876	Haiti
+T136	Place 46067 46081	port-au-Prince
+T137	Place 46717 46722	Haiti
+T138	Place 47731 47735	Nice
+T139	Place 49795 49800	Haiti
+T140	Organisation 50061 50069	Congress
+T141	Organisation 50094 50098	Navy
+T142	Person 50315 50330	Margaret Warner
+T143	Place 50364 50375	South Korea
+T144	Person 50813 50823	Gwen ifill
+T145	Person 50846 50856	Jim Lehrer

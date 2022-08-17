@@ -1,0 +1,35 @@
+T1	Person 171 175	Ford
+T2	Person 351 355	Ford
+T3	Organisation 495 503	Congress
+T4	Organisation 595 626	National Organization For Women
+T5	Person 1187 1191	Ford
+T6	Place 2285 2307	Scranton, Pennsylvania
+T7	Person 2481 2493	Jimmy Carter
+T8	Place 2563 2567	Iowa
+T9	Person 3064 3077	Ronald Reagan
+T10	Person 4008 4019	Gerald Ford
+T11	Person 4099 4112	Ronald Reagan
+T12	Person 4328 4333	James
+T13	Person 7258 7263	James
+T14	Organisation 7420 7424	ment
+T15	Person 8866 8870	Ford
+T16	Person 8875 8887	Jimmy Carter
+T17	Person 9173 9177	Ford
+T18	Person 13010 13014	Ford
+T19	Person 14146 14150	Ford
+T20	Place 16417 16421	Iowa
+T21	Person 16741 16745	Ford
+T22	Person 17363 17374	James Baker
+T23	Person 17609 17613	Ford
+T24	Place 17788 17796	New York
+T25	Organisation 18133 18138	hopes
+T26	Place 20605 20609	Rome
+T27	Person 21529 21533	Ford
+T28	Place 24215 24223	New York
+T29	Place 24225 24233	Illinois
+T30	Place 24235 24247	Pennsylvania
+T31	Place 24252 24260	Michigan
+T32	Person 24661 24673	Jimmy Carter
+T33	Person 24876 24888	Jimmy Carter
+T34	Person 27053 27063	Jim Lehrer
+T35	Person 27105 27119	Robert Macneil

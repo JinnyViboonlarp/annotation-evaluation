@@ -1,0 +1,193 @@
+T1	Person 32 42	Jim Lehrer
+T2	Place 73 79	Bosnia
+T3	Person 89 109	Elizabeth Farnsworth
+T4	Person 290 312	Charlayne Hunter-Gault
+T5	Person 378 390	David Gergen
+T6	Person 411 421	Bill Gates
+T7	Organisation 504 510	Senate
+T8	Place 586 592	Bosnia
+T9	Person 610 618	Bob Dole
+T10	Organisation 631 637	Senate
+T11	Person 1362 1373	John McCain
+T12	Place 1379 1386	Arizona
+T13	Person 1418 1422	Dole
+T14	Organisation 1430 1436	Senate
+T15	Place 1546 1552	Bosnia
+T16	Place 1747 1753	Bosnia
+T17	Person 2212 2225	Newt Gingrich
+T18	Person 2309 2319	Washington
+T19	Place 3096 3107	White House
+T20	Person 3123 3135	Leon Panetta
+T21	Person 3186 3198	LEON PANETTA
+T22	Place 3200 3211	White House
+T23	Person 3847 3862	Hillary Clinton
+T24	Person 4043 4053	Washington
+T25	Organisation 4070 4081	Little Rock
+T26	Person 4103 4110	Clinton
+T27	Person 4377 4384	Clinton
+T28	Person 4673 4680	Clinton
+T29	Person 6047 6059	Bill Clinton
+T30	Place 6077 6085	American
+T31	Person 6187 6194	Clinton
+T32	Place 6214 6221	Belfast
+T33	Place 6692 6699	Ireland
+T34	Place 6786 6793	Ireland
+T35	Place 7420 7427	British
+T36	Place 7440 7448	American
+T37	Person 7466 7473	Clinton
+T38	Place 7537 7544	Belfast
+T39	Place 7638 7647	Tennessee
+T40	Person 7743 7750	Clinton
+T41	Place 7787 7793	Dublin
+T42	Place 8436 8447	Highway 101
+T43	Place 8509 8518	Nicaragua
+T44	Place 8602 8609	Managua
+T45	Place 8841 8847	Bosnia
+T46	Place 9017 9023	Bosnia
+T47	Organisation 9133 9139	Senate
+T48	Person 9153 9173	Elizabeth Farnsworth
+T49	Person 9231 9242	Robert Dole
+T50	Place 9427 9433	Bosnia
+T51	Person 9492 9496	Dole
+T52	Person 9512 9523	John McCain
+T53	Place 9527 9534	Arizona
+T54	Organisation 9628 9634	Senate
+T55	Person 9722 9731	Elizabeth
+T56	Place 9840 9846	Bosnia
+T57	Person 9889 9898	Elizabeth
+T58	Place 10277 10283	Bosnia
+T59	Organisation 10786 10790	NATO
+T60	Place 10923 10929	Bosnia
+T61	Person 11160 11164	Dole
+T62	Person 11203 11219	Jean Kirkpatrick
+T63	Person 11221 11234	Richard Perle
+T64	Person 11236 11251	Brent Scowcroft
+T65	Person 11253 11267	Paul Wolfowitz
+T66	Place 11374 11382	American
+T67	Place 11543 11550	Somalia
+T68	Person 12238 12247	Elizabeth
+T69	Person 12912 12921	Elizabeth
+T70	Place 13243 13251	American
+T71	Organisation 13360 13366	Senate
+T72	Person 13569 13578	Elizabeth
+T73	Person 13635 13651	Thomas Jefferson
+T74	Organisation 13707 13715	Congress
+T75	Person 13760 13766	Reagan
+T76	Person 13811 13815	Bush
+T77	Person 13870 13874	Bush
+T78	Organisation 13940 13948	Congress
+T79	Place 14157 14165	American
+T80	Organisation 14624 14632	Congress
+T81	Person 16165 16174	Elizabeth
+T82	Place 16573 16581	American
+T83	Place 17018 17024	Bosnia
+T84	Person 17034 17049	Margaret Warner
+T85	Place 17224 17230	Bosnia
+T86	Place 17318 17324	Bosnia
+T87	Organisation 17347 17355	Congress
+T88	Person 17372 17379	Clinton
+T89	Organisation 17441 17445	NATO
+T90	Place 17530 17538	American
+T91	Place 17608 17614	Bosnia
+T92	Organisation 17795 17799	NATO
+T93	Organisation 17825 17829	NATO
+T94	Place 17863 17869	Bosnia
+T95	Organisation 18065 18069	NATO
+T96	Place 18074 18080	Europe
+T97	Person 18193 18206	William Perry
+T98	Place 18333 18339	Bosnia
+T99	Place 19008 19010	UN
+T100	Place 19029 19035	Bosnia
+T101	Place 19708 19719	Los Angeles
+T102	Place 19721 19729	New York
+T103	Place 19731 19738	Chicago
+T104	Organisation 20208 20216	Congress
+T105	Organisation 21078 21086	Congress
+T106	Person 21182 21189	Clinton
+T107	Place 21929 21937	American
+T108	Place 22412 22418	Bosnia
+T109	Place 22474 22480	Bosnia
+T110	Person 22688 22700	Ronald Steel
+T111	Person 22826 22838	Donald Kagan
+T112	Place 22976 22982	Europe
+T113	Organisation 22999 23020	Chestnut Hill College
+T114	Place 23024 23036	Philadelphia
+T115	Person 23038 23050	Ronald Steel
+T116	Place 23143 23149	Bosnia
+T117	Place 23305 23311	Bosnia
+T118	Place 24107 24115	American
+T119	Place 24159 24167	American
+T120	Organisation 24701 24705	NATO
+T121	Person 24827 24833	Lukacs
+T122	Place 25245 25255	Yugoslavia
+T123	Place 25627 25635	American
+T124	Organisation 26262 26266	NATO
+T125	Organisation 26790 26794	NATO
+T126	Organisation 27170 27174	NATO
+T127	Organisation 27255 27259	NATO
+T128	Person 27267 27272	Kagan
+T129	Organisation 27281 27285	NATO
+T130	Place 27302 27308	Bosnia
+T131	Place 27314 27319	Haiti
+T132	Place 27326 27333	Somalia
+T133	Place 28484 28490	Bosnia
+T134	Organisation 28620 28624	NATO
+T135	Place 28691 28697	Europe
+T136	Organisation 28855 28859	NATO
+T137	Place 29300 29306	Europe
+T138	Place 29336 29342	Europe
+T139	Place 29392 29398	Europe
+T140	Organisation 29703 29707	NATO
+T141	Organisation 29717 29721	NATO
+T142	Place 29772 29778	Bosnia
+T143	Organisation 29827 29831	NATO
+T144	Place 30847 30852	Korea
+T145	Person 31361 31367	Lukacs
+T146	Place 31865 31871	Bosnia
+T147	Organisation 32404 32408	NATO
+T148	Organisation 32640 32644	NATO
+T149	Organisation 32646 32650	NATO
+T150	Place 32739 32745	Bosnia
+T151	Place 32817 32823	Greece
+T152	Place 32828 32834	Turkey
+T153	Organisation 32840 32844	NATO
+T154	Place 33245 33252	Bosnian
+T155	Place 33277 33283	Europe
+T156	Place 33339 33345	Europe
+T157	Place 33446 33454	American
+T158	Place 33496 33502	Europe
+T159	Place 33622 33628	Bosnia
+T160	Person 33766 33771	Kagan
+T161	Place 33855 33861	Bosnia
+T162	Person 34524 34530	Lukacs
+T163	Organisation 34751 34755	NATO
+T164	Organisation 35054 35058	NATO
+T165	Person 35377 35389	Ronald Steel
+T166	Organisation 35404 35408	NATO
+T167	Place 35423 35425	UN
+T168	Organisation 35585 35589	NATO
+T169	Organisation 35781 35785	NATO
+T170	Organisation 36027 36031	NATO
+T171	Organisation 36226 36230	NATO
+T172	Place 36510 36516	Europe
+T173	Place 36754 36760	Bosnia
+T174	Organisation 37452 37460	Congress
+T175	Person 37702 37707	Kagan
+T176	Place 38132 38140	American
+T177	Place 38337 38345	American
+T178	Place 38412 38418	Bosnia
+T179	Place 38515 38521	Europe
+T180	Place 38740 38746	Europe
+T181	Person 39133 39155	Charlayne Hunter-Gault
+T182	Place 39804 39808	Berg
+T183	Place 41501 41509	Montreal
+T184	Place 44300 44304	Berg
+T185	Person 44434 44446	David Gergen
+T186	Organisation 44503 44512	Microsoft
+T187	Person 44522 44532	Bill Gates
+T188	Place 49150 49157	Detroit
+T189	Organisation 54684 54690	Senate
+T190	Place 54755 54761	Bosnia
+T191	Place 54832 54838	Bosnia
+T192	Place 54851 54863	Capitol Hill
+T193	Person 55024 55034	Jim Lehrer

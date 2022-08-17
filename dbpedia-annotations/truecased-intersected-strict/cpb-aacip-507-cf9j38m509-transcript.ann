@@ -1,0 +1,164 @@
+T1	Person 32 42	Jim Lehrer
+T2	Person 172 182	Judd Gregg
+T3	Place 243 249	Israel
+T4	Person 370 384	John Feinstein
+T5	Person 468 472	Bush
+T6	Organisation 497 505	Congress
+T7	Person 856 868	Nancy Pelosi
+T8	Place 1033 1039	Israel
+T9	Person 1194 1200	Sharon
+T10	Place 1257 1262	Egypt
+T11	Person 1888 1894	Sharon
+T12	Person 1931 1935	Bush
+T13	Person 1939 1949	Washington
+T14	Place 2144 2157	United States
+T15	Place 2167 2180	United States
+T16	Place 2375 2382	Baqouba
+T17	Place 2451 2456	Mosul
+T18	Place 2561 2566	Mosul
+T19	Place 2724 2728	Iraq
+T20	Person 3097 3102	Annan
+T21	Place 3178 3182	Iraq
+T22	Place 3312 3316	Iraq
+T23	Place 3465 3478	Massachusetts
+T24	Person 3569 3581	Paul Shanley
+T25	Place 3964 3970	Boston
+T26	Organisation 4107 4126	Philadelphia Eagles
+T27	Organisation 4177 4188	New England
+T28	Person 4379 4385	Conrad
+T29	Place 4389 4400	Middle East
+T30	Person 4486 4490	Bush
+T31	Place 4649 4655	Kansas
+T32	Person 4667 4675	Jim Ryun
+T33	Person 5037 5050	Ronald Reagan
+T34	Person 5115 5119	Bush
+T35	Organisation 5321 5329	Congress
+T36	Organisation 5490 5498	Congress
+T37	Organisation 5772 5778	Senate
+T38	Person 5797 5807	Harry Reid
+T39	Person 5984 5995	Josh Bolten
+T40	Person 6032 6036	Bush
+T41	Organisation 6210 6218	Congress
+T42	Organisation 6319 6327	Congress
+T43	Organisation 6812 6820	Congress
+T44	Organisation 7861 7869	Congress
+T45	Organisation 7945 7951	Amtrak
+T46	Person 8059 8070	John Spratt
+T47	Place 8074 8088	South Carolina
+T48	Place 8751 8762	Afghanistan
+T49	Organisation 9103 9111	Congress
+T50	Place 9570 9582	North Dakota
+T51	Organisation 10090 10096	Senate
+T52	Person 10133 10148	Margaret Warner
+T53	Organisation 10258 10264	Senate
+T54	Person 10359 10369	Judd Gregg
+T55	Place 10373 10386	New Hampshire
+T56	Place 10459 10471	North Dakota
+T57	Person 11269 11275	Conrad
+T58	Place 12961 12972	Afghanistan
+T59	Place 13108 13120	North Dakota
+T60	Person 14640 14646	Conrad
+T61	Person 17389 17395	Conrad
+T62	Organisation 19299 19305	Amtrak
+T63	Organisation 19361 19373	Capitol Hill
+T64	Person 19537 19543	Conrad
+T65	Place 19588 19600	North Dakota
+T66	Organisation 19880 19888	Congress
+T67	Person 20498 20504	Conrad
+T68	Person 21033 21039	Conrad
+T69	Person 24750 24756	Conrad
+T70	Organisation 24937 24945	Congress
+T71	Organisation 24954 24960	Senate
+T72	Person 25792 25798	Conrad
+T73	Place 25952 25963	Middle East
+T74	Place 26066 26077	Middle East
+T75	Person 26086 26096	Ray Suarez
+T76	Place 26124 26130	Israel
+T77	Person 26149 26161	Ariel Sharon
+T78	Person 26167 26180	Mahmoud Abbas
+T79	Place 26217 26238	Palestinian Authority
+T80	Place 26340 26345	Egypt
+T81	Place 26749 26758	Jerusalem
+T82	Place 26884 26897	United States
+T83	Place 26901 26912	Middle East
+T84	Person 27217 27230	Mahmoud Abbas
+T85	Place 27464 27477	United States
+T86	Place 27737 27750	United States
+T87	Place 27855 27864	Jerusalem
+T88	Place 27869 27877	Ramallah
+T89	Place 28148 28161	United States
+T90	Place 28205 28211	Israel
+T91	Person 29010 29023	Yasser Arafat
+T92	Place 29283 29287	Gaza
+T93	Person 29438 29451	Mahmoud Abbas
+T94	Place 29646 29659	United States
+T95	Person 29758 29771	Mahmoud Abbas
+T96	Person 30261 30274	Mahmoud Abbas
+T97	Place 30456 30462	Israel
+T98	Organisation 30471 30476	Hamas
+T99	Person 30654 30667	Mahmoud Abbas
+T100	Person 31569 31576	Mubarak
+T101	Person 31586 31594	Abdullah
+T102	Place 31598 31603	Egypt
+T103	Place 31608 31614	Jordan
+T104	Person 31664 31676	Ariel Sharon
+T105	Person 31872 31884	Ariel Sharon
+T106	Place 32197 32210	United States
+T107	Place 32432 32445	United States
+T108	Person 32850 32857	Mubarak
+T109	Person 32887 32894	Mubarak
+T110	Person 33059 33066	Mubarak
+T111	Person 33279 33292	Susan Dentzer
+T112	Organisation 34915 34936	Institute Of Medicine
+T113	Organisation 35294 35315	Institute Of Medicine
+T114	Person 36903 36915	James Bagian
+T115	Organisation 42857 42865	Congress
+T116	Person 43511 43524	Terence Smith
+T117	Place 43812 43824	Philadelphia
+T118	Place 43849 43861	Philadelphia
+T119	Organisation 43968 43975	England
+T120	Person 44024 44038	Donovan Mcnabb
+T121	Place 44319 44332	United States
+T122	Person 44707 44724	Justin Timberlake
+T123	Organisation 44805 44808	Nfl
+T124	Organisation 44853 44861	Congress
+T125	Organisation 45165 45171	Senate
+T126	Person 45443 45457	John Feinstein
+T127	Organisation 45593 45596	Nfl
+T128	Person 45604 45618	Paul Tagliabue
+T129	Organisation 45870 45889	Philadelphia Eagles
+T130	Person 45908 45921	Terrell Owens
+T131	Organisation 46059 46078	Philadelphia Eagles
+T132	Organisation 46199 46202	Nfl
+T133	Person 46328 46342	Paul Tagliabue
+T134	Organisation 46580 46583	Nfl
+T135	Person 46680 46690	Diana Ross
+T136	Person 46843 46860	Justin Timberlake
+T137	Organisation 46919 46922	Cbs
+T138	Organisation 46986 46989	Nfl
+T139	Person 47044 47058	Paul Mccartney
+T140	Organisation 47176 47179	Nfl
+T141	Organisation 47444 47447	Nfl
+T142	Organisation 47461 47464	Fox
+T143	Person 47529 47542	Mickey Rooney
+T144	Organisation 47630 47633	Fox
+T145	Person 47726 47740	Michael Powell
+T146	Organisation 47997 48000	Nfl
+T147	Organisation 48143 48146	Nfl
+T148	Person 48278 48292	John Feinstein
+T149	Organisation 48461 48464	Nfl
+T150	Organisation 48647 48650	Nfl
+T151	Person 49606 49620	Bill Belichick
+T152	Organisation 49875 49878	Nfl
+T153	Person 50283 50297	Vince Lombardi
+T154	Organisation 50407 50410	Nfl
+T155	Person 50857 50866	Tom Brady
+T156	Person 50990 51001	Troy Aikman
+T157	Organisation 51317 51320	Nfl
+T158	Person 52331 52342	Scott Pioli
+T159	Person 52546 52555	Belichick
+T160	Person 52924 52938	John Feinstein
+T161	Person 53072 53076	Bush
+T162	Organisation 53108 53116	Congress
+T163	Place 53155 53161	Israel
+T164	Person 53334 53344	Jim Lehrer

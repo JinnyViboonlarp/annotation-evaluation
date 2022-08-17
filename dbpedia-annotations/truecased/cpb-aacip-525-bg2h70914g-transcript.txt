@@ -1,0 +1,196 @@
+T1	Person 173 186	Judy Woodruff
+T2	Person 208 218	Gwen ifill
+T3	Place 302 309	Lebanon
+T4	Place 486 492	Greece
+T5	Person 814 821	lincoln
+T6	Organisation 957 975	Hewlett Foundation
+T7	Organisation 1131 1166	Corporation For Public Broadcasting
+T8	Person 2022 2026	Ford
+T9	Place 2240 2248	java sea
+T10	Organisation 2455 2463	Air Asia
+T11	Place 2479 2487	Surabaya
+T12	Place 2491 2500	Singapore
+T13	Organisation 2553 2560	Airasia
+T14	Place 2598 2607	Indonesia
+T15	Place 3029 3036	Nigeria
+T16	Place 3165 3169	Chad
+T17	Place 3403 3409	Canada
+T18	Place 3436 3443	Midwest
+T19	Place 3498 3507	Minnesota
+T20	Place 3512 3521	Wisconsin
+T21	Place 3652 3663	New England
+T22	Place 4275 4288	austrian alps
+T23	Place 5110 5115	Egypt
+T24	Place 5223 5228	Cairo
+T25	Place 5373 5378	Egypt
+T26	Place 5508 5514	Boston
+T27	Place 5566 5573	Lebanon
+T28	Person 5663 5673	Washington
+T29	Person 5850 5863	Edward Brooke
+T30	Place 5960 5966	Boston
+T31	Place 6025 6031	Boston
+T32	Place 6684 6690	Boston
+T33	Place 6900 6909	watertown
+T34	Place 7046 7055	watertown
+T35	Place 7449 7455	Boston
+T36	Place 8004 8010	Boston
+T37	Place 8535 8548	Massachusetts
+T38	Person 8594 8602	Tsarnaev
+T39	Place 10783 10789	Boston
+T40	Place 11196 11202	Boston
+T41	Organisation 11203 11218	marathon sports
+T42	Place 11579 11585	Boston
+T43	Organisation 11658 11668	Wgbh Radio
+T44	Place 11725 11736	Middle East
+T45	Place 11804 11823	lebanese government
+T46	Place 12256 12263	Lebanon
+T47	Place 12280 12286	Turkey
+T48	Place 12288 12294	Jordan
+T49	Place 12325 12329	Iraq
+T50	Person 12443 12458	Margaret Warner
+T51	Place 12535 12542	Lebanon
+T52	Place 12571 12578	Lebanon
+T53	Place 12705 12712	Lebanon
+T54	Place 12850 12857	Lebanon
+T55	Place 13103 13111	lebanese
+T56	Place 13217 13225	lebanese
+T57	Organisation 13362 13371	Hezbollah
+T58	Place 13538 13545	Lebanon
+T59	Place 13679 13686	Lebanon
+T60	Place 13874 13882	Damascus
+T61	Place 14163 14170	Lebanon
+T62	Place 14529 14535	Beirut
+T63	Place 14547 14554	Lebanon
+T64	Place 14845 14852	Lebanon
+T65	Place 15185 15204	lebanese government
+T66	Place 15312 15320	lebanese
+T67	Place 15706 15710	Iraq
+T68	Place 15715 15721	Jordan
+T69	Place 15800 15804	Iraq
+T70	Place 15897 15901	Iraq
+T71	Place 15903 15909	Turkey
+T72	Place 15956 15963	Lebanon
+T73	Place 16389 16402	United States
+T74	Organisation 16499 16505	Senate
+T75	Organisation 16576 16584	Congress
+T76	Place 16846 16854	New York
+T77	Person 16871 16884	Michael Grimm
+T78	Organisation 16890 16896	Senate
+T79	Place 17341 17347	Arkadi
+T80	Organisation 17517 17525	Congress
+T81	Organisation 17817 17841	House Of Representatives
+T82	Organisation 17875 17881	Senate
+T83	Place 18152 18158	Arkadi
+T84	Organisation 19450 19456	Senate
+T85	Organisation 19599 19605	Senate
+T86	Organisation 20848 20856	Congress
+T87	Organisation 20876 20884	Congress
+T88	Place 21263 21269	Arkadi
+T89	Person 21787 21792	Putin
+T90	Place 22105 22111	Kuwait
+T91	Person 22221 22230	Rand Paul
+T92	Place 22427 22435	New York
+T93	Place 22905 22913	Missouri
+T94	Place 23004 23010	Arkadi
+T95	Organisation 23236 23239	Sky
+T96	Place 24674 24680	Arkadi
+T97	Place 24886 24892	Europe
+T98	Person 24911 24924	Jeffrey Brown
+T99	Place 25083 25089	Greece
+T100	Organisation 25102 25108	syriza
+T101	Place 25369 25375	Greece
+T102	Place 25454 25460	Greece
+T103	Place 25534 25540	Greece
+T104	Place 25573 25579	Europe
+T105	Person 25921 25934	Angela Merkel
+T106	Place 26067 26074	Germany
+T107	Place 26317 26323	Greece
+T108	Person 26587 26601	Kenneth Rogoff
+T109	Place 26674 26680	Europe
+T110	Person 28099 28113	Kenneth Rogoff
+T111	Place 28126 28132	Greece
+T112	Place 28156 28162	Greece
+T113	Place 28295 28301	Greece
+T114	Place 28596 28602	Greece
+T115	Place 28613 28619	Greece
+T116	Place 28720 28728	Portugal
+T117	Place 28729 28734	Spain
+T118	Place 28736 28743	Ireland
+T119	Place 28848 28855	Germany
+T120	Place 28883 28889	France
+T121	Place 28894 28899	Italy
+T122	Place 29345 29351	Greece
+T123	Place 29592 29598	Greece
+T124	Place 29946 29952	Greece
+T125	Place 30109 30115	Greece
+T126	Place 30196 30202	greeks
+T127	Person 30356 30370	Kenneth Rogoff
+T128	Place 30744 30757	United States
+T129	Place 30806 30812	Europe
+T130	Place 31069 31075	Europe
+T131	Place 31077 31083	Greece
+T132	Place 31230 31236	Europe
+T133	Place 31423 31429	Europe
+T134	Person 32105 32119	Kenneth Rogoff
+T135	Place 32229 32233	Ohio
+T136	Person 32414 32430	Hari Sreenivasan
+T137	Place 32520 32524	Ohio
+T138	Person 32572 32585	leelah alcorn
+T139	Person 32617 32623	Joshua
+T140	Organisation 33391 33394	Cnn
+T141	Place 34579 34587	Michigan
+T142	Person 34711 34724	leelah alcorn
+T143	Organisation 36895 36900	pflag
+T144	Organisation 38910 38915	pflag
+T145	Person 39238 39251	Edward Brooke
+T146	Place 39386 39399	Massachusetts
+T147	Place 39467 39480	Massachusetts
+T148	Place 39602 39608	Boston
+T149	Organisation 39826 39832	Senate
+T150	Place 40233 40246	Massachusetts
+T151	Place 40277 40280	hnd
+T152	Person 40373 40386	Richard Nixon
+T153	Person 40506 40511	Nixon
+T154	Organisation 40581 40587	Senate
+T155	Person 40710 40723	Edward Brooke
+T156	Place 40775 40782	Florida
+T157	Person 40856 40869	Adrian Walker
+T158	Place 41265 41278	Massachusetts
+T159	Person 41343 41363	Richard Norton Smith
+T160	Person 41421 41434	Edward Brooke
+T161	Organisation 41453 41459	Senate
+T162	Person 41486 41499	Edward Brooke
+T163	Organisation 42230 42236	Senate
+T164	Organisation 42276 42282	Senate
+T165	Organisation 42534 42546	grand rapids
+T166	Person 42618 42631	Adrian Walker
+T167	Person 42674 42687	Edward Brooke
+T168	Organisation 43438 43444	Senate
+T169	Person 43772 43785	Richard Nixon
+T170	Person 43836 43841	Nixon
+T171	Organisation 43842 43848	Senate
+T172	Person 43924 43929	Nixon
+T173	Person 43976 43981	Nixon
+T174	Organisation 44162 44168	Senate
+T175	Place 44383 44396	Massachusetts
+T176	Place 44854 44863	Minnesota
+T177	Person 45056 45069	Edward Brooke
+T178	Person 45248 45263	Barry Goldwater
+T179	Person 45278 45292	Lyndon Johnson
+T180	Person 45326 45339	Edward Brooke
+T181	Place 45456 45469	Massachusetts
+T182	Person 45573 45580	Webster
+T183	Person 45611 45624	Edward Brooke
+T184	Place 46607 46613	Boston
+T185	Place 46802 46809	Lebanon
+T186	Place 46962 46969	Lebanon
+T187	Place 47510 47515	Earth
+T188	Person 47612 47625	Judy Woodruff
+T189	Person 47635 47645	Gwen ifill
+T190	Person 47835 47842	lincoln
+T191	Organisation 47973 47989	Sloan foundation
+T192	Organisation 48206 48241	Corporation For Public Broadcasting
+T193	Person 48468 48482	Tyler Mathisen
+T194	Person 48487 48497	sue Herera
+T195	Person 49060 49070	Sue Herera
+T196	Person 49081 49095	Tyler Mathisen

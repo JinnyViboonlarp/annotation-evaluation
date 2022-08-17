@@ -1,0 +1,140 @@
+T1	Person 172 182	judd gregg
+T2	Person 187 198	kent conrad
+T3	Place 258 270	palestinians
+T4	Person 370 384	john feinstein
+T5	Person 856 868	nancy pelosi
+T6	Place 909 913	iraq
+T7	Place 1048 1060	palestinians
+T8	Place 1660 1672	palestinians
+T9	Person 1939 1949	washington
+T10	Place 2375 2382	baqouba
+T11	Place 2451 2456	mosul
+T12	Place 2561 2566	mosul
+T13	Place 2724 2728	iraq
+T14	Place 3178 3182	iraq
+T15	Place 3312 3316	iraq
+T16	Place 3465 3478	massachusetts
+T17	Person 3569 3573	paul
+T18	Place 3964 3970	boston
+T19	Organisation 4107 4126	philadelphia eagles
+T20	Organisation 4147 4159	jacksonville
+T21	Organisation 4197 4200	nfl
+T22	Place 4649 4655	kansas
+T23	Person 5037 5050	ronald reagan
+T24	Person 5797 5807	harry reid
+T25	Organisation 7945 7951	amtrak
+T26	Person 8059 8070	john spratt
+T27	Place 8074 8088	south carolina
+T28	Place 8742 8746	iraq
+T29	Place 9570 9582	north dakota
+T30	Person 9585 9596	kent conrad
+T31	Person 10133 10148	margaret warner
+T32	Person 10359 10369	judd gregg
+T33	Place 10377 10386	hampshire
+T34	Person 10444 10455	kent conrad
+T35	Place 10459 10471	north dakota
+T36	Place 12939 12943	iraq
+T37	Place 12953 12957	iraq
+T38	Place 13108 13120	north dakota
+T39	Organisation 19299 19305	amtrak
+T40	Organisation 19361 19373	capitol hill
+T41	Place 19588 19600	north dakota
+T42	Person 26086 26096	ray suarez
+T43	Person 26149 26161	ariel sharon
+T44	Person 26167 26180	mahmoud abbas
+T45	Place 26217 26238	palestinian authority
+T46	Place 26323 26338	sharm-el-sheikh
+T47	Person 26479 26495	condoleezza rice
+T48	Place 26598 26607	u.s. army
+T49	Place 26655 26667	palestinians
+T50	Place 26749 26758	jerusalem
+T51	Place 26956 26968	palestinians
+T52	Person 27217 27230	mahmoud abbas
+T53	Place 27251 27262	palestinian
+T54	Place 27855 27864	jerusalem
+T55	Place 27869 27877	ramallah
+T56	Place 28037 28048	palestinian
+T57	Place 28067 28079	palestinians
+T58	Place 28377 28389	palestinians
+T59	Place 28717 28729	palestinians
+T60	Place 28813 28825	palestinians
+T61	Person 29010 29023	yasser arafat
+T62	Place 29234 29246	palestinians
+T63	Place 29283 29287	gaza
+T64	Person 29438 29451	mahmoud abbas
+T65	Person 29758 29771	mahmoud abbas
+T66	Person 30261 30274	mahmoud abbas
+T67	Place 30387 30399	palestinians
+T68	Organisation 30471 30476	hamas
+T69	Place 30570 30582	palestinians
+T70	Person 30654 30667	mahmoud abbas
+T71	Place 30872 30887	sharm el-sheikh
+T72	Place 31154 31166	palestinians
+T73	Person 31581 31594	king abdullah
+T74	Person 31664 31676	ariel sharon
+T75	Person 31872 31884	ariel sharon
+T76	Place 32299 32311	palestinians
+T77	Place 32494 32506	palestinians
+T78	Person 33279 33292	susan dentzer
+T79	Organisation 33423 33447	kaiser family foundation
+T80	Person 33585 33595	washington
+T81	Person 35851 35865	robert wachter
+T82	Place 35887 35897	california
+T83	Place 35901 35914	san francisco
+T84	Person 36903 36915	james bagian
+T85	Organisation 36997 37001	nasa
+T86	Person 40229 40239	washington
+T87	Person 42202 42212	washington
+T88	Person 43511 43524	terence smith
+T89	Place 43812 43824	philadelphia
+T90	Place 43849 43861	philadelphia
+T91	Person 43905 43915	greg lewis
+T92	Person 44024 44038	donovan mcnabb
+T93	Organisation 44498 44504	beatle
+T94	Person 44505 44509	paul
+T95	Person 44707 44724	justin timberlake
+T96	Organisation 44805 44808	nfl
+T97	Person 45443 45457	john feinstein
+T98	Organisation 45493 45509	baltimore ravens
+T99	Organisation 45593 45596	nfl
+T100	Person 45604 45608	paul
+T101	Organisation 45870 45889	philadelphia eagles
+T102	Person 45908 45921	terrell owens
+T103	Organisation 46059 46078	philadelphia eagles
+T104	Organisation 46199 46202	nfl
+T105	Person 46328 46332	paul
+T106	Organisation 46580 46583	nfl
+T107	Person 46680 46690	diana ross
+T108	Person 46843 46860	justin timberlake
+T109	Organisation 46919 46922	cbs
+T110	Organisation 46986 46989	nfl
+T111	Person 47044 47048	paul
+T112	Organisation 47176 47179	nfl
+T113	Organisation 47444 47447	nfl
+T114	Person 47529 47542	mickey rooney
+T115	Person 47726 47740	michael powell
+T116	Organisation 47997 48000	nfl
+T117	Organisation 48143 48146	nfl
+T118	Person 48248 48261	terence smith
+T119	Person 48278 48292	john feinstein
+T120	Organisation 48461 48464	nfl
+T121	Organisation 48647 48650	nfl
+T122	Organisation 49014 49018	blip
+T123	Person 49606 49620	bill belichick
+T124	Organisation 49875 49878	nfl
+T125	Organisation 50262 50279	green bay packers
+T126	Person 50283 50297	vince lombardi
+T127	Organisation 50407 50410	nfl
+T128	Device 50480 50490	remarkable
+T129	Person 50857 50866	tom brady
+T130	Person 50959 50973	peyton manning
+T131	Person 50990 51001	troy aikman
+T132	Organisation 51317 51320	nfl
+T133	Organisation 51325 51344	washington redskins
+T134	Person 52331 52342	scott pioli
+T135	Person 52368 52382	bill belichick
+T136	Person 52505 52516	scott pioli
+T137	Place 52812 52821	cleveland
+T138	Person 52924 52938	john feinstein
+T139	Place 53170 53182	palestinians
+T140	Place 53270 53274	iraq
